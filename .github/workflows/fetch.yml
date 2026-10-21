@@ -1,8 +1,8 @@
 name: Hae ottelutilastot
 on:
   schedule:
-    - cron: "10 22 * * *"   # pelipäivän jälkeen (klo 0.10 Suomen talviaikaa)
-    - cron: "30 4 * * *"    # aamulla uusinta + päivän tuomarit (klo 6.30 talviaikaa)
+    - cron: "10 22 * * *"
+    - cron: "30 4 * * *"
   workflow_dispatch:
     inputs:
       date:
@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Hae data
-        run: python scripts/fetch_api_football.py
+        run: python scripts/scripts/fetch_api_football.py
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           DATE: ${{ inputs.date }}
