@@ -1,0 +1,142 @@
+{
+ "run_utc": "2026-10-21T23:13:11",
+ "calls": 12,
+ "remaining": null,
+ "errors": [
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 2,
+    "season": 2026,
+    "date": "2026-10-21"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 3,
+    "season": 2026,
+    "date": "2026-10-21"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 848,
+    "season": 2026,
+    "date": "2026-10-21"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 39,
+    "season": 2026,
+    "date": "2026-10-21"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 2,
+    "season": 2026,
+    "date": "2026-10-21"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 3,
+    "season": 2026,
+    "date": "2026-10-21"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 848,
+    "season": 2026,
+    "date": "2026-10-21"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 39,
+    "season": 2026,
+    "date": "2026-10-21"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 2,
+    "season": 2026,
+    "date": "2026-10-22"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 3,
+    "season": 2026,
+    "date": "2026-10-22"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 848,
+    "season": 2026,
+    "date": "2026-10-22"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  },
+  {
+   "path": "fixtures",
+   "params": {
+    "league": 39,
+    "season": 2026,
+    "date": "2026-10-22"
+   },
+   "errors": {
+    "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+   }
+  }
+ ],
+ "date": "2026-10-21",
+ "played": 0,
+ "upcoming": 0
+}
