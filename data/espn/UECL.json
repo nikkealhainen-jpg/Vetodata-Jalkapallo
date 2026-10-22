@@ -9,6 +9,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 13,
   "corners_h": 6,
   "shots_h": 20,
@@ -27,14 +28,8 @@
   "red_a": 0,
   "offsides_a": 0,
   "saves_a": 4,
-  "cards": 2,
+  "cards": 1,
   "card_events": [
-   [
-    "Giacomo Raspadori",
-    "home",
-    "red",
-    "18'"
-   ],
    [
     null,
     "away",
@@ -161,6 +156,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 8,
   "corners_h": 2,
   "shots_h": 18,
@@ -179,14 +175,8 @@
   "red_a": 0,
   "offsides_a": 0,
   "saves_a": 7,
-  "cards": 4,
+  "cards": 3,
   "card_events": [
-   [
-    "Marc Gual",
-    "away",
-    "red",
-    "5'"
-   ],
    [
     "Jaakko Oksanen",
     "away",
@@ -349,6 +339,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 9,
   "corners_h": 5,
   "shots_h": 18,
@@ -367,7 +358,7 @@
   "red_a": 0,
   "offsides_a": 0,
   "saves_a": 2,
-  "cards": 8,
+  "cards": 7,
   "card_events": [
    [
     "Vasilije Kostov",
@@ -403,12 +394,6 @@
     null,
     "away",
     "yellow",
-    "89'"
-   ],
-   [
-    "Anto Grgic",
-    "home",
-    "red",
     "89'"
    ],
    [
@@ -601,6 +586,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 12,
   "corners_h": 17,
   "shots_h": 19,
@@ -771,6 +757,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 19,
   "corners_h": 5,
   "shots_h": 23,
@@ -975,6 +962,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 24,
   "corners_h": 4,
   "shots_h": 20,
@@ -1103,6 +1091,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 14,
   "corners_h": 6,
   "shots_h": 20,
@@ -1311,6 +1300,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 6,
   "corners_h": 6,
   "shots_h": 22,
@@ -1477,6 +1467,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 15,
   "corners_h": 3,
   "shots_h": 9,
@@ -1629,6 +1620,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 11,
   "corners_h": 13,
   "shots_h": 35,
@@ -1815,6 +1807,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 14,
   "corners_h": 4,
   "shots_h": 12,
@@ -2007,6 +2000,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 13,
   "corners_h": 12,
   "shots_h": 21,
@@ -2187,6 +2181,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 19,
   "corners_h": 11,
   "shots_h": 31,
@@ -2205,7 +2200,7 @@
   "red_a": 0,
   "offsides_a": 0,
   "saves_a": 8,
-  "cards": 4,
+  "cards": 3,
   "card_events": [
    [
     "Sebastián Herrera",
@@ -2217,12 +2212,6 @@
     "Bart Meijers",
     "away",
     "yellow",
-    "10'"
-   ],
-   [
-    "Cyriel Dessers",
-    "home",
-    "red",
     "10'"
    ],
    [
@@ -2359,6 +2348,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 9,
   "corners_h": 6,
   "shots_h": 13,
@@ -2491,6 +2481,7 @@
   "ag": 4,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 13,
   "corners_h": 9,
   "shots_h": 15,
@@ -2693,6 +2684,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 12,
   "corners_h": 2,
   "shots_h": 12,
@@ -2855,6 +2847,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 10,
   "corners_h": 11,
   "shots_h": 22,
@@ -3027,6 +3020,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
+  "v": 2,
   "fouls_h": 20,
   "corners_h": 4,
   "shots_h": 14,
