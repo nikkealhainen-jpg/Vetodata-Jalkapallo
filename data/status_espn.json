@@ -1,17 +1,17 @@
 {
- "run_utc": "2026-10-22T09:00:18+00:00",
- "mode": "backfill",
- "calls": 696,
+ "run_utc": "2026-10-22T22:34:11+00:00",
+ "mode": "daily",
+ "calls": 92,
  "errors": [],
  "notes": [
   {
    "CL": 54,
-   "EL": 36,
-   "UECL": 18,
+   "EL": 54,
+   "UECL": 36,
    "PL": 70
   },
   {
-   "upcoming": 46
+   "upcoming": 10
   }
  ]
 }
