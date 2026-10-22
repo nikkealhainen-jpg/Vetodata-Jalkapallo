@@ -1,0 +1,54 @@
+{
+ "boxscore": [
+  "teams"
+ ],
+ "format": [
+  "regulation"
+ ],
+ "gameInfo": [
+  "venue",
+  "attendance",
+  "officials"
+ ],
+ "lastFiveGames": "list",
+ "leaders": "list",
+ "broadcasts": "list",
+ "pickcenter": "list",
+ "odds": "list",
+ "hasOdds": "bool",
+ "rosters": "list",
+ "news": [
+  "header",
+  "link",
+  "articles"
+ ],
+ "header": [
+  "id",
+  "uid",
+  "season",
+  "timeValid",
+  "competitions",
+  "links",
+  "league",
+  "linksv4"
+ ],
+ "videos": "list",
+ "keyEvents": "list",
+ "commentary": "list",
+ "wallclockAvailable": "bool",
+ "meta": [
+  "gp_topic",
+  "gameSwitcherEnabled",
+  "picker_topic",
+  "lastUpdatedAt",
+  "firstPlayWallClock",
+  "lastPlayWallClock",
+  "gameState",
+  "syncUrl"
+ ],
+ "standings": [
+  "fullViewLink",
+  "header",
+  "groups"
+ ]
+}

@@ -1,0 +1,12590 @@
+{
+ "401879301": {
+  "id": "401879301",
+  "comp": "PL",
+  "date": "2026-08-21",
+  "home": "Arsenal",
+  "away": "Coventry City",
+  "hg": 3,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 10,
+  "corners_h": 8,
+  "shots_h": 20,
+  "sot_h": 6,
+  "poss_h": 64.5,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 5,
+  "saves_h": 1,
+  "fouls_a": 13,
+  "corners_a": 2,
+  "shots_a": 4,
+  "sot_a": 1,
+  "poss_a": 35.5,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 2,
+  "cards": 2,
+  "card_events": [
+   [
+    "Caleb Yirenkyi",
+    "away",
+    "yellow",
+    "27'"
+   ],
+   [
+    "Gabriel Magalhães",
+    "home",
+    "yellow",
+    "34'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Thomas Bramall",
+  "shooters": [
+   [
+    "Christos Tzolis",
+    "home",
+    4.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Martin Ødegaard",
+    "home",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Bukayo Saka",
+    "home",
+    3.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Declan Rice",
+    "home",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Mikel Merino",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Loum Tchaouna",
+    "away",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Gabriel Magalhães",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Riccardo Calafiori",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Ben White",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Myles Lewis-Skelly",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Kai Havertz",
+    "home",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Eberechi Eze",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Bobby Thomas",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Jack Rudoni",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879298": {
+  "id": "401879298",
+  "comp": "PL",
+  "date": "2026-08-22",
+  "home": "Nottingham Forest",
+  "away": "Leeds United",
+  "hg": 0,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 15,
+  "corners_h": 3,
+  "shots_h": 12,
+  "sot_h": 2,
+  "poss_h": 55.2,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 2,
+  "fouls_a": 14,
+  "corners_a": 2,
+  "shots_a": 11,
+  "sot_a": 3,
+  "poss_a": 44.8,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 3,
+  "saves_a": 3,
+  "cards": 3,
+  "card_events": [
+   [
+    "Ola Aina",
+    "home",
+    "yellow",
+    "18'"
+   ],
+   [
+    "Dominic Calvert-Lewin",
+    "away",
+    "yellow",
+    "32'"
+   ],
+   [
+    "Jair Paula",
+    "home",
+    "yellow",
+    "52'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Robert Jones",
+  "shooters": [
+   [
+    "Igor Jesus",
+    "home",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Morgan Gibbs-White",
+    "home",
+    3.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Anton Stach",
+    "away",
+    3.0,
+    1.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Dominic Calvert-Lewin",
+    "away",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Nikola Milenkovic",
+    "home",
+    2.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Ola Aina",
+    "home",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Jaka Bijol",
+    "away",
+    2.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Ibrahim Sangaré",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Chris Wood",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Tarik Muharemovic",
+    "away",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Joe Rodon",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Brenden Aaronson",
+    "away",
+    1.0,
+    1.0,
+    "CF-L",
+    true
+   ]
+  ]
+ },
+ "401879299": {
+  "id": "401879299",
+  "comp": "PL",
+  "date": "2026-08-22",
+  "home": "Ipswich Town",
+  "away": "Sunderland",
+  "hg": 2,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 12,
+  "corners_h": 3,
+  "shots_h": 10,
+  "sot_h": 3,
+  "poss_h": 37.5,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 2,
+  "fouls_a": 14,
+  "corners_a": 5,
+  "shots_a": 11,
+  "sot_a": 4,
+  "poss_a": 62.5,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 4,
+  "saves_a": 1,
+  "cards": 3,
+  "card_events": [
+   [
+    "Danny Ballard",
+    "away",
+    "yellow",
+    "36'"
+   ],
+   [
+    "Nilson Angulo",
+    "away",
+    "yellow",
+    "55'"
+   ],
+   [
+    "Luke O'Nien",
+    "away",
+    "yellow",
+    "63'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Farai Hallam",
+  "shooters": [
+   [
+    "Julio Enciso",
+    "home",
+    3.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Emersonn",
+    "home",
+    3.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Jack Clarke",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Thomas Meunier",
+    "away",
+    2.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Brian Brobbey",
+    "away",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Nilson Angulo",
+    "away",
+    2.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Trai Hume",
+    "away",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Marcelino Núñez",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Daizen Maeda",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Luke O'Nien",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Noah Sadiki",
+    "away",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Habib Diarra",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879300": {
+  "id": "401879300",
+  "comp": "PL",
+  "date": "2026-08-22",
+  "home": "Everton",
+  "away": "Crystal Palace",
+  "hg": 2,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 5,
+  "corners_h": 4,
+  "shots_h": 16,
+  "sot_h": 5,
+  "poss_h": 42.1,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 4,
+  "fouls_a": 15,
+  "corners_a": 0,
+  "shots_a": 11,
+  "sot_a": 4,
+  "poss_a": 57.9,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 3,
+  "cards": 1,
+  "card_events": [
+   [
+    "Daichi Kamada",
+    "away",
+    "yellow",
+    "30'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Paul Tierney",
+  "shooters": [
+   [
+    "Tyrique George",
+    "home",
+    5.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Kiernan Dewsbury-Hall",
+    "home",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Thierno Barry",
+    "home",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Iliman Ndiaye",
+    "home",
+    2.0,
+    2.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Daniel Muñoz",
+    "away",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Jean-Philippe Mateta",
+    "away",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Yéremy Pino",
+    "away",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "James Tarkowski",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Hayden Hackney",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Beto",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Charly Alcaraz",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jaydee Canvot",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Eddie Nketiah",
+    "away",
+    1.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Dwight McNeil",
+    "away",
+    1.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Jørgen Strand Larsen",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Evann Guessand",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879321": {
+  "id": "401879321",
+  "comp": "PL",
+  "date": "2026-08-22",
+  "home": "Brentford",
+  "away": "Tottenham Hotspur",
+  "hg": 3,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 17,
+  "corners_h": 7,
+  "shots_h": 26,
+  "sot_h": 8,
+  "poss_h": 41.1,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 4,
+  "fouls_a": 14,
+  "corners_a": 3,
+  "shots_a": 9,
+  "sot_a": 4,
+  "poss_a": 58.9,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 5,
+  "cards": 2,
+  "card_events": [
+   [
+    "Conor Gallagher",
+    "away",
+    "yellow",
+    "34'"
+   ],
+   [
+    "Vitaly Janelt",
+    "home",
+    "yellow",
+    "78'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Michael Oliver",
+  "shooters": [
+   [
+    "Kevin Schade",
+    "home",
+    5.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Michael Kayode",
+    "home",
+    4.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Mikey Moore",
+    "away",
+    3.0,
+    3.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Nathan Collins",
+    "home",
+    2.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Keane Lewis-Potter",
+    "home",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Mathias Jensen",
+    "home",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Vitaly Janelt",
+    "home",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Igor Thiago",
+    "home",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Dango Ouattara",
+    "home",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Sandro Tonali",
+    "away",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Mathys Tel",
+    "away",
+    2.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Kristoffer Ajer",
+    "home",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Mamadou Sangare",
+    "home",
+    1.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Callum Wilson",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jaidon Anthony",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Yehor Yarmoliuk",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Conor Gallagher",
+    "away",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Dominic Solanke",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879322": {
+  "id": "401879322",
+  "comp": "PL",
+  "date": "2026-08-22",
+  "home": "Hull City",
+  "away": "Manchester United",
+  "hg": 2,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 10,
+  "corners_h": 1,
+  "shots_h": 8,
+  "sot_h": 4,
+  "poss_h": 28.5,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 5,
+  "fouls_a": 9,
+  "corners_a": 6,
+  "shots_a": 21,
+  "sot_a": 5,
+  "poss_a": 71.5,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 3,
+  "saves_a": 2,
+  "cards": 3,
+  "card_events": [
+   [
+    "Patrick Dorgu",
+    "away",
+    "yellow",
+    "34'"
+   ],
+   [
+    "Matt Crooks",
+    "home",
+    "yellow",
+    "42'"
+   ],
+   [
+    "Liam Millar",
+    "home",
+    "yellow",
+    "90'+6'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Darren England",
+  "shooters": [
+   [
+    "Bryan Mbeumo",
+    "away",
+    4.0,
+    2.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Bruno Fernandes",
+    "away",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Matheus Cunha",
+    "away",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Patrick Dorgu",
+    "away",
+    3.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Mohamed Belloumi",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Oliver McBurnie",
+    "home",
+    2.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Ayden Heaven",
+    "away",
+    2.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Harry Maguire",
+    "away",
+    2.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Nobel Mendy",
+    "home",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Semi Ajayi",
+    "home",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Ryan Giles",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Cody Drameh",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Noussair Mazraoui",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Youri Tielemans",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Benjamin Sesko",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Kobbie Mainoo",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879297": {
+  "id": "401879297",
+  "comp": "PL",
+  "date": "2026-08-23",
+  "home": "Brighton & Hove Albion",
+  "away": "Aston Villa",
+  "hg": 4,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 12,
+  "corners_h": 5,
+  "shots_h": 21,
+  "sot_h": 6,
+  "poss_h": 72.9,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 6,
+  "saves_h": 0,
+  "fouls_a": 9,
+  "corners_a": 2,
+  "shots_a": 6,
+  "sot_a": 0,
+  "poss_a": 27.1,
+  "yellow_a": 3,
+  "red_a": 1,
+  "offsides_a": 2,
+  "saves_a": 3,
+  "cards": 6,
+  "card_events": [
+   [
+    "Pascal Gross",
+    "home",
+    "yellow",
+    "9'"
+   ],
+   [
+    "João Gomes",
+    "away",
+    "yellow",
+    "9'"
+   ],
+   [
+    "Yasin Ayari",
+    "home",
+    "yellow",
+    "11'"
+   ],
+   [
+    "John McGinn",
+    "away",
+    "yellow",
+    "33'"
+   ],
+   [
+    "João Gomes",
+    "away",
+    "red",
+    "40'"
+   ],
+   [
+    "Matty Cash",
+    "away",
+    "yellow",
+    "90'+5'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Peter Bankes",
+  "shooters": [
+   [
+    "Maxim De Cuyper",
+    "home",
+    4.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Jack Hinshelwood",
+    "home",
+    3.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Diego Gómez",
+    "home",
+    3.0,
+    2.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Emiliano Buendía",
+    "away",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Luka Vuskovic",
+    "home",
+    2.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Yasin Ayari",
+    "home",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Georginio Rutter",
+    "home",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Charalambos Kostoulas",
+    "home",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Costinha",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Mats Wieffer",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Ian Maatsen",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Ross Barkley",
+    "away",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "John McGinn",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ]
+  ]
+ },
+ "401879319": {
+  "id": "401879319",
+  "comp": "PL",
+  "date": "2026-08-23",
+  "home": "Newcastle United",
+  "away": "Liverpool",
+  "hg": 2,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 16,
+  "corners_h": 2,
+  "shots_h": 13,
+  "sot_h": 4,
+  "poss_h": 39.2,
+  "yellow_h": 5,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 5,
+  "fouls_a": 15,
+  "corners_a": 6,
+  "shots_a": 27,
+  "sot_a": 7,
+  "poss_a": 60.8,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 3,
+  "cards": 9,
+  "card_events": [
+   [
+    "Yoane Wissa",
+    "home",
+    "yellow",
+    "25'"
+   ],
+   [
+    "Milos Kerkez",
+    "away",
+    "yellow",
+    "30'"
+   ],
+   [
+    "Jeremie Frimpong",
+    "away",
+    "yellow",
+    "30'"
+   ],
+   [
+    "Lewis Miley",
+    "home",
+    "yellow",
+    "34'"
+   ],
+   [
+    "Jacob Ramsey",
+    "home",
+    "yellow",
+    "65'"
+   ],
+   [
+    "Jacob Murphy",
+    "home",
+    "yellow",
+    "79'"
+   ],
+   [
+    "Virgil van Dijk",
+    "away",
+    "yellow",
+    "90'"
+   ],
+   [
+    "Lukás Hornícek",
+    "home",
+    "yellow",
+    "90'+3'"
+   ],
+   [
+    "Dominik Szoboszlai",
+    "away",
+    "red",
+    "90'+9'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Stuart Attwell",
+  "shooters": [
+   [
+    "Cody Gakpo",
+    "away",
+    6.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Yoane Wissa",
+    "home",
+    4.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Alexander Isak",
+    "away",
+    4.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Florian Wirtz",
+    "away",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Dominik Szoboszlai",
+    "away",
+    3.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "William Osula",
+    "home",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Anthony Elanga",
+    "home",
+    2.0,
+    2.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Virgil van Dijk",
+    "away",
+    2.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Milos Kerkez",
+    "away",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Ryan Gravenberch",
+    "away",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Víctor Muñoz",
+    "away",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Amar Dedic",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Lewis Miley",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Harvey Barnes",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Jacob Ramsey",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Joe Willock",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jeremie Frimpong",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Rio Ngumoha",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Lewis Koumas",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879320": {
+  "id": "401879320",
+  "comp": "PL",
+  "date": "2026-08-23",
+  "home": "Manchester City",
+  "away": "AFC Bournemouth",
+  "hg": 2,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 11,
+  "corners_h": 8,
+  "shots_h": 13,
+  "sot_h": 6,
+  "poss_h": 66.1,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 3,
+  "fouls_a": 11,
+  "corners_a": 3,
+  "shots_a": 5,
+  "sot_a": 4,
+  "poss_a": 33.9,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 4,
+  "cards": 3,
+  "card_events": [
+   [
+    "Evanilson",
+    "away",
+    "yellow",
+    "45'+1'"
+   ],
+   [
+    "Phil Foden",
+    "home",
+    "yellow",
+    "78'"
+   ],
+   [
+    "António Silva",
+    "away",
+    "yellow",
+    "85'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Jarred Gillett",
+  "shooters": [
+   [
+    "Erling Haaland",
+    "home",
+    5.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Marc Guéhi",
+    "home",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Phil Foden",
+    "home",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Marcus Tavernier",
+    "away",
+    2.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Josko Gvardiol",
+    "home",
+    1.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Rico Lewis",
+    "home",
+    1.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Nico O'Reilly",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Antoine Semenyo",
+    "home",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Justin Kluivert",
+    "away",
+    1.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Rayan",
+    "away",
+    1.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Daniel Jebbison",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879318": {
+  "id": "401879318",
+  "comp": "PL",
+  "date": "2026-08-24",
+  "home": "Fulham",
+  "away": "Chelsea",
+  "hg": 2,
+  "ag": 3,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 12,
+  "corners_h": 6,
+  "shots_h": 14,
+  "sot_h": 6,
+  "poss_h": 61.5,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 3,
+  "fouls_a": 7,
+  "corners_a": 4,
+  "shots_a": 18,
+  "sot_a": 6,
+  "poss_a": 38.5,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 3,
+  "saves_a": 4,
+  "cards": 5,
+  "card_events": [
+   [
+    "Levi Colwill",
+    "away",
+    "yellow",
+    "5'"
+   ],
+   [
+    "Romeo Lavia",
+    "away",
+    "yellow",
+    "12'"
+   ],
+   [
+    "Reece James",
+    "away",
+    "yellow",
+    "75'"
+   ],
+   [
+    "Calvin Bassey",
+    "home",
+    "yellow",
+    "76'"
+   ],
+   [
+    "Timothy Castagne",
+    "home",
+    "yellow",
+    "88'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "John Brooks",
+  "shooters": [
+   [
+    "Cole Palmer",
+    "away",
+    5.0,
+    2.0,
+    "CF-R",
+    true
+   ],
+   [
+    "João Pedro",
+    "away",
+    4.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Josh King",
+    "home",
+    3.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Gonzalo García",
+    "home",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Morgan Rogers",
+    "away",
+    3.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "César Palacios",
+    "home",
+    2.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Reece James",
+    "away",
+    2.0,
+    1.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Calvin Bassey",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Antonee Robinson",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Timothy Castagne",
+    "home",
+    1.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Sander Berge",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Ryan Sessegnon",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Rodrigo Muniz",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Levi Colwill",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Romeo Lavia",
+    "away",
+    1.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Jorrel Hato",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Pedro Neto",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879294": {
+  "id": "401879294",
+  "comp": "PL",
+  "date": "2026-08-28",
+  "home": "Crystal Palace",
+  "away": "Manchester City",
+  "hg": 1,
+  "ag": 4,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 8,
+  "corners_h": 2,
+  "shots_h": 9,
+  "sot_h": 1,
+  "poss_h": 27.8,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 4,
+  "fouls_a": 10,
+  "corners_a": 6,
+  "shots_a": 18,
+  "sot_a": 9,
+  "poss_a": 72.2,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 1,
+  "cards": 3,
+  "card_events": [
+   [
+    "Rayan Cherki",
+    "away",
+    "yellow",
+    "33'"
+   ],
+   [
+    "Elliot Anderson",
+    "away",
+    "yellow",
+    "55'"
+   ],
+   [
+    "Anan Khalaili",
+    "home",
+    "yellow",
+    "68'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Andy Madley",
+  "shooters": [
+   [
+    "Erling Haaland",
+    "away",
+    5.0,
+    3.0,
+    "F",
+    true
+   ],
+   [
+    "Rayan Cherki",
+    "away",
+    3.0,
+    3.0,
+    "AM",
+    true
+   ],
+   [
+    "Phil Foden",
+    "away",
+    3.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Tyrick Mitchell",
+    "home",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Eddie Nketiah",
+    "home",
+    2.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Elliot Anderson",
+    "away",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Antoine Semenyo",
+    "away",
+    2.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Chris Richards",
+    "home",
+    1.0,
+    1.0,
+    "CD",
+    true
+   ],
+   [
+    "Daichi Kamada",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Anan Khalaili",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Jørgen Strand Larsen",
+    "home",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Yéremy Pino",
+    "home",
+    1.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Rúben Dias",
+    "away",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Nico O'Reilly",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Ryan McAidoo",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879296": {
+  "id": "401879296",
+  "comp": "PL",
+  "date": "2026-08-29",
+  "home": "AFC Bournemouth",
+  "away": "Everton",
+  "hg": 1,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 11,
+  "corners_h": 10,
+  "shots_h": 17,
+  "sot_h": 5,
+  "poss_h": 58.5,
+  "yellow_h": 3,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 5,
+  "fouls_a": 14,
+  "corners_a": 7,
+  "shots_a": 13,
+  "sot_a": 7,
+  "poss_a": 41.5,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 4,
+  "cards": 5,
+  "card_events": [
+   [
+    "Alex Scott",
+    "home",
+    "yellow",
+    "21'"
+   ],
+   [
+    "Adam Smith",
+    "home",
+    "yellow",
+    "23'"
+   ],
+   [
+    "Marcus Tavernier",
+    "home",
+    "yellow",
+    "53'"
+   ],
+   [
+    "James Garner",
+    "away",
+    "yellow",
+    "59'"
+   ],
+   [
+    "Charly Alcaraz",
+    "away",
+    "yellow",
+    "90'+5'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Chris Kavanagh",
+  "shooters": [
+   [
+    "Rayan",
+    "home",
+    5.0,
+    2.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Justin Kluivert",
+    "home",
+    4.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Evanilson",
+    "home",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Thierno Barry",
+    "away",
+    3.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Alex Scott",
+    "home",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Marcus Tavernier",
+    "home",
+    2.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Kiernan Dewsbury-Hall",
+    "away",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Tyrique George",
+    "away",
+    2.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Iliman Ndiaye",
+    "away",
+    2.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "António Silva",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Jarrad Branthwaite",
+    "away",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "James Tarkowski",
+    "away",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Beto",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Charly Alcaraz",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879312": {
+  "id": "401879312",
+  "comp": "PL",
+  "date": "2026-08-29",
+  "home": "Tottenham Hotspur",
+  "away": "Newcastle United",
+  "hg": 0,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 15,
+  "corners_h": 9,
+  "shots_h": 17,
+  "sot_h": 6,
+  "poss_h": 57.5,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 0,
+  "fouls_a": 9,
+  "corners_a": 7,
+  "shots_a": 11,
+  "sot_a": 2,
+  "poss_a": 42.5,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 4,
+  "cards": 3,
+  "card_events": [
+   [
+    "Micky van de Ven",
+    "home",
+    "yellow",
+    "3'"
+   ],
+   [
+    "Nico González",
+    "away",
+    "yellow",
+    "13'"
+   ],
+   [
+    "Sven Botman",
+    "away",
+    "yellow",
+    "79'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Peter Bankes",
+  "shooters": [
+   [
+    "Pedro Porro",
+    "home",
+    4.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Omar Marmoush",
+    "home",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Mathys Tel",
+    "home",
+    3.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Joe Willock",
+    "away",
+    3.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Yoane Wissa",
+    "away",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Anthony Elanga",
+    "away",
+    2.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Jan Paul van Hecke",
+    "home",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Andy Robertson",
+    "home",
+    1.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Mateus Fernandes",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Sandro Tonali",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Dominic Solanke",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Mikey Moore",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Mohammed Kudus",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Sven Botman",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Lewis Hall",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Harvey Barnes",
+    "away",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Nick Woltemade",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879314": {
+  "id": "401879314",
+  "comp": "PL",
+  "date": "2026-08-29",
+  "home": "Liverpool",
+  "away": "Nottingham Forest",
+  "hg": 2,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 13,
+  "corners_h": 3,
+  "shots_h": 13,
+  "sot_h": 4,
+  "poss_h": 69.6,
+  "yellow_h": 4,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 1,
+  "fouls_a": 10,
+  "corners_a": 5,
+  "shots_a": 12,
+  "sot_a": 3,
+  "poss_a": 30.4,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 2,
+  "cards": 7,
+  "card_events": [
+   [
+    "Igor Jesus",
+    "away",
+    "yellow",
+    "44'"
+   ],
+   [
+    "Ola Aina",
+    "away",
+    "yellow",
+    "50'"
+   ],
+   [
+    "Víctor Muñoz",
+    "home",
+    "yellow",
+    "54'"
+   ],
+   [
+    "Florian Wirtz",
+    "home",
+    "yellow",
+    "58'"
+   ],
+   [
+    "Alisson Becker",
+    "home",
+    "yellow",
+    "69'"
+   ],
+   [
+    "Morgan Gibbs-White",
+    "away",
+    "red",
+    "70'"
+   ],
+   [
+    "Ronald Araújo",
+    "home",
+    "yellow",
+    "79'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Samuel Barrott",
+  "shooters": [
+   [
+    "Víctor Muñoz",
+    "home",
+    4.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Dominik Szoboszlai",
+    "home",
+    3.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Alexander Isak",
+    "home",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Igor Jesus",
+    "away",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Dan Ndoye",
+    "away",
+    3.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Florian Wirtz",
+    "home",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Xaver Schlager",
+    "away",
+    2.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Kostas Tsimikas",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Murillo",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Neco Williams",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Morgan Gibbs-White",
+    "away",
+    1.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Liam Delap",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879316": {
+  "id": "401879316",
+  "comp": "PL",
+  "date": "2026-08-29",
+  "home": "Coventry City",
+  "away": "Hull City",
+  "hg": 0,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 11,
+  "corners_h": 6,
+  "shots_h": 11,
+  "sot_h": 3,
+  "poss_h": 68.7,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 1,
+  "fouls_a": 8,
+  "corners_a": 2,
+  "shots_a": 6,
+  "sot_a": 2,
+  "poss_a": 31.3,
+  "yellow_a": 4,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 3,
+  "cards": 5,
+  "card_events": [
+   [
+    "Lewie Coyle",
+    "away",
+    "yellow",
+    "10'"
+   ],
+   [
+    "Regan Slater",
+    "away",
+    "yellow",
+    "51'"
+   ],
+   [
+    "Elliot Stroud",
+    "away",
+    "yellow",
+    "54'"
+   ],
+   [
+    "Oliver McBurnie",
+    "away",
+    "yellow",
+    "68'"
+   ],
+   [
+    "Aurèle Amenda",
+    "home",
+    "yellow",
+    "84'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Josh Smith",
+  "shooters": [
+   [
+    "Taiwo Awoniyi",
+    "home",
+    4.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Liam Millar",
+    "away",
+    3.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Aurèle Amenda",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Jay Da Silva",
+    "home",
+    1.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Jack Rudoni",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Matt Grimes",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Caleb Yirenkyi",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Loum Tchaouna",
+    "home",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Tatsuhiro Sakamoto",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Nobel Mendy",
+    "away",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Elliot Stroud",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Mohamed Belloumi",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ]
+  ]
+ },
+ "401879293": {
+  "id": "401879293",
+  "comp": "PL",
+  "date": "2026-08-30",
+  "home": "Manchester United",
+  "away": "Ipswich Town",
+  "hg": 5,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 7,
+  "corners_h": 8,
+  "shots_h": 33,
+  "sot_h": 11,
+  "poss_h": 60.4,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 3,
+  "fouls_a": 12,
+  "corners_a": 4,
+  "shots_a": 9,
+  "sot_a": 5,
+  "poss_a": 39.6,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 6,
+  "cards": 5,
+  "card_events": [
+   [
+    "Sasa Lukic",
+    "away",
+    "yellow",
+    "33'"
+   ],
+   [
+    "Fatawu Issahaku",
+    "away",
+    "yellow",
+    "37'"
+   ],
+   [
+    "Jacob Greaves",
+    "away",
+    "yellow",
+    "60'"
+   ],
+   [
+    "Bruno Fernandes",
+    "home",
+    "red",
+    "61'"
+   ],
+   [
+    "Bryan Mbeumo",
+    "home",
+    "yellow",
+    "90'+3'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Craig Pawson",
+  "shooters": [
+   [
+    "Bruno Fernandes",
+    "home",
+    8.0,
+    3.0,
+    "AM",
+    true
+   ],
+   [
+    "Bryan Mbeumo",
+    "home",
+    5.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Diogo Dalot",
+    "home",
+    4.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Marcus Rashford",
+    "home",
+    4.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Kobbie Mainoo",
+    "home",
+    3.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Youri Tielemans",
+    "home",
+    3.0,
+    2.0,
+    "RM",
+    true
+   ],
+   [
+    "Julio Enciso",
+    "away",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Matheus Cunha",
+    "home",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Patrick Dorgu",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Leif Davis",
+    "away",
+    2.0,
+    2.0,
+    "LB",
+    true
+   ],
+   [
+    "Lisandro Martínez",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Harry Maguire",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Dara O'Shea",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Sasa Lukic",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Daizen Maeda",
+    "away",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Chuba Akpom",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879313": {
+  "id": "401879313",
+  "comp": "PL",
+  "date": "2026-08-30",
+  "home": "Sunderland",
+  "away": "Fulham",
+  "hg": 1,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 10,
+  "corners_h": 3,
+  "shots_h": 12,
+  "sot_h": 4,
+  "poss_h": 41.6,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 0,
+  "fouls_a": 15,
+  "corners_a": 4,
+  "shots_a": 11,
+  "sot_a": 0,
+  "poss_a": 58.4,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 3,
+  "cards": 2,
+  "card_events": [
+   [
+    "Joachim Andersen",
+    "away",
+    "yellow",
+    "35'"
+   ],
+   [
+    "César Palacios",
+    "away",
+    "yellow",
+    "59'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Michael Salisbury",
+  "shooters": [
+   [
+    "Enzo Le Fée",
+    "home",
+    4.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Wilson Isidor",
+    "home",
+    3.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Gonzalo García",
+    "away",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Josh King",
+    "away",
+    2.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Shea Charles",
+    "away",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Danny Ballard",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Thomas Meunier",
+    "home",
+    1.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Noah Sadiki",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Brian Brobbey",
+    "home",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Romaine Mundle",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Alex Iwobi",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "César Palacios",
+    "away",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Ryan Sessegnon",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Emile Smith Rowe",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879315": {
+  "id": "401879315",
+  "comp": "PL",
+  "date": "2026-08-30",
+  "home": "Leeds United",
+  "away": "Brentford",
+  "hg": 1,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 5,
+  "corners_h": 5,
+  "shots_h": 12,
+  "sot_h": 2,
+  "poss_h": 46.6,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 4,
+  "fouls_a": 13,
+  "corners_a": 6,
+  "shots_a": 22,
+  "sot_a": 5,
+  "poss_a": 53.4,
+  "yellow_a": 4,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 1,
+  "cards": 4,
+  "card_events": [
+   [
+    "Jaidon Anthony",
+    "away",
+    "yellow",
+    "30'"
+   ],
+   [
+    "Kristoffer Ajer",
+    "away",
+    "yellow",
+    "74'"
+   ],
+   [
+    "Vitaly Janelt",
+    "away",
+    "yellow",
+    "76'"
+   ],
+   [
+    "Nathan Collins",
+    "away",
+    "yellow",
+    "90'+3'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Tony Harrington",
+  "shooters": [
+   [
+    "Igor Thiago",
+    "away",
+    5.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Daniel James",
+    "home",
+    4.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Nathan Collins",
+    "away",
+    3.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Mamadou Sangare",
+    "away",
+    3.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Kevin Schade",
+    "away",
+    3.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Noah Okafor",
+    "home",
+    2.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Mikkel Damsgaard",
+    "away",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Jaidon Anthony",
+    "away",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Anton Stach",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Ethan Ampadu",
+    "home",
+    1.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "James Justin",
+    "home",
+    1.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Dominic Calvert-Lewin",
+    "home",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Harry Wilson",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Lukas Nmecha",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Keane Lewis-Potter",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Michael Kayode",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Dango Ouattara",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Callum Wilson",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879317": {
+  "id": "401879317",
+  "comp": "PL",
+  "date": "2026-08-30",
+  "home": "Chelsea",
+  "away": "Brighton & Hove Albion",
+  "hg": 4,
+  "ag": 3,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 6,
+  "corners_h": 4,
+  "shots_h": 17,
+  "sot_h": 6,
+  "poss_h": 25.6,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 4,
+  "fouls_a": 12,
+  "corners_a": 7,
+  "shots_a": 15,
+  "sot_a": 6,
+  "poss_a": 74.4,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 1,
+  "cards": 4,
+  "card_events": [
+   [
+    "Wesley Fofana",
+    "home",
+    "yellow",
+    "55'"
+   ],
+   [
+    "Lewis Dunk",
+    "away",
+    "yellow",
+    "70'"
+   ],
+   [
+    "Olivier Boscagli",
+    "away",
+    "yellow",
+    "89'"
+   ],
+   [
+    "Costinha",
+    "away",
+    "yellow",
+    "90'+1'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Michael Oliver",
+  "shooters": [
+   [
+    "João Pedro",
+    "home",
+    5.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Diego Gómez",
+    "away",
+    5.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Cole Palmer",
+    "home",
+    4.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Morgan Rogers",
+    "home",
+    3.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Pedro Neto",
+    "home",
+    2.0,
+    2.0,
+    "RM",
+    true
+   ],
+   [
+    "Luka Vuskovic",
+    "away",
+    2.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Malick Yalcouyé",
+    "away",
+    2.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Maxence Lacroix",
+    "home",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Romeo Lavia",
+    "home",
+    1.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Valentín Barco",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Ferdi Kadioglu",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Mats Wieffer",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Olivier Boscagli",
+    "away",
+    1.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Pascal Gross",
+    "away",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Charalambos Kostoulas",
+    "away",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Maxim De Cuyper",
+    "away",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ]
+  ]
+ },
+ "401879295": {
+  "id": "401879295",
+  "comp": "PL",
+  "date": "2026-08-31",
+  "home": "Aston Villa",
+  "away": "Arsenal",
+  "hg": 0,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 17,
+  "corners_h": 2,
+  "shots_h": 7,
+  "sot_h": 0,
+  "poss_h": 39.2,
+  "yellow_h": 3,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 1,
+  "fouls_a": 6,
+  "corners_a": 4,
+  "shots_a": 7,
+  "sot_a": 2,
+  "poss_a": 60.8,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 8,
+  "saves_a": 0,
+  "cards": 4,
+  "card_events": [
+   [
+    "Christos Tzolis",
+    "away",
+    "yellow",
+    "29'"
+   ],
+   [
+    "Alysson",
+    "home",
+    "yellow",
+    "80'"
+   ],
+   [
+    "John McGinn",
+    "home",
+    "yellow",
+    "81'"
+   ],
+   [
+    "Ian Maatsen",
+    "home",
+    "yellow",
+    "90'+6'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Jarred Gillett",
+  "shooters": [
+   [
+    "Ian Maatsen",
+    "home",
+    2.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "John McGinn",
+    "home",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Bukayo Saka",
+    "away",
+    2.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Matty Cash",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Emiliano Buendía",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Ross Barkley",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Gabriel Magalhães",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Riccardo Calafiori",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Martin Ødegaard",
+    "away",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Myles Lewis-Skelly",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Kai Havertz",
+    "away",
+    1.0,
+    1.0,
+    "F",
+    true
+   ]
+  ]
+ },
+ "401879288": {
+  "id": "401879288",
+  "comp": "PL",
+  "date": "2026-09-04",
+  "home": "Ipswich Town",
+  "away": "Liverpool",
+  "hg": 0,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 6,
+  "corners_h": 4,
+  "shots_h": 14,
+  "sot_h": 5,
+  "poss_h": 45.1,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 5,
+  "saves_h": 5,
+  "fouls_a": 13,
+  "corners_a": 3,
+  "shots_a": 10,
+  "sot_a": 7,
+  "poss_a": 54.9,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 4,
+  "saves_a": 5,
+  "cards": 4,
+  "card_events": [
+   [
+    "Alexis Mac Allister",
+    "away",
+    "yellow",
+    "10'"
+   ],
+   [
+    "Julio Enciso",
+    "home",
+    "yellow",
+    "41'"
+   ],
+   [
+    "Jérémy Jacquet",
+    "away",
+    "yellow",
+    "52'"
+   ],
+   [
+    "Milos Kerkez",
+    "away",
+    "yellow",
+    "57'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Darren England",
+  "shooters": [
+   [
+    "Julio Enciso",
+    "home",
+    6.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Dominik Szoboszlai",
+    "away",
+    3.0,
+    3.0,
+    "RM",
+    true
+   ],
+   [
+    "Fatawu Issahaku",
+    "home",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Florian Wirtz",
+    "away",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Alexis Mac Allister",
+    "away",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Alexander Isak",
+    "away",
+    2.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Leif Davis",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Emersonn",
+    "home",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Daizen Maeda",
+    "home",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Jack Clarke",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Kasey McAteer",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Zian Flemming",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Cody Gakpo",
+    "away",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ]
+  ]
+ },
+ "401878780": {
+  "id": "401878780",
+  "comp": "PL",
+  "date": "2026-09-05",
+  "home": "Nottingham Forest",
+  "away": "Tottenham Hotspur",
+  "hg": 0,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 22,
+  "corners_h": 2,
+  "shots_h": 12,
+  "sot_h": 2,
+  "poss_h": 41.4,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 0,
+  "fouls_a": 13,
+  "corners_a": 10,
+  "shots_a": 12,
+  "sot_a": 0,
+  "poss_a": 58.6,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 1,
+  "cards": 4,
+  "card_events": [
+   [
+    "Destiny Udogie",
+    "away",
+    "yellow",
+    "45'+1'"
+   ],
+   [
+    "Nikola Milenkovic",
+    "home",
+    "yellow",
+    "52'"
+   ],
+   [
+    "James McAtee",
+    "home",
+    "yellow",
+    "78'"
+   ],
+   [
+    "Mateus Fernandes",
+    "away",
+    "yellow",
+    "84'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Craig Pawson",
+  "shooters": [
+   [
+    "James McAtee",
+    "home",
+    3.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Morgan Gibbs-White",
+    "home",
+    3.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Omar Marmoush",
+    "away",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Murillo",
+    "home",
+    2.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Micky van de Ven",
+    "away",
+    2.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Jan Paul van Hecke",
+    "away",
+    2.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Pedro Porro",
+    "away",
+    2.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Jair Paula",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Xaver Schlager",
+    "home",
+    1.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Liam Delap",
+    "home",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Daniel Muñoz",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Rodrigo Bentancur",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Sávio",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Dominic Solanke",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401878781": {
+  "id": "401878781",
+  "comp": "PL",
+  "date": "2026-09-05",
+  "home": "Hull City",
+  "away": "Aston Villa",
+  "hg": 0,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 10,
+  "corners_h": 3,
+  "shots_h": 11,
+  "sot_h": 4,
+  "poss_h": 26.5,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 1,
+  "fouls_a": 5,
+  "corners_a": 4,
+  "shots_a": 13,
+  "sot_a": 1,
+  "poss_a": 73.5,
+  "yellow_a": 0,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 4,
+  "cards": 2,
+  "card_events": [
+   [
+    "Semi Ajayi",
+    "home",
+    "yellow",
+    "39'"
+   ],
+   [
+    "Lucas Gourna-Douath",
+    "home",
+    "yellow",
+    "67'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Michael Oliver",
+  "shooters": [
+   [
+    "Ross Barkley",
+    "away",
+    4.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Oliver McBurnie",
+    "home",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Tyrone Mings",
+    "away",
+    3.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Nobel Mendy",
+    "home",
+    2.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Regan Slater",
+    "home",
+    2.0,
+    1.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Mohamed Belloumi",
+    "home",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Emiliano Buendía",
+    "away",
+    2.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Nicolas Jackson",
+    "away",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Elliot Stroud",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Mohamed-Ali Cho",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "George Hemmings",
+    "away",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "John McGinn",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ]
+  ]
+ },
+ "401879286": {
+  "id": "401879286",
+  "comp": "PL",
+  "date": "2026-09-05",
+  "home": "Newcastle United",
+  "away": "AFC Bournemouth",
+  "hg": 2,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 19,
+  "corners_h": 4,
+  "shots_h": 8,
+  "sot_h": 2,
+  "poss_h": 57.3,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 4,
+  "fouls_a": 17,
+  "corners_a": 3,
+  "shots_a": 17,
+  "sot_a": 5,
+  "poss_a": 42.7,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 0,
+  "cards": 6,
+  "card_events": [
+   [
+    "Anthony Elanga",
+    "home",
+    "yellow",
+    "28'"
+   ],
+   [
+    "Yoane Wissa",
+    "home",
+    "yellow",
+    "57'"
+   ],
+   [
+    "Justin Kluivert",
+    "away",
+    "yellow",
+    "66'"
+   ],
+   [
+    null,
+    "home",
+    "yellow",
+    "71'"
+   ],
+   [
+    "Adrien Truffert",
+    "away",
+    "yellow",
+    "87'"
+   ],
+   [
+    "Adam Smith",
+    "away",
+    "yellow",
+    "90'+4'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Robert Jones",
+  "shooters": [
+   [
+    "Marcus Tavernier",
+    "away",
+    5.0,
+    4.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Evanilson",
+    "away",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Amar Dedic",
+    "home",
+    2.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Joe Willock",
+    "home",
+    2.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Harvey Barnes",
+    "home",
+    2.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Justin Kluivert",
+    "away",
+    2.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Alex Scott",
+    "away",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Lewis Hall",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Jacob Ramsey",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "António Silva",
+    "away",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Adrien Truffert",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Adam Smith",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Rayan",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Ben Gannon-Doak",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879287": {
+  "id": "401879287",
+  "comp": "PL",
+  "date": "2026-09-05",
+  "home": "Manchester City",
+  "away": "Coventry City",
+  "hg": 1,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 7,
+  "corners_h": 4,
+  "shots_h": 15,
+  "sot_h": 4,
+  "poss_h": 77.6,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 5,
+  "saves_h": 3,
+  "fouls_a": 17,
+  "corners_a": 5,
+  "shots_a": 12,
+  "sot_a": 3,
+  "poss_a": 22.4,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 2,
+  "cards": 3,
+  "card_events": [
+   [
+    "Milan van Ewijk",
+    "away",
+    "yellow",
+    "19'"
+   ],
+   [
+    "Ethan Pinnock",
+    "away",
+    "yellow",
+    "90'+2'"
+   ],
+   [
+    "Abdukodir Khusanov",
+    "home",
+    "yellow",
+    "90'+5'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Paul Tierney",
+  "shooters": [
+   [
+    "Bobby Thomas",
+    "away",
+    5.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Erling Haaland",
+    "home",
+    4.0,
+    3.0,
+    "F",
+    true
+   ],
+   [
+    "Rayan Cherki",
+    "home",
+    3.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Enzo Fernández",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Antoine Semenyo",
+    "home",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Loum Tchaouna",
+    "away",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Josko Gvardiol",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Elliot Anderson",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Iliman Ndiaye",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Phil Foden",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Ethan Pinnock",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Matt Grimes",
+    "away",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Taiwo Awoniyi",
+    "away",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Jack Rudoni",
+    "away",
+    1.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Ellis Simms",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879289": {
+  "id": "401879289",
+  "comp": "PL",
+  "date": "2026-09-05",
+  "home": "Fulham",
+  "away": "Crystal Palace",
+  "hg": 2,
+  "ag": 3,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 6,
+  "corners_h": 7,
+  "shots_h": 25,
+  "sot_h": 6,
+  "poss_h": 64.7,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 2,
+  "fouls_a": 7,
+  "corners_a": 1,
+  "shots_a": 10,
+  "sot_a": 5,
+  "poss_a": 35.3,
+  "yellow_a": 0,
+  "red_a": 0,
+  "offsides_a": 6,
+  "saves_a": 5,
+  "cards": 0,
+  "cards_src": "teamstats(approx)",
+  "referee": "Samuel Barrott",
+  "shooters": [
+   [
+    "Gonzalo García",
+    "home",
+    5.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "César Palacios",
+    "home",
+    5.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Timothy Castagne",
+    "home",
+    3.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Oscar Bobb",
+    "home",
+    3.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Tyrick Mitchell",
+    "away",
+    3.0,
+    2.0,
+    "LM",
+    true
+   ],
+   [
+    "Antonee Robinson",
+    "home",
+    2.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Josh King",
+    "home",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Rodrigo Muniz",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Anan Khalaili",
+    "away",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Alex Iwobi",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Hugo Larsson",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Ryan Sessegnon",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Chris Richards",
+    "away",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Quinten Timber",
+    "away",
+    1.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Eddie Nketiah",
+    "away",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Yéremy Pino",
+    "away",
+    1.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Ben Chilwell",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879290": {
+  "id": "401879290",
+  "comp": "PL",
+  "date": "2026-09-05",
+  "home": "Brighton & Hove Albion",
+  "away": "Leeds United",
+  "hg": 1,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 13,
+  "corners_h": 7,
+  "shots_h": 20,
+  "sot_h": 5,
+  "poss_h": 66.8,
+  "yellow_h": 3,
+  "red_h": 0,
+  "offsides_h": 4,
+  "saves_h": 3,
+  "fouls_a": 16,
+  "corners_a": 6,
+  "shots_a": 10,
+  "sot_a": 5,
+  "poss_a": 33.2,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 4,
+  "cards": 6,
+  "card_events": [
+   [
+    "Jayden Bogle",
+    "away",
+    "yellow",
+    "6'"
+   ],
+   [
+    "Pascal Gross",
+    "home",
+    "yellow",
+    "38'"
+   ],
+   [
+    "Maxim De Cuyper",
+    "home",
+    "yellow",
+    "49'"
+   ],
+   [
+    "Dominic Calvert-Lewin",
+    "away",
+    "yellow",
+    "64'"
+   ],
+   [
+    "Harry Wilson",
+    "away",
+    "yellow",
+    "85'"
+   ],
+   [
+    "Promise David",
+    "home",
+    "yellow",
+    "88'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Stuart Attwell",
+  "shooters": [
+   [
+    "Pascal Gross",
+    "home",
+    5.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Diego Gómez",
+    "home",
+    4.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Charalambos Kostoulas",
+    "home",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Luka Vuskovic",
+    "home",
+    2.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Ferdi Kadioglu",
+    "home",
+    2.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Yasin Ayari",
+    "home",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "James Justin",
+    "away",
+    2.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Ao Tanaka",
+    "away",
+    2.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Dominic Calvert-Lewin",
+    "away",
+    2.0,
+    2.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Lukas Nmecha",
+    "away",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Malick Yalcouyé",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Promise David",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Anton Stach",
+    "away",
+    1.0,
+    1.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Jayden Bogle",
+    "away",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ]
+  ]
+ },
+ "401879311": {
+  "id": "401879311",
+  "comp": "PL",
+  "date": "2026-09-05",
+  "home": "Brentford",
+  "away": "Sunderland",
+  "hg": 1,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 19,
+  "corners_h": 4,
+  "shots_h": 12,
+  "sot_h": 2,
+  "poss_h": 49,
+  "yellow_h": 3,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 2,
+  "fouls_a": 9,
+  "corners_a": 3,
+  "shots_a": 14,
+  "sot_a": 5,
+  "poss_a": 51,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 3,
+  "saves_a": 1,
+  "cards": 6,
+  "card_events": [
+   [
+    "Noah Sadiki",
+    "away",
+    "yellow",
+    "14'"
+   ],
+   [
+    "Mamadou Sangare",
+    "home",
+    "yellow",
+    "30'"
+   ],
+   [
+    "Vitaly Janelt",
+    "home",
+    "yellow",
+    "62'"
+   ],
+   [
+    "Yehor Yarmoliuk",
+    "home",
+    "yellow",
+    "69'"
+   ],
+   [
+    "Enzo Le Fée",
+    "away",
+    "red",
+    "82'"
+   ],
+   [
+    "Granit Xhaka",
+    "away",
+    "yellow",
+    "88'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Thomas Bramall",
+  "shooters": [
+   [
+    "Keane Lewis-Potter",
+    "home",
+    3.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Enzo Le Fée",
+    "away",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Noah Sadiki",
+    "away",
+    3.0,
+    2.0,
+    "LM",
+    true
+   ],
+   [
+    "Brian Brobbey",
+    "away",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Mamadou Sangare",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Igor Thiago",
+    "home",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Wilson Isidor",
+    "away",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Michael Kayode",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Vitaly Janelt",
+    "home",
+    1.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Yehor Yarmoliuk",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jaidon Anthony",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jannik Schuster",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Danny Ballard",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Granit Xhaka",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Thomas Meunier",
+    "away",
+    1.0,
+    1.0,
+    "AM-R",
+    true
+   ]
+  ]
+ },
+ "401879291": {
+  "id": "401879291",
+  "comp": "PL",
+  "date": "2026-09-06",
+  "home": "Everton",
+  "away": "Manchester United",
+  "hg": 2,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 7,
+  "corners_h": 4,
+  "shots_h": 18,
+  "sot_h": 6,
+  "poss_h": 45.4,
+  "yellow_h": 3,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 1,
+  "fouls_a": 11,
+  "corners_a": 3,
+  "shots_a": 14,
+  "sot_a": 3,
+  "poss_a": 54.6,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 4,
+  "cards": 6,
+  "card_events": [
+   [
+    "Harrison Armstrong",
+    "home",
+    "yellow",
+    "13'"
+   ],
+   [
+    "Brennan Johnson",
+    "home",
+    "yellow",
+    "34'"
+   ],
+   [
+    "Luke Shaw",
+    "away",
+    "yellow",
+    "62'"
+   ],
+   [
+    "Merlin Röhl",
+    "home",
+    "yellow",
+    "64'"
+   ],
+   [
+    "Harry Maguire",
+    "away",
+    "yellow",
+    "79'"
+   ],
+   [
+    "Diogo Dalot",
+    "away",
+    "yellow",
+    "81'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "John Brooks",
+  "shooters": [
+   [
+    "Kiernan Dewsbury-Hall",
+    "home",
+    4.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Thierno Barry",
+    "home",
+    4.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Bruno Fernandes",
+    "away",
+    4.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Jarrad Branthwaite",
+    "home",
+    2.0,
+    2.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Harrison Armstrong",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Youri Tielemans",
+    "away",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Matheus Cunha",
+    "away",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Bryan Mbeumo",
+    "away",
+    2.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Benjamin Sesko",
+    "away",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "James Tarkowski",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Tyrique George",
+    "home",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Brennan Johnson",
+    "home",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Ainsley Maitland-Niles",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jack Grealish",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Hayden Hackney",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Luke Shaw",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Diogo Dalot",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ]
+  ]
+ },
+ "401879292": {
+  "id": "401879292",
+  "comp": "PL",
+  "date": "2026-09-06",
+  "home": "Arsenal",
+  "away": "Chelsea",
+  "hg": 2,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 13,
+  "corners_h": 5,
+  "shots_h": 16,
+  "sot_h": 9,
+  "poss_h": 54.6,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 4,
+  "fouls_a": 16,
+  "corners_a": 3,
+  "shots_a": 13,
+  "sot_a": 5,
+  "poss_a": 45.4,
+  "yellow_a": 4,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 8,
+  "cards": 6,
+  "card_events": [
+   [
+    "João Pedro",
+    "away",
+    "yellow",
+    "14'"
+   ],
+   [
+    "Cole Palmer",
+    "away",
+    "yellow",
+    "45'"
+   ],
+   [
+    "Christos Tzolis",
+    "home",
+    "yellow",
+    "58'"
+   ],
+   [
+    "Maxence Lacroix",
+    "away",
+    "yellow",
+    "58'"
+   ],
+   [
+    "Morgan Rogers",
+    "away",
+    "yellow",
+    "83'"
+   ],
+   [
+    "Mikel Merino",
+    "home",
+    "yellow",
+    "90'+5'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Chris Kavanagh",
+  "shooters": [
+   [
+    "Bukayo Saka",
+    "home",
+    4.0,
+    3.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Kai Havertz",
+    "home",
+    3.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Reece James",
+    "away",
+    3.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Morgan Rogers",
+    "away",
+    3.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Cole Palmer",
+    "away",
+    3.0,
+    2.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Gabriel Magalhães",
+    "home",
+    2.0,
+    2.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Riccardo Calafiori",
+    "home",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Martin Ødegaard",
+    "home",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Myles Lewis-Skelly",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Declan Rice",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Martín Zubimendi",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Pedro Neto",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "João Pedro",
+    "away",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Estêvão",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Malo Gusto",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401878779": {
+  "id": "401878779",
+  "comp": "PL",
+  "date": "2026-09-12",
+  "home": "Sunderland",
+  "away": "Arsenal",
+  "hg": 0,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 18,
+  "corners_h": 4,
+  "shots_h": 12,
+  "sot_h": 3,
+  "poss_h": 42.5,
+  "yellow_h": 4,
+  "red_h": 1,
+  "offsides_h": 2,
+  "saves_h": 3,
+  "fouls_a": 11,
+  "corners_a": 3,
+  "shots_a": 11,
+  "sot_a": 5,
+  "poss_a": 57.5,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 2,
+  "cards": 10,
+  "card_events": [
+   [
+    "Reinildo Mandava",
+    "home",
+    "yellow",
+    "28'"
+   ],
+   [
+    null,
+    "away",
+    "yellow",
+    "39'"
+   ],
+   [
+    "Danny Ballard",
+    "home",
+    "yellow",
+    "66'"
+   ],
+   [
+    "Granit Xhaka",
+    "home",
+    "yellow",
+    "69'"
+   ],
+   [
+    "Brian Brobbey",
+    "home",
+    "yellow",
+    "81'"
+   ],
+   [
+    "Gabriel Magalhães",
+    "away",
+    "yellow",
+    "90'+1'"
+   ],
+   [
+    "Nordi Mukiele",
+    "home",
+    "yellow",
+    "90'+1'"
+   ],
+   [
+    "Kai Havertz",
+    "away",
+    "yellow",
+    "90'+3'"
+   ],
+   [
+    "Reinildo Mandava",
+    "home",
+    "red",
+    "90'+6'"
+   ],
+   [
+    "Bukayo Saka",
+    "away",
+    "red",
+    "90'+7'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "John Brooks",
+  "shooters": [
+   [
+    "Nordi Mukiele",
+    "home",
+    4.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Bukayo Saka",
+    "away",
+    4.0,
+    3.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Enzo Le Fée",
+    "home",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Thomas Meunier",
+    "home",
+    3.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Kai Havertz",
+    "away",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Bruno Guimarães",
+    "away",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Danny Ballard",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Noah Sadiki",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Gabriel Magalhães",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Riccardo Calafiori",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ]
+  ]
+ },
+ "401879277": {
+  "id": "401879277",
+  "comp": "PL",
+  "date": "2026-09-12",
+  "home": "Tottenham Hotspur",
+  "away": "Everton",
+  "hg": 0,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 14,
+  "corners_h": 5,
+  "shots_h": 14,
+  "sot_h": 2,
+  "poss_h": 62.3,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 3,
+  "fouls_a": 8,
+  "corners_a": 6,
+  "shots_a": 12,
+  "sot_a": 3,
+  "poss_a": 37.7,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 2,
+  "cards": 3,
+  "card_events": [
+   [
+    "Kiernan Dewsbury-Hall",
+    "away",
+    "yellow",
+    "68'"
+   ],
+   [
+    "James Garner",
+    "away",
+    "yellow",
+    "84'"
+   ],
+   [
+    null,
+    "home",
+    "yellow",
+    "87'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Darren England",
+  "shooters": [
+   [
+    "Thierno Barry",
+    "away",
+    5.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Mateus Fernandes",
+    "home",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Kiernan Dewsbury-Hall",
+    "away",
+    3.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Archie Gray",
+    "home",
+    2.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Sandro Tonali",
+    "home",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Sávio",
+    "home",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Jan Paul van Hecke",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Andy Robertson",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Omar Marmoush",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Mathys Tel",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Lucas Bergvall",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "James Garner",
+    "away",
+    1.0,
+    1.0,
+    "DM",
+    true
+   ],
+   [
+    "Ainsley Maitland-Niles",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Tyrique George",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Brennan Johnson",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ]
+  ]
+ },
+ "401879279": {
+  "id": "401879279",
+  "comp": "PL",
+  "date": "2026-09-12",
+  "home": "Liverpool",
+  "away": "Fulham",
+  "hg": 0,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 11,
+  "corners_h": 5,
+  "shots_h": 14,
+  "sot_h": 3,
+  "poss_h": 56.1,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 3,
+  "fouls_a": 8,
+  "corners_a": 8,
+  "shots_a": 10,
+  "sot_a": 4,
+  "poss_a": 43.9,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 3,
+  "cards": 1,
+  "card_events": [
+   [
+    "Kenny Tete",
+    "away",
+    "yellow",
+    "81'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Thomas Bramall",
+  "shooters": [
+   [
+    "Josh King",
+    "away",
+    4.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Florian Wirtz",
+    "home",
+    3.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Alexander Isak",
+    "home",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Dominik Szoboszlai",
+    "home",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Alex Iwobi",
+    "away",
+    2.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Ryan Gravenberch",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Bradley Barcola",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Víctor Muñoz",
+    "home",
+    1.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Rio Ngumoha",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Alexis Mac Allister",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Cody Gakpo",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Calvin Bassey",
+    "away",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Antonee Robinson",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Gonzalo García",
+    "away",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Kevin",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879281": {
+  "id": "401879281",
+  "comp": "PL",
+  "date": "2026-09-12",
+  "home": "Crystal Palace",
+  "away": "Ipswich Town",
+  "hg": 2,
+  "ag": 3,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 6,
+  "corners_h": 6,
+  "shots_h": 11,
+  "sot_h": 4,
+  "poss_h": 46.5,
+  "yellow_h": 1,
+  "red_h": 1,
+  "offsides_h": 0,
+  "saves_h": 3,
+  "fouls_a": 16,
+  "corners_a": 3,
+  "shots_a": 12,
+  "sot_a": 6,
+  "poss_a": 53.5,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 2,
+  "cards": 5,
+  "card_events": [
+   [
+    "Axel Disasi",
+    "home",
+    "red",
+    "34'"
+   ],
+   [
+    "Jack Clarke",
+    "away",
+    "yellow",
+    "43'"
+   ],
+   [
+    "Fatawu Issahaku",
+    "away",
+    "yellow",
+    "58'"
+   ],
+   [
+    "Sasa Lukic",
+    "away",
+    "yellow",
+    "70'"
+   ],
+   [
+    "Chris Richards",
+    "home",
+    "yellow",
+    "90'+4'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Chris Kavanagh",
+  "shooters": [
+   [
+    "Anan Khalaili",
+    "home",
+    4.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Jørgen Strand Larsen",
+    "home",
+    3.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Emersonn",
+    "away",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Zian Flemming",
+    "away",
+    3.0,
+    2.0,
+    "SUB",
+    false
+   ],
+   [
+    "Quinten Timber",
+    "home",
+    2.0,
+    1.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Leif Davis",
+    "away",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Julio Enciso",
+    "away",
+    2.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Adam Wharton",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Ben Chilwell",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jack Clarke",
+    "away",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Jaden Philogene",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879283": {
+  "id": "401879283",
+  "comp": "PL",
+  "date": "2026-09-12",
+  "home": "Chelsea",
+  "away": "Hull City",
+  "hg": 2,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 7,
+  "corners_h": 11,
+  "shots_h": 12,
+  "sot_h": 7,
+  "poss_h": 67.8,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 3,
+  "fouls_a": 12,
+  "corners_a": 4,
+  "shots_a": 13,
+  "sot_a": 5,
+  "poss_a": 32.2,
+  "yellow_a": 5,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 5,
+  "cards": 6,
+  "card_events": [
+   [
+    "Oliver McBurnie",
+    "away",
+    "yellow",
+    "17'"
+   ],
+   [
+    "John Egan",
+    "away",
+    "yellow",
+    "50'"
+   ],
+   [
+    "Matt Crooks",
+    "away",
+    "yellow",
+    "52'"
+   ],
+   [
+    "Valentín Barco",
+    "home",
+    "yellow",
+    "80'"
+   ],
+   [
+    "Tim Iroegbunam",
+    "away",
+    "yellow",
+    "88'"
+   ],
+   [
+    "Brooke Norton-Cuffy",
+    "away",
+    "yellow",
+    "90'+6'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Farai Hallam",
+  "shooters": [
+   [
+    "Cole Palmer",
+    "home",
+    3.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Reece James",
+    "home",
+    3.0,
+    2.0,
+    "RM",
+    true
+   ],
+   [
+    "Mohamed Belloumi",
+    "away",
+    3.0,
+    2.0,
+    "RM",
+    true
+   ],
+   [
+    "Morgan Rogers",
+    "home",
+    2.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Mohamed-Ali Cho",
+    "away",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Malo Gusto",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "João Pedro",
+    "home",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Pedro Neto",
+    "home",
+    1.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Estêvão",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "John Egan",
+    "away",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Semi Ajayi",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Lewie Coyle",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Regan Slater",
+    "away",
+    1.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Elliot Stroud",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Oliver McBurnie",
+    "away",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Brooke Norton-Cuffy",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Sorba Thomas",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879284": {
+  "id": "401879284",
+  "comp": "PL",
+  "date": "2026-09-12",
+  "home": "Aston Villa",
+  "away": "Nottingham Forest",
+  "hg": 1,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 11,
+  "corners_h": 6,
+  "shots_h": 7,
+  "sot_h": 5,
+  "poss_h": 53.3,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 5,
+  "fouls_a": 16,
+  "corners_a": 1,
+  "shots_a": 22,
+  "sot_a": 7,
+  "poss_a": 46.7,
+  "yellow_a": 5,
+  "red_a": 0,
+  "offsides_a": 4,
+  "saves_a": 5,
+  "cards": 7,
+  "card_events": [
+   [
+    "Dan Ndoye",
+    "away",
+    "yellow",
+    "43'"
+   ],
+   [
+    "Nicolas Jackson",
+    "home",
+    "yellow",
+    "45'"
+   ],
+   [
+    "Murillo",
+    "away",
+    "yellow",
+    "45'+3'"
+   ],
+   [
+    "Xaver Schlager",
+    "away",
+    "yellow",
+    "56'"
+   ],
+   [
+    "Liam Delap",
+    "away",
+    "yellow",
+    "75'"
+   ],
+   [
+    "James McAtee",
+    "away",
+    "yellow",
+    "80'"
+   ],
+   [
+    "Tyrone Mings",
+    "home",
+    "yellow",
+    "90'+5'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Andy Madley",
+  "shooters": [
+   [
+    "Liam Delap",
+    "away",
+    6.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Dan Ndoye",
+    "away",
+    5.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Ian Maatsen",
+    "home",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "James McAtee",
+    "away",
+    2.0,
+    1.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Neco Williams",
+    "away",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Morgan Gibbs-White",
+    "away",
+    2.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Victor Lindelöf",
+    "home",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Ross Barkley",
+    "home",
+    1.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Alysson",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Tyrone Mings",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Ibrahim Mbaye",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Ousmane Diomande",
+    "away",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Xaver Schlager",
+    "away",
+    1.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Daniel Muñoz",
+    "away",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Ibrahim Sangaré",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Igor Jesus",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879285": {
+  "id": "401879285",
+  "comp": "PL",
+  "date": "2026-09-12",
+  "home": "AFC Bournemouth",
+  "away": "Brentford",
+  "hg": 2,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 10,
+  "corners_h": 2,
+  "shots_h": 20,
+  "sot_h": 10,
+  "poss_h": 56.6,
+  "yellow_h": 5,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 0,
+  "fouls_a": 13,
+  "corners_a": 1,
+  "shots_a": 8,
+  "sot_a": 2,
+  "poss_a": 43.4,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 8,
+  "cards": 6,
+  "card_events": [
+   [
+    "Igor Thiago",
+    "away",
+    "yellow",
+    "45'+3'"
+   ],
+   [
+    "Marcus Tavernier",
+    "home",
+    "yellow",
+    "45'+4'"
+   ],
+   [
+    "James Hill",
+    "home",
+    "yellow",
+    "63'"
+   ],
+   [
+    "Lewis Cook",
+    "home",
+    "yellow",
+    "85'"
+   ],
+   [
+    "Adam Smith",
+    "home",
+    "yellow",
+    "87'"
+   ],
+   [
+    "David Brooks",
+    "home",
+    "yellow",
+    "89'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Jarred Gillett",
+  "shooters": [
+   [
+    "Rayan",
+    "home",
+    5.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Marcus Tavernier",
+    "home",
+    4.0,
+    3.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Justin Kluivert",
+    "home",
+    3.0,
+    3.0,
+    "AM",
+    true
+   ],
+   [
+    "António Silva",
+    "home",
+    2.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Adrien Truffert",
+    "home",
+    2.0,
+    2.0,
+    "LB",
+    true
+   ],
+   [
+    "Ben Gannon-Doak",
+    "home",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Kevin Schade",
+    "away",
+    2.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Alex Scott",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Tyler Adams",
+    "home",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Kristoffer Ajer",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Keane Lewis-Potter",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Aaron Hickey",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Igor Thiago",
+    "away",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Dango Ouattara",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Mikkel Damsgaard",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879278": {
+  "id": "401879278",
+  "comp": "PL",
+  "date": "2026-09-13",
+  "home": "Manchester United",
+  "away": "Manchester City",
+  "hg": 0,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 17,
+  "corners_h": 6,
+  "shots_h": 16,
+  "sot_h": 3,
+  "poss_h": 54.7,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 4,
+  "saves_h": 1,
+  "fouls_a": 10,
+  "corners_a": 7,
+  "shots_a": 6,
+  "sot_a": 2,
+  "poss_a": 45.3,
+  "yellow_a": 2,
+  "red_a": 1,
+  "offsides_a": 1,
+  "saves_a": 3,
+  "cards": 5,
+  "card_events": [
+   [
+    "Phil Foden",
+    "away",
+    "red",
+    "23'"
+   ],
+   [
+    null,
+    "away",
+    "yellow",
+    "45'+1'"
+   ],
+   [
+    "Josko Gvardiol",
+    "away",
+    "yellow",
+    "79'"
+   ],
+   [
+    "Enzo Fernández",
+    "away",
+    "yellow",
+    "80'"
+   ],
+   [
+    "Harry Maguire",
+    "home",
+    "yellow",
+    "81'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Michael Oliver",
+  "shooters": [
+   [
+    "Matheus Cunha",
+    "home",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Marcus Rashford",
+    "home",
+    3.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Bryan Mbeumo",
+    "home",
+    3.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Harry Maguire",
+    "home",
+    2.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Enzo Fernández",
+    "away",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Erling Haaland",
+    "away",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Lisandro Martínez",
+    "home",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Diogo Dalot",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Bruno Fernandes",
+    "home",
+    1.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Kobbie Mainoo",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Benjamin Sesko",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Josko Gvardiol",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Rayan Cherki",
+    "away",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ]
+  ]
+ },
+ "401879282": {
+  "id": "401879282",
+  "comp": "PL",
+  "date": "2026-09-13",
+  "home": "Coventry City",
+  "away": "Brighton & Hove Albion",
+  "hg": 0,
+  "ag": 5,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 9,
+  "corners_h": 5,
+  "shots_h": 14,
+  "sot_h": 6,
+  "poss_h": 30.6,
+  "yellow_h": 0,
+  "red_h": 1,
+  "offsides_h": 2,
+  "saves_h": 2,
+  "fouls_a": 15,
+  "corners_a": 3,
+  "shots_a": 22,
+  "sot_a": 7,
+  "poss_a": 69.4,
+  "yellow_a": 0,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 6,
+  "cards": 2,
+  "card_events": [
+   [
+    "Taiwo Awoniyi",
+    "home",
+    "red",
+    "53'"
+   ],
+   [
+    "Pascal Gross",
+    "away",
+    "red",
+    "70'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Tony Harrington",
+  "shooters": [
+   [
+    "Yasin Ayari",
+    "away",
+    4.0,
+    2.0,
+    "LM",
+    true
+   ],
+   [
+    "Bobby Thomas",
+    "home",
+    3.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Ephron Mason-Clark",
+    "home",
+    3.0,
+    2.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Malick Yalcouyé",
+    "away",
+    3.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Charalambos Kostoulas",
+    "away",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Jack Rudoni",
+    "home",
+    2.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Brandon Thomas-Asante",
+    "home",
+    2.0,
+    2.0,
+    "SUB",
+    false
+   ],
+   [
+    "Luka Vuskovic",
+    "away",
+    2.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Pascal Gross",
+    "away",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Diego Gómez",
+    "away",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Ibrahim Osman",
+    "away",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Ethan Pinnock",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Matt Grimes",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Frank Onyeka",
+    "home",
+    1.0,
+    1.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Taiwo Awoniyi",
+    "home",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Lewis Dunk",
+    "away",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Olivier Boscagli",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Maxim De Cuyper",
+    "away",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Chema Andrés",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879280": {
+  "id": "401879280",
+  "comp": "PL",
+  "date": "2026-09-14",
+  "home": "Leeds United",
+  "away": "Newcastle United",
+  "hg": 4,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 8,
+  "corners_h": 5,
+  "shots_h": 15,
+  "sot_h": 6,
+  "poss_h": 50.6,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 4,
+  "fouls_a": 13,
+  "corners_a": 5,
+  "shots_a": 7,
+  "sot_a": 5,
+  "poss_a": 49.4,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 3,
+  "saves_a": 3,
+  "cards": 3,
+  "card_events": [
+   [
+    "Dominic Calvert-Lewin",
+    "home",
+    "yellow",
+    "44'"
+   ],
+   [
+    "Jacob Murphy",
+    "away",
+    "yellow",
+    "54'"
+   ],
+   [
+    "Tino Livramento",
+    "away",
+    "yellow",
+    "90'+1'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Michael Salisbury",
+  "shooters": [
+   [
+    "Dominic Calvert-Lewin",
+    "home",
+    4.0,
+    2.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Jayden Bogle",
+    "home",
+    3.0,
+    3.0,
+    "RM",
+    true
+   ],
+   [
+    "Noah Okafor",
+    "home",
+    2.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Daniel James",
+    "home",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Harvey Barnes",
+    "away",
+    2.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Joe Willock",
+    "away",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Nico Elvedi",
+    "home",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Ao Tanaka",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Anton Stach",
+    "home",
+    1.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Ethan Ampadu",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Lewis Hall",
+    "away",
+    1.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Yoane Wissa",
+    "away",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Bazoumana Touré",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879275": {
+  "id": "401879275",
+  "comp": "PL",
+  "date": "2026-09-18",
+  "home": "Brentford",
+  "away": "Chelsea",
+  "hg": 3,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 10,
+  "corners_h": 4,
+  "shots_h": 13,
+  "sot_h": 6,
+  "poss_h": 40.6,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 2,
+  "fouls_a": 7,
+  "corners_a": 12,
+  "shots_a": 12,
+  "sot_a": 2,
+  "poss_a": 59.4,
+  "yellow_a": 0,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 3,
+  "cards": 2,
+  "card_events": [
+   [
+    "Igor Thiago",
+    "home",
+    "yellow",
+    "84'"
+   ],
+   [
+    "Mamadou Sangare",
+    "home",
+    "yellow",
+    "85'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Andy Madley",
+  "shooters": [
+   [
+    "Morgan Rogers",
+    "away",
+    4.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Igor Thiago",
+    "home",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Kevin Schade",
+    "home",
+    3.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Keane Lewis-Potter",
+    "home",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Pedro Neto",
+    "away",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Cole Palmer",
+    "away",
+    2.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Mikkel Damsgaard",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Vitaly Janelt",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Yehor Yarmoliuk",
+    "home",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Jaidon Anthony",
+    "home",
+    1.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Fábio Carvalho",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Maxence Lacroix",
+    "away",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Valentín Barco",
+    "away",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Pep Chavarría",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Geovany Quenda",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401878778": {
+  "id": "401878778",
+  "comp": "PL",
+  "date": "2026-09-19",
+  "home": "Everton",
+  "away": "Ipswich Town",
+  "hg": 1,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 6,
+  "corners_h": 4,
+  "shots_h": 21,
+  "sot_h": 2,
+  "poss_h": 51.7,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 4,
+  "fouls_a": 12,
+  "corners_a": 4,
+  "shots_a": 13,
+  "sot_a": 4,
+  "poss_a": 48.3,
+  "yellow_a": 1,
+  "red_a": 1,
+  "offsides_a": 0,
+  "saves_a": 1,
+  "cards": 5,
+  "card_events": [
+   [
+    "Fatawu Issahaku",
+    "away",
+    "yellow",
+    "35'"
+   ],
+   [
+    "Vitaliy Mykolenko",
+    "home",
+    "yellow",
+    "42'"
+   ],
+   [
+    "Fatawu Issahaku",
+    "away",
+    "red",
+    "67'"
+   ],
+   [
+    "Zian Flemming",
+    "away",
+    "yellow",
+    "90'+2'"
+   ],
+   [
+    "Harrison Armstrong",
+    "home",
+    "yellow",
+    "90'+6'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Stuart Attwell",
+  "shooters": [
+   [
+    "Kiernan Dewsbury-Hall",
+    "home",
+    6.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Thierno Barry",
+    "home",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Tyler Dibling",
+    "home",
+    3.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Julio Enciso",
+    "away",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "James Garner",
+    "home",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Harrison Armstrong",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Brennan Johnson",
+    "home",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Emersonn",
+    "away",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Fatawu Issahaku",
+    "away",
+    2.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "James Tarkowski",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Vitaliy Mykolenko",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Tyrique George",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Issa Diop",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Leif Davis",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Abdoul Ouattara",
+    "away",
+    1.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Jaden Philogene",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Chuba Akpom",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Zian Flemming",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879269": {
+  "id": "401879269",
+  "comp": "PL",
+  "date": "2026-09-19",
+  "home": "Tottenham Hotspur",
+  "away": "Aston Villa",
+  "hg": 2,
+  "ag": 3,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 9,
+  "corners_h": 11,
+  "shots_h": 20,
+  "sot_h": 7,
+  "poss_h": 63.8,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 5,
+  "saves_h": 3,
+  "fouls_a": 13,
+  "corners_a": 1,
+  "shots_a": 15,
+  "sot_a": 6,
+  "poss_a": 36.2,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 5,
+  "cards": 4,
+  "card_events": [
+   [
+    "Jan Paul van Hecke",
+    "home",
+    "yellow",
+    "45'+7'"
+   ],
+   [
+    "Nicolas Jackson",
+    "away",
+    "yellow",
+    "46'"
+   ],
+   [
+    "Matty Cash",
+    "away",
+    "yellow",
+    "90'+2'"
+   ],
+   [
+    null,
+    "away",
+    "yellow",
+    "90'+2'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Samuel Barrott",
+  "shooters": [
+   [
+    "Nicolas Jackson",
+    "away",
+    6.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Johan Manzambi",
+    "away",
+    4.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Sandro Tonali",
+    "home",
+    3.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Sávio",
+    "home",
+    3.0,
+    3.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Emiliano Buendía",
+    "away",
+    3.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Mateus Fernandes",
+    "home",
+    2.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Dominic Solanke",
+    "home",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "James Maddison",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Mohammed Kudus",
+    "home",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Micky van de Ven",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Jan Paul van Hecke",
+    "home",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Pedro Porro",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Omar Marmoush",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Archie Gray",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Conor Gallagher",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Matteo Ruggeri",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Boubacar Kamara",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ]
+  ]
+ },
+ "401879270": {
+  "id": "401879270",
+  "comp": "PL",
+  "date": "2026-09-19",
+  "home": "Nottingham Forest",
+  "away": "Coventry City",
+  "hg": 0,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 12,
+  "corners_h": 6,
+  "shots_h": 24,
+  "sot_h": 3,
+  "poss_h": 62.6,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 2,
+  "fouls_a": 10,
+  "corners_a": 2,
+  "shots_a": 10,
+  "sot_a": 3,
+  "poss_a": 37.4,
+  "yellow_a": 0,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 2,
+  "cards": 2,
+  "card_events": [
+   [
+    "Liam Delap",
+    "home",
+    "yellow",
+    "59'"
+   ],
+   [
+    "Jair Paula",
+    "home",
+    "yellow",
+    "90'+4'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Jarred Gillett",
+  "shooters": [
+   [
+    "James McAtee",
+    "home",
+    4.0,
+    1.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Liam Delap",
+    "home",
+    4.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Neco Williams",
+    "home",
+    3.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Dan Ndoye",
+    "home",
+    3.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Brandon Thomas-Asante",
+    "away",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Murillo",
+    "home",
+    2.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Xaver Schlager",
+    "home",
+    2.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Daniel Muñoz",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Igor Jesus",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jay Da Silva",
+    "away",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Ousmane Diomande",
+    "home",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Jair Paula",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Bobby Thomas",
+    "away",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Matt Grimes",
+    "away",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Ephron Mason-Clark",
+    "away",
+    1.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Jack Rudoni",
+    "away",
+    1.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Loum Tchaouna",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879271": {
+  "id": "401879271",
+  "comp": "PL",
+  "date": "2026-09-19",
+  "home": "Newcastle United",
+  "away": "Hull City",
+  "hg": 2,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 4,
+  "corners_h": 4,
+  "shots_h": 12,
+  "sot_h": 5,
+  "poss_h": 56.2,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 3,
+  "fouls_a": 10,
+  "corners_a": 7,
+  "shots_a": 21,
+  "sot_a": 4,
+  "poss_a": 43.8,
+  "yellow_a": 4,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 3,
+  "cards": 5,
+  "card_events": [
+   [
+    "Matt Crooks",
+    "away",
+    "yellow",
+    "29'"
+   ],
+   [
+    "Mohamed Belloumi",
+    "away",
+    "yellow",
+    "39'"
+   ],
+   [
+    "Konstantinos Tzolakis",
+    "away",
+    "yellow",
+    "45'+2'"
+   ],
+   [
+    "Jacob Murphy",
+    "home",
+    "yellow",
+    "45'+3'"
+   ],
+   [
+    "Ryan Giles",
+    "away",
+    "yellow",
+    "49'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Tony Harrington",
+  "shooters": [
+   [
+    "Mohamed Belloumi",
+    "away",
+    5.0,
+    2.0,
+    "RM",
+    true
+   ],
+   [
+    "Oliver McBurnie",
+    "away",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Joe Gelhardt",
+    "away",
+    3.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Lewis Hall",
+    "home",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Joe Willock",
+    "home",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Yoane Wissa",
+    "home",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Harvey Barnes",
+    "home",
+    2.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Jacob Murphy",
+    "home",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Sorba Thomas",
+    "away",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Tim Iroegbunam",
+    "away",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Sven Botman",
+    "home",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Matias Fernandez-Pardo",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "John Egan",
+    "away",
+    1.0,
+    1.0,
+    "CD",
+    true
+   ],
+   [
+    "Lucas Herrington",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Semi Ajayi",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Regan Slater",
+    "away",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Lucas Gourna-Douath",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Mohamed-Ali Cho",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879274": {
+  "id": "401879274",
+  "comp": "PL",
+  "date": "2026-09-19",
+  "home": "Brighton & Hove Albion",
+  "away": "Arsenal",
+  "hg": 3,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 13,
+  "corners_h": 5,
+  "shots_h": 17,
+  "sot_h": 5,
+  "poss_h": 40.2,
+  "yellow_h": 4,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 2,
+  "fouls_a": 11,
+  "corners_a": 6,
+  "shots_a": 11,
+  "sot_a": 2,
+  "poss_a": 59.8,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 2,
+  "cards": 5,
+  "card_events": [
+   [
+    "Charalambos Kostoulas",
+    "home",
+    "yellow",
+    "33'"
+   ],
+   [
+    "Ferdi Kadioglu",
+    "home",
+    "yellow",
+    "45'+1'"
+   ],
+   [
+    "Pascal Struijk",
+    "home",
+    "yellow",
+    "71'"
+   ],
+   [
+    "Maxim De Cuyper",
+    "home",
+    "yellow",
+    "90'+1'"
+   ],
+   [
+    "Declan Rice",
+    "away",
+    "yellow",
+    "90'+7'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Darren England",
+  "shooters": [
+   [
+    "Charalambos Kostoulas",
+    "home",
+    4.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Yasin Ayari",
+    "home",
+    2.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Pascal Gross",
+    "home",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Chema Andrés",
+    "home",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Riccardo Calafiori",
+    "away",
+    2.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Kai Havertz",
+    "away",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Bukayo Saka",
+    "away",
+    2.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Martín Zubimendi",
+    "away",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Pascal Struijk",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Olivier Boscagli",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Ferdi Kadioglu",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Maxim De Cuyper",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Georginio Rutter",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Malick Yalcouyé",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Matt O'Riley",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Ezri Konsa",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Martin Ødegaard",
+    "away",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Declan Rice",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ]
+  ]
+ },
+ "401878777": {
+  "id": "401878777",
+  "comp": "PL",
+  "date": "2026-09-20",
+  "home": "Fulham",
+  "away": "Manchester United",
+  "hg": 1,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 9,
+  "corners_h": 3,
+  "shots_h": 12,
+  "sot_h": 6,
+  "poss_h": 42.7,
+  "yellow_h": 3,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 5,
+  "fouls_a": 5,
+  "corners_a": 13,
+  "shots_a": 29,
+  "sot_a": 6,
+  "poss_a": 57.3,
+  "yellow_a": 0,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 6,
+  "cards": 3,
+  "card_events": [
+   [
+    "Josh King",
+    "home",
+    "yellow",
+    "45'"
+   ],
+   [
+    "Timothy Castagne",
+    "home",
+    "yellow",
+    "50'"
+   ],
+   [
+    "Rodrigo Muniz",
+    "home",
+    "yellow",
+    "85'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Peter Bankes",
+  "shooters": [
+   [
+    "Marcus Rashford",
+    "away",
+    6.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Bryan Mbeumo",
+    "away",
+    5.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Lisandro Martínez",
+    "away",
+    4.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Josh King",
+    "home",
+    3.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Gonzalo García",
+    "home",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Bruno Fernandes",
+    "away",
+    3.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Matheus Cunha",
+    "away",
+    3.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Alex Iwobi",
+    "home",
+    2.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Diogo Dalot",
+    "away",
+    2.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Calvin Bassey",
+    "home",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Sander Berge",
+    "home",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Oscar Bobb",
+    "home",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Kevin",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Harry Maguire",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Luke Shaw",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Youri Tielemans",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Kobbie Mainoo",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Mason Mount",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Patrick Dorgu",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879272": {
+  "id": "401879272",
+  "comp": "PL",
+  "date": "2026-09-20",
+  "home": "Manchester City",
+  "away": "Sunderland",
+  "hg": 5,
+  "ag": 3,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 14,
+  "corners_h": 6,
+  "shots_h": 16,
+  "sot_h": 6,
+  "poss_h": 55,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 4,
+  "fouls_a": 14,
+  "corners_a": 5,
+  "shots_a": 17,
+  "sot_a": 9,
+  "poss_a": 45,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 1,
+  "cards": 1,
+  "card_events": [
+   [
+    "Dayann Methalie",
+    "away",
+    "yellow",
+    "8'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Robert Jones",
+  "shooters": [
+   [
+    "Brian Brobbey",
+    "away",
+    5.0,
+    4.0,
+    "F",
+    true
+   ],
+   [
+    "Erling Haaland",
+    "home",
+    4.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Malick Fofana",
+    "away",
+    3.0,
+    3.0,
+    "SUB",
+    false
+   ],
+   [
+    "Rayan Cherki",
+    "home",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Antoine Semenyo",
+    "home",
+    2.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Iliman Ndiaye",
+    "home",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Danny Ballard",
+    "away",
+    2.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Nilson Angulo",
+    "away",
+    2.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Marc Guéhi",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Rúben Dias",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Elliot Anderson",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Enzo Fernández",
+    "home",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Jérémy Doku",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Nico O'Reilly",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Kevin Danso",
+    "away",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Dayann Methalie",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Nordi Mukiele",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Noah Sadiki",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Trai Hume",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879273": {
+  "id": "401879273",
+  "comp": "PL",
+  "date": "2026-09-20",
+  "home": "Leeds United",
+  "away": "Crystal Palace",
+  "hg": 0,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 10,
+  "corners_h": 4,
+  "shots_h": 13,
+  "sot_h": 2,
+  "poss_h": 50.6,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 5,
+  "fouls_a": 12,
+  "corners_a": 3,
+  "shots_a": 12,
+  "sot_a": 4,
+  "poss_a": 49.4,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 2,
+  "cards": 5,
+  "card_events": [
+   [
+    "Jayden Bogle",
+    "home",
+    "yellow",
+    "38'"
+   ],
+   [
+    "Ao Tanaka",
+    "home",
+    "yellow",
+    "62'"
+   ],
+   [
+    "Adam Wharton",
+    "away",
+    "yellow",
+    "64'"
+   ],
+   [
+    "Yéremy Pino",
+    "away",
+    "yellow",
+    "81'"
+   ],
+   [
+    "Jefferson Lerma",
+    "away",
+    "yellow",
+    "90'+3'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Adam Herczeg",
+  "shooters": [
+   [
+    "Tarik Muharemovic",
+    "home",
+    4.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Adam Wharton",
+    "away",
+    3.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Daichi Kamada",
+    "away",
+    3.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Ao Tanaka",
+    "home",
+    2.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Jayden Bogle",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Quinten Timber",
+    "away",
+    2.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Yéremy Pino",
+    "away",
+    2.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Nico Elvedi",
+    "home",
+    1.0,
+    1.0,
+    "CD",
+    true
+   ],
+   [
+    "James Justin",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Anton Stach",
+    "home",
+    1.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Noah Okafor",
+    "home",
+    1.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Dominic Calvert-Lewin",
+    "home",
+    1.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Jørgen Strand Larsen",
+    "away",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Jefferson Lerma",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879276": {
+  "id": "401879276",
+  "comp": "PL",
+  "date": "2026-09-20",
+  "home": "AFC Bournemouth",
+  "away": "Liverpool",
+  "hg": 0,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 11,
+  "corners_h": 3,
+  "shots_h": 9,
+  "sot_h": 2,
+  "poss_h": 46.2,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 4,
+  "saves_h": 2,
+  "fouls_a": 13,
+  "corners_a": 3,
+  "shots_a": 12,
+  "sot_a": 3,
+  "poss_a": 53.8,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 2,
+  "cards": 3,
+  "card_events": [
+   [
+    "Dominik Szoboszlai",
+    "away",
+    "yellow",
+    "46'"
+   ],
+   [
+    "Alexander Isak",
+    "away",
+    "yellow",
+    "58'"
+   ],
+   [
+    "António Silva",
+    "home",
+    "yellow",
+    "81'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": "Michael Oliver",
+  "shooters": [
+   [
+    "Ryan Christie",
+    "home",
+    4.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Alexander Isak",
+    "away",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Alex Scott",
+    "home",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Evanilson",
+    "home",
+    2.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Florian Wirtz",
+    "away",
+    2.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Dominik Szoboszlai",
+    "away",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Cody Gakpo",
+    "away",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Adrien Truffert",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Milos Kerkez",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Bradley Barcola",
+    "away",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Lewis Koumas",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401878772": {
+  "id": "401878772",
+  "comp": "PL",
+  "date": "2026-10-10",
+  "home": "Sunderland",
+  "away": "Brighton & Hove Albion",
+  "hg": 0,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 8,
+  "corners_h": 7,
+  "shots_h": 12,
+  "sot_h": 3,
+  "poss_h": 62.3,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 5,
+  "saves_h": 2,
+  "fouls_a": 12,
+  "corners_a": 5,
+  "shots_a": 13,
+  "sot_a": 4,
+  "poss_a": 37.7,
+  "yellow_a": 1,
+  "red_a": 1,
+  "offsides_a": 0,
+  "saves_a": 3,
+  "cards": 2,
+  "card_events": [
+   [
+    "Olivier Boscagli",
+    "away",
+    "yellow",
+    "36'"
+   ],
+   [
+    "Pascal Struijk",
+    "away",
+    "red",
+    "57'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Diego Gómez",
+    "away",
+    4.0,
+    2.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Nordi Mukiele",
+    "home",
+    3.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Granit Xhaka",
+    "home",
+    3.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Wilson Isidor",
+    "home",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Luka Vuskovic",
+    "away",
+    2.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Yasin Ayari",
+    "away",
+    2.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Kevin Danso",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Enzo Le Fée",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Thomas Meunier",
+    "home",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Malick Fofana",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Pascal Struijk",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Pascal Gross",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Charalambos Kostoulas",
+    "away",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Maxim De Cuyper",
+    "away",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Jaouen Hadjam",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401878773": {
+  "id": "401878773",
+  "comp": "PL",
+  "date": "2026-10-10",
+  "home": "Manchester United",
+  "away": "Tottenham Hotspur",
+  "hg": 1,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 13,
+  "corners_h": 4,
+  "shots_h": 12,
+  "sot_h": 4,
+  "poss_h": 49.6,
+  "yellow_h": 4,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 2,
+  "fouls_a": 16,
+  "corners_a": 4,
+  "shots_a": 12,
+  "sot_a": 3,
+  "poss_a": 50.4,
+  "yellow_a": 3,
+  "red_a": 1,
+  "offsides_a": 2,
+  "saves_a": 3,
+  "cards": 8,
+  "card_events": [
+   [
+    "Conor Gallagher",
+    "away",
+    "yellow",
+    "4'"
+   ],
+   [
+    "Rodrigo Bentancur",
+    "away",
+    "red",
+    "78'"
+   ],
+   [
+    "Jan Paul van Hecke",
+    "away",
+    "yellow",
+    "78'"
+   ],
+   [
+    "Luke Shaw",
+    "home",
+    "yellow",
+    "78'"
+   ],
+   [
+    "Bruno Fernandes",
+    "home",
+    "yellow",
+    "84'"
+   ],
+   [
+    "Lisandro Martínez",
+    "home",
+    "yellow",
+    "87'"
+   ],
+   [
+    "Diogo Dalot",
+    "home",
+    "yellow",
+    "90'+6'"
+   ],
+   [
+    "Archie Gray",
+    "away",
+    "yellow",
+    "90'+8'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Dominic Solanke",
+    "away",
+    4.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Harry Maguire",
+    "home",
+    3.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Bryan Mbeumo",
+    "home",
+    2.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Amad Diallo",
+    "home",
+    2.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Carlos Baleba",
+    "home",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Conor Gallagher",
+    "away",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Sávio",
+    "away",
+    2.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Mohammed Kudus",
+    "away",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Bruno Fernandes",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Matheus Cunha",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Joshua Zirkzee",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Sandro Tonali",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Lucas Bergvall",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ]
+  ]
+ },
+ "401878775": {
+  "id": "401878775",
+  "comp": "PL",
+  "date": "2026-10-10",
+  "home": "Chelsea",
+  "away": "AFC Bournemouth",
+  "hg": 5,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 7,
+  "corners_h": 1,
+  "shots_h": 10,
+  "sot_h": 6,
+  "poss_h": 49.9,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 3,
+  "fouls_a": 15,
+  "corners_a": 7,
+  "shots_a": 9,
+  "sot_a": 4,
+  "poss_a": 50.1,
+  "yellow_a": 4,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 1,
+  "cards": 4,
+  "card_events": [
+   [
+    "Marcus Tavernier",
+    "away",
+    "yellow",
+    "10'"
+   ],
+   [
+    "Adrien Truffert",
+    "away",
+    "yellow",
+    "42'"
+   ],
+   [
+    "Tyler Adams",
+    "away",
+    "yellow",
+    "62'"
+   ],
+   [
+    "Ryan Christie",
+    "away",
+    "yellow",
+    "69'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Jordan Henderson",
+    "home",
+    3.0,
+    2.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Evanilson",
+    "away",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Pedro Neto",
+    "home",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "João Pedro",
+    "home",
+    2.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Morgan Rogers",
+    "home",
+    2.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "António Silva",
+    "away",
+    2.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Rayan",
+    "away",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Moisés Caicedo",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Ryan Christie",
+    "away",
+    1.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Álvaro Rodríguez",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401878776": {
+  "id": "401878776",
+  "comp": "PL",
+  "date": "2026-10-10",
+  "home": "Aston Villa",
+  "away": "Brentford",
+  "hg": 2,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 7,
+  "corners_h": 2,
+  "shots_h": 20,
+  "sot_h": 7,
+  "poss_h": 52.1,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 3,
+  "fouls_a": 24,
+  "corners_a": 2,
+  "shots_a": 14,
+  "sot_a": 4,
+  "poss_a": 47.9,
+  "yellow_a": 5,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 5,
+  "cards": 8,
+  "card_events": [
+   [
+    "Igor Thiago",
+    "away",
+    "yellow",
+    "35'"
+   ],
+   [
+    "Emiliano Buendía",
+    "home",
+    "yellow",
+    "45'+3'"
+   ],
+   [
+    "Matty Cash",
+    "home",
+    "yellow",
+    "72'"
+   ],
+   [
+    "Vitaly Janelt",
+    "away",
+    "yellow",
+    "75'"
+   ],
+   [
+    "Michael Kayode",
+    "away",
+    "yellow",
+    "82'"
+   ],
+   [
+    "Kristoffer Ajer",
+    "away",
+    "yellow",
+    "84'"
+   ],
+   [
+    "Callum Wilson",
+    "away",
+    "yellow",
+    "90'+5'"
+   ],
+   [
+    null,
+    "away",
+    "yellow",
+    "90'+5'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Johan Manzambi",
+    "home",
+    7.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Emiliano Buendía",
+    "home",
+    4.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Nicolas Jackson",
+    "home",
+    4.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Kevin Schade",
+    "away",
+    4.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "John McGinn",
+    "home",
+    3.0,
+    3.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Kristoffer Ajer",
+    "away",
+    2.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "El Hadji Malick Diouf",
+    "away",
+    2.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Jaidon Anthony",
+    "away",
+    2.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Boubacar Kamara",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Ibrahim Mbaye",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Keane Lewis-Potter",
+    "away",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Yehor Yarmoliuk",
+    "away",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Igor Thiago",
+    "away",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Dango Ouattara",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879265": {
+  "id": "401879265",
+  "comp": "PL",
+  "date": "2026-10-10",
+  "home": "Ipswich Town",
+  "away": "Fulham",
+  "hg": 2,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 8,
+  "corners_h": 2,
+  "shots_h": 11,
+  "sot_h": 5,
+  "poss_h": 47.6,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 3,
+  "fouls_a": 10,
+  "corners_a": 5,
+  "shots_a": 13,
+  "sot_a": 5,
+  "poss_a": 52.4,
+  "yellow_a": 4,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 3,
+  "cards": 6,
+  "card_events": [
+   [
+    "Leif Davis",
+    "home",
+    "yellow",
+    "19'"
+   ],
+   [
+    "Josh King",
+    "away",
+    "yellow",
+    "44'"
+   ],
+   [
+    "Calvin Bassey",
+    "away",
+    "yellow",
+    "51'"
+   ],
+   [
+    "Manuel Ángel",
+    "away",
+    "yellow",
+    "84'"
+   ],
+   [
+    "Emile Smith Rowe",
+    "away",
+    "yellow",
+    "90'+4'"
+   ],
+   [
+    "Christian Walton",
+    "home",
+    "yellow",
+    "90'+7'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Ryan Sessegnon",
+    "away",
+    3.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Gonzalo García",
+    "away",
+    3.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Julio Enciso",
+    "home",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Emersonn",
+    "home",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Sander Berge",
+    "away",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Dara O'Shea",
+    "home",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Issa Diop",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Leif Davis",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Abdoul Ouattara",
+    "home",
+    1.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Jaden Philogene",
+    "home",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Sindre Walle Egeli",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Chuba Akpom",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "David Affengruber",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Shea Charles",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Oscar Bobb",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Kevin",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Hugo Larsson",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879268": {
+  "id": "401879268",
+  "comp": "PL",
+  "date": "2026-10-10",
+  "home": "Arsenal",
+  "away": "Leeds United",
+  "hg": 2,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 12,
+  "corners_h": 3,
+  "shots_h": 13,
+  "sot_h": 6,
+  "poss_h": 58.2,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 7,
+  "saves_h": 4,
+  "fouls_a": 20,
+  "corners_a": 4,
+  "shots_a": 11,
+  "sot_a": 5,
+  "poss_a": 41.8,
+  "yellow_a": 4,
+  "red_a": 0,
+  "offsides_a": 4,
+  "saves_a": 4,
+  "cards": 6,
+  "card_events": [
+   [
+    "Ao Tanaka",
+    "away",
+    "yellow",
+    "36'"
+   ],
+   [
+    "Ethan Ampadu",
+    "away",
+    "yellow",
+    "38'"
+   ],
+   [
+    null,
+    "away",
+    "yellow",
+    "39'"
+   ],
+   [
+    "Tarik Muharemovic",
+    "away",
+    "yellow",
+    "59'"
+   ],
+   [
+    "James Justin",
+    "away",
+    "yellow",
+    "78'"
+   ],
+   [
+    "Martin Ødegaard",
+    "home",
+    "yellow",
+    "84'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Noni Madueke",
+    "home",
+    3.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "James Justin",
+    "away",
+    3.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Riccardo Calafiori",
+    "home",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Martin Ødegaard",
+    "home",
+    2.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Kai Havertz",
+    "home",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Bukayo Saka",
+    "home",
+    2.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Gabriel Gudmundsson",
+    "away",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Anton Stach",
+    "away",
+    2.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Myles Lewis-Skelly",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Bruno Guimarães",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Ao Tanaka",
+    "away",
+    1.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Ethan Ampadu",
+    "away",
+    1.0,
+    1.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Jayden Bogle",
+    "away",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Noah Okafor",
+    "away",
+    1.0,
+    0.0,
+    "CF-L",
+    true
+   ]
+  ]
+ },
+ "401878774": {
+  "id": "401878774",
+  "comp": "PL",
+  "date": "2026-10-11",
+  "home": "Hull City",
+  "away": "Everton",
+  "hg": 2,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 15,
+  "corners_h": 7,
+  "shots_h": 9,
+  "sot_h": 5,
+  "poss_h": 35.1,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 4,
+  "fouls_a": 4,
+  "corners_a": 6,
+  "shots_a": 15,
+  "sot_a": 7,
+  "poss_a": 64.9,
+  "yellow_a": 0,
+  "red_a": 0,
+  "offsides_a": 4,
+  "saves_a": 2,
+  "cards": 2,
+  "card_events": [
+   [
+    "Matt Crooks",
+    "home",
+    "yellow",
+    "13'"
+   ],
+   [
+    "Oliver McBurnie",
+    "home",
+    "yellow",
+    "21'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Thierno Barry",
+    "away",
+    5.0,
+    3.0,
+    "F",
+    true
+   ],
+   [
+    "Joe Gelhardt",
+    "home",
+    4.0,
+    4.0,
+    "RM",
+    true
+   ],
+   [
+    "Mohamed Belloumi",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Harrison Armstrong",
+    "away",
+    2.0,
+    2.0,
+    "LM",
+    true
+   ],
+   [
+    "Jack Grealish",
+    "away",
+    2.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "John Egan",
+    "home",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Nobel Mendy",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Sorba Thomas",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Michael Keane",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Jarrad Branthwaite",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Kiernan Dewsbury-Hall",
+    "away",
+    1.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "James Garner",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Brennan Johnson",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Charly Alcaraz",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879264": {
+  "id": "401879264",
+  "comp": "PL",
+  "date": "2026-10-11",
+  "home": "Liverpool",
+  "away": "Manchester City",
+  "hg": 0,
+  "ag": 3,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 19,
+  "corners_h": 5,
+  "shots_h": 13,
+  "sot_h": 6,
+  "poss_h": 35.4,
+  "yellow_h": 2,
+  "red_h": 1,
+  "offsides_h": 2,
+  "saves_h": 1,
+  "fouls_a": 14,
+  "corners_a": 6,
+  "shots_a": 15,
+  "sot_a": 4,
+  "poss_a": 64.6,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 6,
+  "cards": 6,
+  "card_events": [
+   [
+    "Ronald Araújo",
+    "home",
+    "yellow",
+    "8'"
+   ],
+   [
+    "Ryan Gravenberch",
+    "home",
+    "yellow",
+    "47'"
+   ],
+   [
+    "Nico O'Reilly",
+    "away",
+    "yellow",
+    "58'"
+   ],
+   [
+    "Ryan Gravenberch",
+    "home",
+    "red",
+    "62'"
+   ],
+   [
+    "Ayyoub Bouaddi",
+    "away",
+    "yellow",
+    "86'"
+   ],
+   [
+    "Virgil van Dijk",
+    "home",
+    "yellow",
+    "90'+1'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Rayan Cherki",
+    "away",
+    5.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Alexis Mac Allister",
+    "home",
+    4.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Florian Wirtz",
+    "home",
+    2.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Ryan Gravenberch",
+    "home",
+    2.0,
+    2.0,
+    "RM",
+    true
+   ],
+   [
+    "Víctor Muñoz",
+    "home",
+    2.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Elliot Anderson",
+    "away",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Erling Haaland",
+    "away",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Jérémy Doku",
+    "away",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jérémy Jacquet",
+    "home",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Lewis Koumas",
+    "home",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Bradley Barcola",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Enzo Fernández",
+    "away",
+    1.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Antoine Semenyo",
+    "away",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Ayyoub Bouaddi",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Josko Gvardiol",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879266": {
+  "id": "401879266",
+  "comp": "PL",
+  "date": "2026-10-11",
+  "home": "Crystal Palace",
+  "away": "Nottingham Forest",
+  "hg": 3,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 11,
+  "corners_h": 5,
+  "shots_h": 13,
+  "sot_h": 7,
+  "poss_h": 43.4,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 4,
+  "fouls_a": 10,
+  "corners_a": 8,
+  "shots_a": 24,
+  "sot_a": 6,
+  "poss_a": 56.6,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 4,
+  "cards": 4,
+  "card_events": [
+   [
+    "Jefferson Lerma",
+    "home",
+    "yellow",
+    "16'"
+   ],
+   [
+    "Yéremy Pino",
+    "home",
+    "yellow",
+    "60'"
+   ],
+   [
+    "Ola Aina",
+    "away",
+    "yellow",
+    "73'"
+   ],
+   [
+    "Murillo",
+    "away",
+    "yellow",
+    "90'+4'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Murillo",
+    "away",
+    4.0,
+    2.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Dan Ndoye",
+    "away",
+    4.0,
+    2.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Jefferson Lerma",
+    "home",
+    3.0,
+    2.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Jørgen Strand Larsen",
+    "home",
+    3.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Xaver Schlager",
+    "away",
+    3.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Neco Williams",
+    "away",
+    3.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Anan Khalaili",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Daniel Muñoz",
+    "away",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Liam Delap",
+    "away",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Morgan Gibbs-White",
+    "away",
+    2.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Chris Richards",
+    "home",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Quinten Timber",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Tyrick Mitchell",
+    "home",
+    1.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Yéremy Pino",
+    "home",
+    1.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Daichi Kamada",
+    "home",
+    1.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Ousmane Diomande",
+    "away",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Ola Aina",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "James McAtee",
+    "away",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Chris Wood",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879267": {
+  "id": "401879267",
+  "comp": "PL",
+  "date": "2026-10-12",
+  "home": "Coventry City",
+  "away": "Newcastle United",
+  "hg": 4,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 3,
+  "corners_h": 2,
+  "shots_h": 9,
+  "sot_h": 6,
+  "poss_h": 33.3,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 4,
+  "fouls_a": 10,
+  "corners_a": 6,
+  "shots_a": 19,
+  "sot_a": 6,
+  "poss_a": 66.7,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 5,
+  "saves_a": 2,
+  "cards": 3,
+  "card_events": [
+   [
+    "Jack Rudoni",
+    "home",
+    "red",
+    "6'"
+   ],
+   [
+    "Milan van Ewijk",
+    "home",
+    "yellow",
+    "66'"
+   ],
+   [
+    "Joelinton",
+    "away",
+    "yellow",
+    "81'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Joe Willock",
+    "away",
+    5.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Sidiki Cherif",
+    "home",
+    3.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Harvey Barnes",
+    "away",
+    3.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Stephen Mfuni",
+    "home",
+    2.0,
+    2.0,
+    "SUB",
+    false
+   ],
+   [
+    "Yoane Wissa",
+    "away",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Jacob Murphy",
+    "away",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Bazoumana Touré",
+    "away",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jack Rudoni",
+    "home",
+    1.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Brandon Thomas-Asante",
+    "home",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Ellis Simms",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Frank Onyeka",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Sven Botman",
+    "away",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Lewis Hall",
+    "away",
+    1.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Matias Fernandez-Pardo",
+    "away",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Amar Dedic",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "William Osula",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401878770": {
+  "id": "401878770",
+  "comp": "PL",
+  "date": "2026-10-17",
+  "home": "Fulham",
+  "away": "Hull City",
+  "hg": 1,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 13,
+  "corners_h": 10,
+  "shots_h": 18,
+  "sot_h": 6,
+  "poss_h": 76.2,
+  "yellow_h": 2,
+  "red_h": 1,
+  "offsides_h": 1,
+  "saves_h": 0,
+  "fouls_a": 11,
+  "corners_a": 2,
+  "shots_a": 5,
+  "sot_a": 0,
+  "poss_a": 23.8,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 5,
+  "cards": 5,
+  "card_events": [
+   [
+    "Lucas Herrington",
+    "away",
+    "yellow",
+    "22'"
+   ],
+   [
+    "Josh King",
+    "home",
+    "yellow",
+    "27'"
+   ],
+   [
+    "Regan Slater",
+    "away",
+    "yellow",
+    "27'"
+   ],
+   [
+    "Sander Berge",
+    "home",
+    "yellow",
+    "84'"
+   ],
+   [
+    "Ryan Sessegnon",
+    "home",
+    "red",
+    "90'+4'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Alex Iwobi",
+    "home",
+    5.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Oscar Bobb",
+    "home",
+    5.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Josh King",
+    "home",
+    3.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Mohamed Belloumi",
+    "away",
+    3.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Calvin Bassey",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Shea Charles",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Sander Berge",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Gonzalo García",
+    "home",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Tom Cairney",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Lewie Coyle",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Regan Slater",
+    "away",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ]
+  ]
+ },
+ "401878771": {
+  "id": "401878771",
+  "comp": "PL",
+  "date": "2026-10-17",
+  "home": "Everton",
+  "away": "Chelsea",
+  "hg": 0,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 8,
+  "corners_h": 5,
+  "shots_h": 6,
+  "sot_h": 5,
+  "poss_h": 47.2,
+  "yellow_h": 3,
+  "red_h": 0,
+  "offsides_h": 4,
+  "saves_h": 4,
+  "fouls_a": 15,
+  "corners_a": 7,
+  "shots_a": 18,
+  "sot_a": 7,
+  "poss_a": 52.8,
+  "yellow_a": 4,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 5,
+  "cards": 7,
+  "card_events": [
+   [
+    "Harrison Armstrong",
+    "home",
+    "yellow",
+    "23'"
+   ],
+   [
+    "Pedro Neto",
+    "away",
+    "yellow",
+    "27'"
+   ],
+   [
+    "Josh Acheampong",
+    "away",
+    "yellow",
+    "32'"
+   ],
+   [
+    "James Tarkowski",
+    "home",
+    "yellow",
+    "34'"
+   ],
+   [
+    "Morgan Rogers",
+    "away",
+    "yellow",
+    "34'"
+   ],
+   [
+    "Cole Palmer",
+    "away",
+    "yellow",
+    "65'"
+   ],
+   [
+    "Christian Nørgaard",
+    "home",
+    "yellow",
+    "89'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Cole Palmer",
+    "away",
+    6.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Thierno Barry",
+    "home",
+    3.0,
+    3.0,
+    "F",
+    true
+   ],
+   [
+    "João Pedro",
+    "away",
+    3.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Pedro Neto",
+    "away",
+    3.0,
+    3.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Jordan Henderson",
+    "away",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Morgan Rogers",
+    "away",
+    2.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Jarrad Branthwaite",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Jack Grealish",
+    "home",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Merlin Röhl",
+    "home",
+    1.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Maxence Lacroix",
+    "away",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Moisés Caicedo",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ]
+  ]
+ },
+ "401879258": {
+  "id": "401879258",
+  "comp": "PL",
+  "date": "2026-10-17",
+  "home": "Newcastle United",
+  "away": "Aston Villa",
+  "hg": 0,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 14,
+  "corners_h": 4,
+  "shots_h": 16,
+  "sot_h": 1,
+  "poss_h": 49.3,
+  "yellow_h": 6,
+  "red_h": 0,
+  "offsides_h": 5,
+  "saves_h": 2,
+  "fouls_a": 11,
+  "corners_a": 5,
+  "shots_a": 15,
+  "sot_a": 3,
+  "poss_a": 50.7,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 1,
+  "cards": 8,
+  "card_events": [
+   [
+    "Joelinton",
+    "home",
+    "yellow",
+    "18'"
+   ],
+   [
+    "Sven Botman",
+    "home",
+    "yellow",
+    "18'"
+   ],
+   [
+    "João Gomes",
+    "away",
+    "yellow",
+    "25'"
+   ],
+   [
+    "Alysson",
+    "away",
+    "yellow",
+    "28'"
+   ],
+   [
+    "Nico González",
+    "home",
+    "yellow",
+    "53'"
+   ],
+   [
+    "Yoane Wissa",
+    "home",
+    "yellow",
+    "55'"
+   ],
+   [
+    "William Osula",
+    "home",
+    "yellow",
+    "78'"
+   ],
+   [
+    "Malick Thiaw",
+    "home",
+    "yellow",
+    "86'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Yoane Wissa",
+    "home",
+    7.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Nicolas Jackson",
+    "away",
+    4.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Harvey Barnes",
+    "home",
+    3.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Johan Manzambi",
+    "away",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Ibrahim Mbaye",
+    "away",
+    3.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Sven Botman",
+    "home",
+    2.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Nico González",
+    "home",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Matty Cash",
+    "away",
+    2.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Joe Willock",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "William Osula",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Emiliano Buendía",
+    "away",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Ross Barkley",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Leon Goretzka",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879259": {
+  "id": "401879259",
+  "comp": "PL",
+  "date": "2026-10-17",
+  "home": "Manchester City",
+  "away": "Ipswich Town",
+  "hg": 3,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 8,
+  "corners_h": 2,
+  "shots_h": 19,
+  "sot_h": 6,
+  "poss_h": 69.8,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 1,
+  "fouls_a": 16,
+  "corners_a": 3,
+  "shots_a": 8,
+  "sot_a": 3,
+  "poss_a": 30.2,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 5,
+  "saves_a": 4,
+  "cards": 4,
+  "card_events": [
+   [
+    "Abdoul Ouattara",
+    "away",
+    "yellow",
+    "73'"
+   ],
+   [
+    "Zian Flemming",
+    "away",
+    "red",
+    "90'"
+   ],
+   [
+    "Josko Gvardiol",
+    "home",
+    "yellow",
+    "90'+7'"
+   ],
+   [
+    "Leif Davis",
+    "away",
+    "yellow",
+    "90'+12'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Erling Haaland",
+    "home",
+    5.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Iliman Ndiaye",
+    "home",
+    4.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Rúben Dias",
+    "home",
+    3.0,
+    2.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Phil Foden",
+    "home",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Emersonn",
+    "away",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Enzo Fernández",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Zian Flemming",
+    "away",
+    2.0,
+    2.0,
+    "SUB",
+    false
+   ],
+   [
+    "Nico O'Reilly",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Jérémy Doku",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Jacob Greaves",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Abdoul Ouattara",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Daizen Maeda",
+    "away",
+    1.0,
+    1.0,
+    "CF-R",
+    true
+   ]
+  ]
+ },
+ "401879262": {
+  "id": "401879262",
+  "comp": "PL",
+  "date": "2026-10-17",
+  "home": "Brentford",
+  "away": "Liverpool",
+  "hg": 1,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 7,
+  "corners_h": 3,
+  "shots_h": 10,
+  "sot_h": 2,
+  "poss_h": 40.1,
+  "yellow_h": 2,
+  "red_h": 2,
+  "offsides_h": 1,
+  "saves_h": 3,
+  "fouls_a": 13,
+  "corners_a": 9,
+  "shots_a": 21,
+  "sot_a": 5,
+  "poss_a": 59.9,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 1,
+  "cards": 8,
+  "card_events": [
+   [
+    "Bradley Barcola",
+    "away",
+    "yellow",
+    "31'"
+   ],
+   [
+    "Yehor Yarmoliuk",
+    "home",
+    "red",
+    "45'+8'"
+   ],
+   [
+    "Igor Thiago",
+    "home",
+    "yellow",
+    "46'"
+   ],
+   [
+    "Jérémy Jacquet",
+    "away",
+    "yellow",
+    "49'"
+   ],
+   [
+    "Alexis Mac Allister",
+    "away",
+    "yellow",
+    "53'"
+   ],
+   [
+    "Kevin Schade",
+    "home",
+    "yellow",
+    "60'"
+   ],
+   [
+    "Vitaly Janelt",
+    "home",
+    "yellow",
+    "63'"
+   ],
+   [
+    "Vitaly Janelt",
+    "home",
+    "red",
+    "90'+2'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Jaidon Anthony",
+    "home",
+    4.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Alexis Mac Allister",
+    "away",
+    4.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Bradley Barcola",
+    "away",
+    4.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Igor Thiago",
+    "home",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Víctor Muñoz",
+    "away",
+    3.0,
+    2.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Keane Lewis-Potter",
+    "home",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Alexander Isak",
+    "away",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Trey Nyoni",
+    "away",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Michael Kayode",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Virgil van Dijk",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Jérémy Jacquet",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Florian Wirtz",
+    "away",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Dominik Szoboszlai",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Rio Ngumoha",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Lewis Koumas",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401878769": {
+  "id": "401878769",
+  "comp": "PL",
+  "date": "2026-10-18",
+  "home": "Nottingham Forest",
+  "away": "Arsenal",
+  "hg": 0,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 14,
+  "corners_h": 8,
+  "shots_h": 14,
+  "sot_h": 2,
+  "poss_h": 26.2,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 0,
+  "fouls_a": 8,
+  "corners_a": 6,
+  "shots_a": 9,
+  "sot_a": 1,
+  "poss_a": 73.8,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 2,
+  "cards": 2,
+  "card_events": [
+   [
+    "Neco Williams",
+    "home",
+    "yellow",
+    "17'"
+   ],
+   [
+    "Noni Madueke",
+    "away",
+    "yellow",
+    "53'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Liam Delap",
+    "home",
+    4.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Murillo",
+    "home",
+    3.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "James McAtee",
+    "home",
+    2.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Dan Ndoye",
+    "home",
+    2.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Gabriel Magalhães",
+    "away",
+    2.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Kai Havertz",
+    "away",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Noni Madueke",
+    "away",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Xaver Schlager",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Neco Williams",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Chris Wood",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Declan Rice",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Viktor Gyökeres",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Mikel Merino",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879260": {
+  "id": "401879260",
+  "comp": "PL",
+  "date": "2026-10-18",
+  "home": "Leeds United",
+  "away": "Manchester United",
+  "hg": 1,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 16,
+  "corners_h": 2,
+  "shots_h": 12,
+  "sot_h": 5,
+  "poss_h": 61.3,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 2,
+  "fouls_a": 5,
+  "corners_a": 3,
+  "shots_a": 13,
+  "sot_a": 3,
+  "poss_a": 38.7,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 3,
+  "saves_a": 3,
+  "cards": 4,
+  "card_events": [
+   [
+    "Bruno Fernandes",
+    "away",
+    "yellow",
+    "17'"
+   ],
+   [
+    "Gabriel Gudmundsson",
+    "home",
+    "yellow",
+    "19'"
+   ],
+   [
+    "Ethan Ampadu",
+    "home",
+    "yellow",
+    "90'+2'"
+   ],
+   [
+    "Andrey Santos",
+    "away",
+    "yellow",
+    "90'+2'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Dominic Calvert-Lewin",
+    "home",
+    3.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Bryan Mbeumo",
+    "away",
+    3.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Bruno Fernandes",
+    "away",
+    3.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Ao Tanaka",
+    "home",
+    2.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Anton Stach",
+    "home",
+    2.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Amad Diallo",
+    "away",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Nico Elvedi",
+    "home",
+    1.0,
+    1.0,
+    "CD",
+    true
+   ],
+   [
+    "Tarik Muharemovic",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Jayden Bogle",
+    "home",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Noah Okafor",
+    "home",
+    1.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Lukas Nmecha",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Lisandro Martínez",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Youri Tielemans",
+    "away",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Carlos Baleba",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Mason Mount",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Matheus Cunha",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879261": {
+  "id": "401879261",
+  "comp": "PL",
+  "date": "2026-10-18",
+  "home": "Brighton & Hove Albion",
+  "away": "Crystal Palace",
+  "hg": 5,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 13,
+  "corners_h": 8,
+  "shots_h": 17,
+  "sot_h": 9,
+  "poss_h": 57.2,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 1,
+  "fouls_a": 11,
+  "corners_a": 5,
+  "shots_a": 5,
+  "sot_a": 1,
+  "poss_a": 42.8,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 5,
+  "cards": 3,
+  "card_events": [
+   [
+    "Pascal Gross",
+    "home",
+    "yellow",
+    "29'"
+   ],
+   [
+    "Daichi Kamada",
+    "away",
+    "yellow",
+    "51'"
+   ],
+   [
+    "Chema Andrés",
+    "home",
+    "yellow",
+    "64'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Yasin Ayari",
+    "home",
+    4.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Charalambos Kostoulas",
+    "home",
+    4.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Luka Vuskovic",
+    "home",
+    3.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Pascal Gross",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Anan Khalaili",
+    "away",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Ferdi Kadioglu",
+    "home",
+    1.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Diego Gómez",
+    "home",
+    1.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Jack Hinshelwood",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Georginio Rutter",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Yéremy Pino",
+    "away",
+    1.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Jefferson Lerma",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jean-Philippe Mateta",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879263": {
+  "id": "401879263",
+  "comp": "PL",
+  "date": "2026-10-18",
+  "home": "AFC Bournemouth",
+  "away": "Sunderland",
+  "hg": 2,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 16,
+  "corners_h": 5,
+  "shots_h": 29,
+  "sot_h": 6,
+  "poss_h": 65,
+  "yellow_h": 3,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 0,
+  "fouls_a": 7,
+  "corners_a": 3,
+  "shots_a": 3,
+  "sot_a": 0,
+  "poss_a": 35,
+  "yellow_a": 2,
+  "red_a": 1,
+  "offsides_a": 2,
+  "saves_a": 4,
+  "cards": 6,
+  "card_events": [
+   [
+    "Kevin Danso",
+    "away",
+    "red",
+    "17'"
+   ],
+   [
+    "António Silva",
+    "home",
+    "yellow",
+    "26'"
+   ],
+   [
+    "Omar Alderete",
+    "away",
+    "yellow",
+    "40'"
+   ],
+   [
+    "Lewis Cook",
+    "home",
+    "yellow",
+    "45'+6'"
+   ],
+   [
+    "Chris Rigg",
+    "away",
+    "yellow",
+    "65'"
+   ],
+   [
+    "Ryan Christie",
+    "home",
+    "yellow",
+    "79'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Rayan",
+    "home",
+    7.0,
+    3.0,
+    "RM",
+    true
+   ],
+   [
+    "Evanilson",
+    "home",
+    6.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Ryan Christie",
+    "home",
+    3.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Marcus Tavernier",
+    "home",
+    3.0,
+    2.0,
+    "LM",
+    true
+   ],
+   [
+    "Justin Kluivert",
+    "home",
+    3.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "James Hill",
+    "home",
+    2.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Tyler Adams",
+    "home",
+    1.0,
+    0.0,
+    "DM",
+    true
+   ],
+   [
+    "Adrien Truffert",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Adam Smith",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Lewis Cook",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Amine Adli",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Kevin Danso",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Enzo Le Fée",
+    "away",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Trai Hume",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ]
+  ]
+ },
+ "401879257": {
+  "id": "401879257",
+  "comp": "PL",
+  "date": "2026-10-19",
+  "home": "Tottenham Hotspur",
+  "away": "Coventry City",
+  "hg": 3,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "fouls_h": 15,
+  "corners_h": 4,
+  "shots_h": 16,
+  "sot_h": 5,
+  "poss_h": 65.4,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 6,
+  "saves_h": 0,
+  "fouls_a": 14,
+  "corners_a": 4,
+  "shots_a": 12,
+  "sot_a": 1,
+  "poss_a": 34.6,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 2,
+  "cards": 4,
+  "card_events": [
+   [
+    "Caleb Yirenkyi",
+    "away",
+    "yellow",
+    "20'"
+   ],
+   [
+    "Dominic Solanke",
+    "home",
+    "yellow",
+    "22'"
+   ],
+   [
+    "Jay Da Silva",
+    "away",
+    "yellow",
+    "45'"
+   ],
+   [
+    "Jack Rudoni",
+    "away",
+    "yellow",
+    "64'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Dominic Solanke",
+    "home",
+    3.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Taiwo Awoniyi",
+    "away",
+    3.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Sandro Tonali",
+    "home",
+    2.0,
+    0.0,
+    "SW",
+    true
+   ],
+   [
+    "James Maddison",
+    "home",
+    2.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Mohammed Kudus",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Omar Marmoush",
+    "home",
+    2.0,
+    2.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Bobby Thomas",
+    "away",
+    2.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Jack Rudoni",
+    "away",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Brandon Thomas-Asante",
+    "away",
+    2.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Mathys Tel",
+    "home",
+    1.0,
+    0.0,
+    null,
+    false
+   ],
+   [
+    "Ben Davies",
+    "home",
+    1.0,
+    1.0,
+    null,
+    false
+   ],
+   [
+    "Mateus Fernandes",
+    "home",
+    1.0,
+    1.0,
+    null,
+    false
+   ],
+   [
+    "Micky van de Ven",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Archie Gray",
+    "home",
+    1.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Ethan Pinnock",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Sidiki Cherif",
+    "away",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Tatsuhiro Sakamoto",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ]
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "run_utc": "2026-10-22T07:16:13+00:00",
+ "mode": "backfill",
+ "calls": 696,
+ "errors": [
+  "parse-pre UECL 401915835: AttributeError: 'NoneType' object has no attribute 'items'"
+ ],
+ "notes": [
+  {
+   "CL": 54,
+   "EL": 36,
+   "UECL": 18,
+   "PL": 70
+  },
+  {
+   "upcoming": 45
+  }
+ ]
+}
