@@ -116,15 +116,34 @@ jobs:
               return n
 
 
-          def kind_of(text, yflag=False, rflag=False):
+          def kind_of(text, yflag=None, rflag=None):
               t = (text or "").lower()
-              if "second yellow" in t or "yellow-red" in t or "yellow red" in t:
+              second = "second yellow" in t or "yellow-red" in t or "yellow red" in t
+              if yflag is not None or rflag is not None:  # ESPN scoreboard details carry explicit flags
+                  if second:
+                      return "second"
+                  if rflag:
+                      return "red"
+                  if yflag:
+                      return "yellow"
+                  return None
+              if second:
                   return "second"
-              if rflag or ("red" in t and "yellow" not in t):
+              if "card" not in t:  # e.g. "Penalty - Scored" contains "red"
+                  return None
+              if "red" in t:
                   return "red"
-              if yflag or "yellow" in t:
+              if "yellow" in t:
                   return "yellow"
               return None
+
+
+          def strip_links(o):
+              if isinstance(o, dict):
+                  return {k: strip_links(v) for k, v in o.items() if k not in ("links", "link", "$ref", "logos", "tracking", "href")}
+              if isinstance(o, list):
+                  return [strip_links(v) for v in o]
+              return o
 
 
           # ---------------- ESPN (current season, no key) ----------------
@@ -163,7 +182,7 @@ jobs:
               aid, a = by_side.get("away", (None, {}))
               row = {"id": ev.get("id"), "comp": code, "date": (ev.get("date") or "")[:10], "home": h.get("name"), "away": a.get("name"),
                      "hg": h.get("score"), "ag": a.get("score"),
-                     "round": ((ev.get("season") or {}).get("slug")) or None, "src": "espn"}
+                     "round": ((ev.get("season") or {}).get("slug")) or None, "src": "espn", "v": 2}
               # team stats from boxscore
               for t in ((summary or {}).get("boxscore") or {}).get("teams", []):
                   tid = str((t.get("team") or {}).get("id"))
@@ -180,7 +199,7 @@ jobs:
               # card events: scoreboard details first, then summary keyEvents
               evs, players = [], []
               for i, d in enumerate(comp.get("details") or []):
-                  k = kind_of((d.get("type") or {}).get("text"), d.get("yellowCard"), d.get("redCard"))
+                  k = kind_of((d.get("type") or {}).get("text"), bool(d.get("yellowCard")), bool(d.get("redCard")))
                   if not k:
                       continue
                   ath = (d.get("athletesInvolved") or [{}])[0]
@@ -225,8 +244,8 @@ jobs:
               by = {v["side"]: v for v in sd.values()}
               odds = []
               for o in comp.get("odds") or ((summary or {}).get("pickcenter") or []):
-                  o = {k: v for k, v in o.items() if k not in ("links", "link", "$ref")}
-                  odds.append(o)
+                  if isinstance(o, dict):
+                      odds.append(strip_links(o))
               return {"id": ev.get("id"), "comp": code, "kickoff_utc": ev.get("date"), "home": by.get("home", {}).get("name"),
                       "away": by.get("away", {}).get("name"), "referee": ref_from(summary), "odds": odds or None,
                       "round": ((ev.get("season") or {}).get("slug")) or None}
@@ -245,7 +264,7 @@ jobs:
                           done = stt.get("completed") or stt.get("state") == "post"
                           eid = str(ev.get("id"))
                           if done and upcoming is None:
-                              if eid in store[code] and store[code][eid].get("cards") is not None and MODE == "backfill":
+                              if eid in store[code] and store[code][eid].get("v") == 2 and MODE == "backfill":
                                   continue
                               summ = None
                               try:
@@ -449,7 +468,7 @@ jobs:
           DATE: ${{ inputs.date }}
         run: python .tools/fetch.py
       - name: API-Football historia 2022-2024
-        if: ${{ github.event_name == 'schedule' || inputs.mode == 'history' }}
+        if: ${{ always() }}
         env:
           MODE: history
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
