@@ -9,7 +9,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 10,
   "corners_h": 2,
   "shots_h": 5,
@@ -28,7 +28,7 @@
   "red_a": 0,
   "offsides_a": 1,
   "saves_a": 0,
-  "cards": 5,
+  "cards": 4,
   "card_events": [
    [
     "Josko Gvardiol",
@@ -41,12 +41,6 @@
     "away",
     "yellow",
     "49'"
-   ],
-   [
-    null,
-    "home",
-    "yellow",
-    "86'"
    ],
    [
     "Pablo Rosario",
@@ -62,6 +56,7 @@
    ]
   ],
   "cards_src": "events",
+  "staff_cards": 1,
   "referee": "Szymon Marciniak",
   "shooters": [
    [
@@ -196,7 +191,7 @@
   "ag": 3,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 17,
   "corners_h": 4,
   "shots_h": 14,
@@ -397,7 +392,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 15,
   "corners_h": 9,
   "shots_h": 18,
@@ -570,7 +565,7 @@
   "ag": 3,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 11,
   "corners_h": 5,
   "shots_h": 6,
@@ -733,7 +728,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 12,
   "corners_h": 4,
   "shots_h": 16,
@@ -946,7 +941,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 7,
   "corners_h": 7,
   "shots_h": 18,
@@ -965,14 +960,8 @@
   "red_a": 0,
   "offsides_a": 0,
   "saves_a": 2,
-  "cards": 4,
+  "cards": 3,
   "card_events": [
-   [
-    null,
-    "home",
-    "yellow",
-    "11'"
-   ],
    [
     "Luka Jovic",
     "home",
@@ -993,6 +982,7 @@
    ]
   ],
   "cards_src": "events",
+  "staff_cards": 1,
   "referee": "Luís Godinho",
   "shooters": [
    [
@@ -1159,7 +1149,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 12,
   "corners_h": 0,
   "shots_h": 5,
@@ -1334,7 +1324,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 10,
   "corners_h": 4,
   "shots_h": 24,
@@ -1487,7 +1477,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 8,
   "corners_h": 7,
   "shots_h": 35,
@@ -1634,7 +1624,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 11,
   "corners_h": 7,
   "shots_h": 14,
@@ -1787,7 +1777,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 13,
   "corners_h": 1,
   "shots_h": 8,
@@ -1806,7 +1796,7 @@
   "red_a": 0,
   "offsides_a": 0,
   "saves_a": 2,
-  "cards": 6,
+  "cards": 5,
   "card_events": [
    [
     "Sergi Altimira",
@@ -1833,12 +1823,6 @@
     "80'"
    ],
    [
-    null,
-    "away",
-    "yellow",
-    "83'"
-   ],
-   [
     "Ismail Jakobs",
     "away",
     "yellow",
@@ -1846,6 +1830,7 @@
    ]
   ],
   "cards_src": "events",
+  "staff_cards": 1,
   "referee": "Espen Eskas",
   "shooters": [
    [
@@ -1948,7 +1933,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 13,
   "corners_h": 4,
   "shots_h": 17,
@@ -2115,7 +2100,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 14,
   "corners_h": 3,
   "shots_h": 10,
@@ -2134,7 +2119,7 @@
   "red_a": 0,
   "offsides_a": 0,
   "saves_a": 1,
-  "cards": 10,
+  "cards": 9,
   "card_events": [
    [
     "Vinícius Tobias",
@@ -2179,12 +2164,6 @@
     "81'"
    ],
    [
-    null,
-    "away",
-    "yellow",
-    "87'"
-   ],
-   [
     "Dmytro Kryskiv",
     "away",
     "yellow",
@@ -2198,6 +2177,7 @@
    ]
   ],
   "cards_src": "events",
+  "staff_cards": 1,
   "referee": "Halil Meler",
   "shooters": [
    [
@@ -2300,7 +2280,7 @@
   "ag": 3,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 8,
   "corners_h": 6,
   "shots_h": 18,
@@ -2493,7 +2473,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 9,
   "corners_h": 1,
   "shots_h": 14,
@@ -2696,7 +2676,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 12,
   "corners_h": 7,
   "shots_h": 21,
@@ -2881,7 +2861,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 5,
   "corners_h": 6,
   "shots_h": 25,
@@ -3018,7 +2998,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 12,
   "corners_h": 1,
   "shots_h": 11,
@@ -3179,7 +3159,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 8,
   "corners_h": 4,
   "shots_h": 17,
@@ -3390,7 +3370,7 @@
   "ag": 3,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 12,
   "corners_h": 7,
   "shots_h": 8,
@@ -3599,7 +3579,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 11,
   "corners_h": 2,
   "shots_h": 11,
@@ -3618,14 +3598,8 @@
   "red_a": 1,
   "offsides_a": 2,
   "saves_a": 3,
-  "cards": 4,
+  "cards": 3,
   "card_events": [
-   [
-    null,
-    "home",
-    "yellow",
-    "37'"
-   ],
    [
     "Marcus Rashford",
     "away",
@@ -3646,6 +3620,7 @@
    ]
   ],
   "cards_src": "events",
+  "staff_cards": 1,
   "referee": null,
   "shooters": [
    [
@@ -3756,7 +3731,7 @@
   "ag": 4,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 6,
   "corners_h": 4,
   "shots_h": 30,
@@ -3775,7 +3750,7 @@
   "red_a": 0,
   "offsides_a": 2,
   "saves_a": 9,
-  "cards": 7,
+  "cards": 6,
   "card_events": [
    [
     "Jorne Spileers",
@@ -3808,12 +3783,6 @@
     "72'"
    ],
    [
-    null,
-    "away",
-    "yellow",
-    "81'"
-   ],
-   [
     "Felix Lemarechal",
     "away",
     "yellow",
@@ -3821,6 +3790,7 @@
    ]
   ],
   "cards_src": "events",
+  "staff_cards": 1,
   "referee": null,
   "shooters": [
    [
@@ -3987,7 +3957,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 13,
   "corners_h": 7,
   "shots_h": 16,
@@ -4122,7 +4092,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 8,
   "corners_h": 6,
   "shots_h": 21,
@@ -4307,7 +4277,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 13,
   "corners_h": 6,
   "shots_h": 19,
@@ -4482,7 +4452,7 @@
   "ag": 4,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 12,
   "corners_h": 1,
   "shots_h": 5,
@@ -4635,7 +4605,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 15,
   "corners_h": 4,
   "shots_h": 13,
@@ -4814,7 +4784,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 7,
   "corners_h": 4,
   "shots_h": 11,
@@ -4967,7 +4937,7 @@
   "ag": 3,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 11,
   "corners_h": 1,
   "shots_h": 15,
@@ -5148,7 +5118,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 16,
   "corners_h": 5,
   "shots_h": 12,
@@ -5343,7 +5313,7 @@
   "ag": 4,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 10,
   "corners_h": 11,
   "shots_h": 27,
@@ -5528,7 +5498,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 14,
   "corners_h": 5,
   "shots_h": 17,
@@ -5547,14 +5517,8 @@
   "red_a": 0,
   "offsides_a": 0,
   "saves_a": 4,
-  "cards": 8,
+  "cards": 7,
   "card_events": [
-   [
-    null,
-    "away",
-    "yellow",
-    "42'"
-   ],
    [
     "André Silva",
     "away",
@@ -5599,6 +5563,7 @@
    ]
   ],
   "cards_src": "events",
+  "staff_cards": 1,
   "referee": null,
   "shooters": [
    [
@@ -5733,7 +5698,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 12,
   "corners_h": 9,
   "shots_h": 20,
@@ -5902,7 +5867,7 @@
   "ag": 4,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 15,
   "corners_h": 5,
   "shots_h": 14,
@@ -6091,7 +6056,7 @@
   "ag": 6,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 7,
   "corners_h": 3,
   "shots_h": 12,
@@ -6286,7 +6251,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 19,
   "corners_h": 5,
   "shots_h": 13,
@@ -6457,7 +6422,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 15,
   "corners_h": 9,
   "shots_h": 18,
@@ -6476,7 +6441,7 @@
   "red_a": 1,
   "offsides_a": 0,
   "saves_a": 4,
-  "cards": 3,
+  "cards": 2,
   "card_events": [
    [
     "Maximilian Mittelstädt",
@@ -6489,15 +6454,10 @@
     "away",
     "red",
     "64'"
-   ],
-   [
-    null,
-    "away",
-    "yellow",
-    "85'"
    ]
   ],
   "cards_src": "events",
+  "staff_cards": 1,
   "referee": null,
   "shooters": [
    [
@@ -6624,7 +6584,7 @@
   "ag": 3,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 12,
   "corners_h": 8,
   "shots_h": 22,
@@ -6833,7 +6793,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 7,
   "corners_h": 2,
   "shots_h": 14,
@@ -7026,7 +6986,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 11,
   "corners_h": 2,
   "shots_h": 22,
@@ -7221,7 +7181,7 @@
   "ag": 3,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 7,
   "corners_h": 2,
   "shots_h": 17,
@@ -7396,7 +7356,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 6,
   "corners_h": 8,
   "shots_h": 17,
@@ -7559,7 +7519,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 10,
   "corners_h": 8,
   "shots_h": 26,
@@ -7718,7 +7678,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 12,
   "corners_h": 3,
   "shots_h": 15,
@@ -7737,7 +7697,7 @@
   "red_a": 0,
   "offsides_a": 2,
   "saves_a": 2,
-  "cards": 5,
+  "cards": 4,
   "card_events": [
    [
     "N'Golo Kanté",
@@ -7750,12 +7710,6 @@
     "home",
     "yellow",
     "49'"
-   ],
-   [
-    null,
-    "away",
-    "yellow",
-    "59'"
    ],
    [
     "Wiktor Nowak",
@@ -7771,6 +7725,7 @@
    ]
   ],
   "cards_src": "events",
+  "staff_cards": 1,
   "referee": null,
   "shooters": [
    [
@@ -7929,7 +7884,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 8,
   "corners_h": 4,
   "shots_h": 13,
@@ -8118,7 +8073,7 @@
   "ag": 2,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 15,
   "corners_h": 3,
   "shots_h": 13,
@@ -8295,7 +8250,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 13,
   "corners_h": 7,
   "shots_h": 18,
@@ -8464,7 +8419,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 6,
   "corners_h": 1,
   "shots_h": 11,
@@ -8677,7 +8632,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 8,
   "corners_h": 4,
   "shots_h": 23,
@@ -8860,7 +8815,7 @@
   "ag": 0,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 9,
   "corners_h": 5,
   "shots_h": 13,
@@ -9069,7 +9024,7 @@
   "ag": 3,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 10,
   "corners_h": 7,
   "shots_h": 16,
@@ -9260,7 +9215,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 7,
   "corners_h": 8,
   "shots_h": 21,
@@ -9415,7 +9370,7 @@
   "ag": 1,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 10,
   "corners_h": 1,
   "shots_h": 11,
@@ -9588,7 +9543,7 @@
   "ag": 4,
   "round": "league-phase",
   "src": "espn",
-  "v": 2,
+  "v": 3,
   "fouls_h": 9,
   "corners_h": 3,
   "shots_h": 15,

@@ -1,14 +1,18 @@
 {
- "run_utc": "2026-10-22T08:11:26+00:00",
+ "run_utc": "2026-10-22T09:05:21+00:00",
  "mode": "history",
- "calls": 2,
- "errors": [
-  "history CL 2024: RuntimeError: {\"plan\": \"Free plans do not have access to the Ids parameter.\"}"
- ],
+ "calls": 4633,
+ "errors": [],
  "notes": [],
- "af_remaining": null,
  "history_progress": {
-  "CL_2024": "0/189"
- },
- "history_complete": false
+  "CL_2024": "189 ottelua, valmis=True, asti 2025-06-30",
+  "CL_2023": "125 ottelua, valmis=True, asti 2024-06-30",
+  "CL_2022": "125 ottelua, valmis=True, asti 2023-06-30",
+  "EL_2024": "189 ottelua, valmis=True, asti 2025-06-30",
+  "EL_2023": "141 ottelua, valmis=True, asti 2024-06-30",
+  "EL_2022": "141 ottelua, valmis=True, asti 2023-06-30",
+  "UECL_2024": "153 ottelua, valmis=True, asti 2025-06-30",
+  "UECL_2023": "141 ottelua, valmis=True, asti 2024-06-30",
+  "UECL_2022": "141 ottelua, valmis=True, asti 2023-06-30"
+ }
 }

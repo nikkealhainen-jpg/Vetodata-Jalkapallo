@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-22T08:06:21+00:00",
+ "updated_utc": "2026-10-22T09:00:18+00:00",
  "matches": [
   {
    "id": "401915846",
@@ -18,7 +18,7 @@
       "displayName": "DraftKings"
      },
      "drawOdds": {
-      "moneyLine": 310
+      "moneyLine": 300
      },
      "total": {
       "displayName": "Total",
@@ -54,7 +54,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "+130"
+        "odds": "+125"
        }
       },
       "away": {
@@ -64,7 +64,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-180"
+        "odds": "-170"
        }
       }
      },
@@ -84,7 +84,7 @@
         "odds": "-150"
        },
        "close": {
-        "odds": "-165"
+        "odds": "-155"
        }
       },
       "draw": {
@@ -92,11 +92,11 @@
         "odds": "+285"
        },
        "close": {
-        "odds": "+310"
+        "odds": "+300"
        }
       }
      },
-     "details": "PAO -165"
+     "details": "PAO -155"
     }
    ],
    "round": "league-phase"
@@ -217,7 +217,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 350
+      "moneyLine": 360
      },
      "total": {
       "displayName": "Total",
@@ -253,7 +253,7 @@
        },
        "close": {
         "line": "-1.5",
-        "odds": "+135"
+        "odds": "+125"
        }
       },
       "away": {
@@ -263,7 +263,7 @@
        },
        "close": {
         "line": "+1.5",
-        "odds": "-190"
+        "odds": "-175"
        }
       }
      },
@@ -275,7 +275,7 @@
         "odds": "-150"
        },
        "close": {
-        "odds": "-180"
+        "odds": "-190"
        }
       },
       "away": {
@@ -283,7 +283,7 @@
         "odds": "+370"
        },
        "close": {
-        "odds": "+450"
+        "odds": "+475"
        }
       },
       "draw": {
@@ -291,11 +291,11 @@
         "odds": "+330"
        },
        "close": {
-        "odds": "+350"
+        "odds": "+360"
        }
       }
      },
-     "details": "DZG -180"
+     "details": "DZG -190"
     }
    ],
    "round": "league-phase"
@@ -437,7 +437,7 @@
        },
        "close": {
         "line": "u2.5",
-        "odds": "+135"
+        "odds": "+130"
        }
       }
      },
@@ -1306,7 +1306,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 600
+      "moneyLine": 650
      },
      "total": {
       "displayName": "Total",
@@ -1341,8 +1341,8 @@
         "odds": "-125"
        },
        "close": {
-        "line": "+1.5",
-        "odds": "+130"
+        "line": "+2.5",
+        "odds": "-180"
        }
       },
       "away": {
@@ -1351,8 +1351,8 @@
         "odds": "-115"
        },
        "close": {
-        "line": "-1.5",
-        "odds": "-185"
+        "line": "-2.5",
+        "odds": "+130"
        }
       }
      },
@@ -1364,7 +1364,7 @@
         "odds": "+650"
        },
        "close": {
-        "odds": "+1200"
+        "odds": "+1300"
        }
       },
       "away": {
@@ -1372,7 +1372,7 @@
         "odds": "-280"
        },
        "close": {
-        "odds": "-500"
+        "odds": "-525"
        }
       },
       "draw": {
@@ -1380,11 +1380,11 @@
         "odds": "+425"
        },
        "close": {
-        "odds": "+600"
+        "odds": "+650"
        }
       }
      },
-     "details": "BHA -500"
+     "details": "BHA -525"
     }
    ],
    "round": "league-phase"
@@ -1405,7 +1405,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 330
+      "moneyLine": 320
      },
      "total": {
       "displayName": "Total",
@@ -1451,7 +1451,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-155"
+        "odds": "-150"
        }
       }
      },
@@ -1479,7 +1479,7 @@
         "odds": "+310"
        },
        "close": {
-        "odds": "+330"
+        "odds": "+320"
        }
       }
      },
@@ -1801,7 +1801,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 270
+      "moneyLine": 285
      },
      "total": {
       "displayName": "Total",
@@ -1813,7 +1813,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-140"
+        "odds": "-145"
        }
       },
       "under": {
@@ -1837,7 +1837,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-110"
+        "odds": "-115"
        }
       },
       "away": {
@@ -1847,7 +1847,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-125"
+        "odds": "-120"
        }
       }
      },
@@ -1859,7 +1859,7 @@
         "odds": "+125"
        },
        "close": {
-        "odds": "+100"
+        "odds": "-105"
        }
       },
       "away": {
@@ -1867,7 +1867,7 @@
         "odds": "+210"
        },
        "close": {
-        "odds": "+260"
+        "odds": "+270"
        }
       },
       "draw": {
@@ -1875,11 +1875,11 @@
         "odds": "+260"
        },
        "close": {
-        "odds": "+270"
+        "odds": "+285"
        }
       }
      },
-     "details": "BOU +100"
+     "details": "BOU -105"
     }
    ],
    "round": "league-phase"
@@ -1900,7 +1900,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 285
+      "moneyLine": 275
      },
      "total": {
       "displayName": "Total",
@@ -1912,7 +1912,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "+120"
+        "odds": "+125"
        }
       },
       "under": {
@@ -1922,7 +1922,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-150"
+        "odds": "-155"
        }
       }
      },
@@ -1936,7 +1936,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "+110"
+        "odds": "+115"
        }
       },
       "away": {
@@ -1946,7 +1946,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-150"
+        "odds": "-165"
        }
       }
      },
@@ -1958,7 +1958,7 @@
         "odds": "+110"
        },
        "close": {
-        "odds": "+115"
+        "odds": "+125"
        }
       },
       "away": {
@@ -1966,7 +1966,7 @@
         "odds": "+220"
        },
        "close": {
-        "odds": "+205"
+        "odds": "+195"
        }
       },
       "draw": {
@@ -1974,11 +1974,11 @@
         "odds": "+290"
        },
        "close": {
-        "odds": "+285"
+        "odds": "+275"
        }
       }
      },
-     "details": "BES +115"
+     "details": "BES +125"
     }
    ],
    "round": "league-phase"
@@ -2021,7 +2021,7 @@
        },
        "close": {
         "line": "u2.5",
-        "odds": "+115"
+        "odds": "+120"
        }
       }
      },
@@ -2197,7 +2197,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 390
+      "moneyLine": 380
      },
      "total": {
       "displayName": "Total",
@@ -2209,7 +2209,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "+135"
+        "odds": "+140"
        }
       },
       "under": {
@@ -2233,7 +2233,7 @@
        },
        "close": {
         "line": "+1.5",
-        "odds": "-155"
+        "odds": "-160"
        }
       },
       "away": {
@@ -2243,7 +2243,7 @@
        },
        "close": {
         "line": "-1.5",
-        "odds": "+110"
+        "odds": "+115"
        }
       }
      },
@@ -2263,7 +2263,7 @@
         "odds": "-200"
        },
        "close": {
-        "odds": "-225"
+        "odds": "-210"
        }
       },
       "draw": {
@@ -2271,11 +2271,11 @@
         "odds": "+380"
        },
        "close": {
-        "odds": "+390"
+        "odds": "+380"
        }
       }
      },
-     "details": "RSO -225"
+     "details": "RSO -210"
     }
    ],
    "round": "league-phase"
@@ -2494,7 +2494,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 425
+      "moneyLine": 450
      },
      "total": {
       "displayName": "Total",
@@ -2516,7 +2516,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-165"
+        "odds": "-160"
        }
       }
      },
@@ -2530,7 +2530,7 @@
        },
        "close": {
         "line": "+1.5",
-        "odds": "-120"
+        "odds": "-115"
        }
       },
       "away": {
@@ -2540,7 +2540,7 @@
        },
        "close": {
         "line": "-1.5",
-        "odds": "-115"
+        "odds": "-120"
        }
       }
      },
@@ -2552,7 +2552,7 @@
         "odds": "+650"
        },
        "close": {
-        "odds": "+700"
+        "odds": "+750"
        }
       },
       "away": {
@@ -2560,7 +2560,7 @@
         "odds": "-255"
        },
        "close": {
-        "odds": "-280"
+        "odds": "-300"
        }
       },
       "draw": {
@@ -2568,11 +2568,11 @@
         "odds": "+400"
        },
        "close": {
-        "odds": "+425"
+        "odds": "+450"
        }
       }
      },
-     "details": "SLB -280"
+     "details": "SLB -300"
     }
    ],
    "round": "league-phase"
@@ -2629,7 +2629,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-105"
+        "odds": "+100"
        }
       },
       "away": {
@@ -2659,7 +2659,7 @@
         "odds": "+230"
        },
        "close": {
-        "odds": "+225"
+        "odds": "+220"
        }
       },
       "draw": {
@@ -2704,7 +2704,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-140"
+        "odds": "-135"
        }
       },
       "under": {
@@ -2803,7 +2803,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-155"
+        "odds": "-150"
        }
       },
       "under": {
@@ -2890,7 +2890,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 280
+      "moneyLine": 285
      },
      "total": {
       "displayName": "Total",
@@ -2902,7 +2902,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "+120"
+        "odds": "+115"
        }
       },
       "under": {
@@ -2912,7 +2912,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-155"
+        "odds": "-150"
        }
       }
      },
@@ -2926,7 +2926,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "+105"
+        "odds": "-105"
        }
       },
       "away": {
@@ -2936,7 +2936,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-150"
+        "odds": "-135"
        }
       }
      },
@@ -2948,7 +2948,7 @@
         "odds": "+150"
        },
        "close": {
-        "odds": "+120"
+        "odds": "+105"
        }
       },
       "away": {
@@ -2956,7 +2956,7 @@
         "odds": "+155"
        },
        "close": {
-        "odds": "+200"
+        "odds": "+230"
        }
       },
       "draw": {
@@ -2964,11 +2964,11 @@
         "odds": "+270"
        },
        "close": {
-        "odds": "+280"
+        "odds": "+285"
        }
       }
      },
-     "details": "AJA +120"
+     "details": "AJA +105"
     }
    ],
    "round": "league-phase"
@@ -3001,7 +3001,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-135"
+        "odds": "-140"
        }
       },
       "under": {
@@ -3531,7 +3531,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-160"
+        "odds": "-155"
        }
       },
       "away": {
