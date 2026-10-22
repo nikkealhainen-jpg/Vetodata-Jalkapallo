@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "daily = tuoreet ottelut, backfill = koko kausi, history = kaudet 2022-2024"
+        description: "daily = tuoreet ottelut, backfill = koko kausi, history = vain kaudet 2022-2024"
         default: daily
         type: choice
         options: [daily, backfill, history]
@@ -26,7 +26,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 110
     steps:
       - uses: actions/checkout@v4
       - name: Kirjoita hakuskripti
@@ -182,7 +182,7 @@ jobs:
               aid, a = by_side.get("away", (None, {}))
               row = {"id": ev.get("id"), "comp": code, "date": (ev.get("date") or "")[:10], "home": h.get("name"), "away": a.get("name"),
                      "hg": h.get("score"), "ag": a.get("score"),
-                     "round": ((ev.get("season") or {}).get("slug")) or None, "src": "espn", "v": 2}
+                     "round": ((ev.get("season") or {}).get("slug")) or None, "src": "espn", "v": 3}
               # team stats from boxscore
               for t in ((summary or {}).get("boxscore") or {}).get("teams", []):
                   tid = str((t.get("team") or {}).get("id"))
@@ -197,12 +197,15 @@ jobs:
                       if stats.get(src) is not None:
                           row[dst + sfx] = stats[src]
               # card events: scoreboard details first, then summary keyEvents
-              evs, players = [], []
+              evs, players, staff = [], [], 0
               for i, d in enumerate(comp.get("details") or []):
                   k = kind_of((d.get("type") or {}).get("text"), bool(d.get("yellowCard")), bool(d.get("redCard")))
                   if not k:
                       continue
                   ath = (d.get("athletesInvolved") or [{}])[0]
+                  if not (ath.get("id") or ath.get("displayName")):
+                      staff += 1  # coach/staff card: Paf counts players only
+                      continue
                   evs.append((ath.get("id") or f"x{i}", k))
                   players.append([ath.get("displayName"), sd.get(str((d.get("team") or {}).get("id")), {}).get("side"), k,
                                   (d.get("clock") or {}).get("displayValue")])
@@ -212,6 +215,9 @@ jobs:
                       if not k:
                           continue
                       ath = ((d.get("participants") or [{}])[0].get("athlete")) or {}
+                      if not (ath.get("id") or ath.get("displayName")):
+                          staff += 1
+                          continue
                       evs.append((ath.get("id") or f"x{i}", k))
                       players.append([ath.get("displayName"), sd.get(str((d.get("team") or {}).get("id")), {}).get("side"), k,
                                       (d.get("clock") or {}).get("displayValue")])
@@ -219,6 +225,8 @@ jobs:
                   row["cards"] = paf_count(evs)
                   row["card_events"] = players
                   row["cards_src"] = "events"
+                  if staff:
+                      row["staff_cards"] = staff
               elif row.get("yellow_h") is not None:
                   row["cards"] = sum(row.get(x) or 0 for x in ("yellow_h", "yellow_a", "red_h", "red_a"))
                   row["cards_src"] = "teamstats(approx)"
@@ -264,7 +272,7 @@ jobs:
                           done = stt.get("completed") or stt.get("state") == "post"
                           eid = str(ev.get("id"))
                           if done and upcoming is None:
-                              if eid in store[code] and store[code][eid].get("v") == 2 and MODE == "backfill":
+                              if eid in store[code] and store[code][eid].get("v") == 3 and MODE == "backfill":
                                   continue
                               summ = None
                               try:
@@ -350,104 +358,59 @@ jobs:
               ST["notes"].append({"upcoming": len(up)})
 
 
-          # ---------------- API-Football history 2022-2024 (free plan) ----------------
-
-          def af(path, **params):
-              url = "https://v3.football.api-sports.io/" + path + "?" + urllib.parse.urlencode(params)
-              data, hdr = http(url, {"x-apisports-key": KEY})
-              rem = hdr.get("x-ratelimit-requests-remaining")
-              ST["af_remaining"] = rem
-              if data.get("errors"):
-                  raise RuntimeError(json.dumps(data["errors"])[:200])
-              time.sleep(6.5)  # free plan: 10 requests / minute
-              return data.get("response", []), (int(rem) if rem and str(rem).isdigit() else 99)
-
-
-          def main_round(r):
-              r = r or ""
-              return not ("Qualifying" in r or "Preliminary" in r or r.strip() == "Play-offs")
-
-
-          def af_row(code, season, f):
-              fx, tm, gl = f.get("fixture", {}), f.get("teams", {}), f.get("goals", {})
-              hid = (tm.get("home") or {}).get("id")
-              row = {"id": fx.get("id"), "comp": code, "season": season, "round": (f.get("league") or {}).get("round"),
-                     "date": (fx.get("date") or "")[:10], "home": (tm.get("home") or {}).get("name"),
-                     "away": (tm.get("away") or {}).get("name"), "hg": gl.get("home"), "ag": gl.get("away"),
-                     "referee": ((fx.get("referee") or "").split(",")[0].strip() or None), "src": "api-football"}
-              for s in f.get("statistics") or []:
-                  sfx = "_h" if (s.get("team") or {}).get("id") == hid else "_a"
-                  st = {x.get("type"): num(x.get("value")) for x in s.get("statistics") or []}
-                  for src, dst in [("Fouls", "fouls"), ("Corner Kicks", "corners"), ("Total Shots", "shots"),
-                                   ("Shots on Goal", "sot"), ("Ball Possession", "poss"), ("Yellow Cards", "yellow"),
-                                   ("Red Cards", "red"), ("expected_goals", "xg")]:
-                      if st.get(src) is not None:
-                          row[dst + sfx] = st[src]
-              evs = []
-              for i, e in enumerate(f.get("events") or []):
-                  if e.get("type") != "Card":
-                      continue
-                  k = kind_of(e.get("detail"))
-                  if k:
-                      evs.append(((e.get("player") or {}).get("id") or f"x{i}", k))
-              if f.get("events") is not None:
-                  row["cards"] = paf_count(evs)
-              return row
-
+          # ---------------- History 2022-2024 from ESPN (no key, resumable) ----------------
 
           def run_history():
-              if not KEY:
-                  ST["errors"].append("API_FOOTBALL_KEY missing")
-                  return
-              stop = False
-              for season in SEASONS:
-                  for code, lid in AF.items():
-                      if stop:
-                          break
+              seasons = [int(x) for x in (os.environ.get("SEASONS") or "2024,2023,2022").split(",") if x.strip()]
+              budget = time.time() + 60 * float(os.environ.get("HIST_MINUTES") or 75)
+              sample = [True]
+              for season in seasons:
+                  for code in ("CL", "EL", "UECL"):
                       p = f"data/history/{code}_{season}.json"
-                      h = rd(p, {"ids": None, "rows": {}})
-                      try:
-                          if h["ids"] is None:
-                              resp, rem = af("fixtures", league=lid, season=season)
-                              h["ids"] = [f["fixture"]["id"] for f in resp
-                                          if main_round((f.get("league") or {}).get("round"))
-                                          and (f.get("fixture") or {}).get("status", {}).get("short") in ("FT", "AET", "PEN")]
+                      h = rd(p, {"done_until": None, "complete": False, "rows": {}})
+                      if h.get("complete"):
+                          continue
+                      d0 = dt.date(season, 7, 1)
+                      if h.get("done_until"):
+                          d0 = dt.date.fromisoformat(h["done_until"]) + dt.timedelta(1)
+                      end = dt.date(season + 1, 6, 30)
+                      store = {code: h["rows"]}
+                      d = d0
+                      while d <= end and time.time() < budget:
+                          saved = dict(ESPN)
+                          try:
+                              ESPN.clear(); ESPN[code] = saved[code]
+                              espn_days([d], store, None, sample)
+                          finally:
+                              ESPN.clear(); ESPN.update(saved)
+                          h["done_until"] = d.isoformat()
+                          d += dt.timedelta(1)
+                          if d.day == 1:
                               wr(p, h)
-                              if rem < 3:
-                                  stop = True
-                                  break
-                          todo = [i for i in h["ids"] if str(i) not in h["rows"]]
-                          for j in range(0, len(todo), 20):
-                              resp, rem = af("fixtures", ids="-".join(str(i) for i in todo[j:j + 20]))
-                              for f in resp:
-                                  r = af_row(code, season, f)
-                                  h["rows"][str(r["id"])] = r
-                              wr(p, h)
-                              if rem < 3:
-                                  stop = True
-                                  break
-                      except Exception as e:
-                          err(f"history {code} {season}", e)
-                          if "limit" in str(e).lower() or "plan" in str(e).lower():
-                              stop = True
+                      for r in h["rows"].values():
+                          r["season"] = season
+                      h["complete"] = d > end
+                      wr(p, h)
+                      if time.time() >= budget:
+                          ST["notes"].append("time budget reached, continues next run")
+                          break
               out, allrows, prog = {}, [], {}
-              for code in AF:
+              for code in ("CL", "EL", "UECL"):
                   pooled = []
-                  for season in SEASONS:
+                  for season in seasons:
                       h = rd(f"data/history/{code}_{season}.json", None)
                       if not h:
                           continue
                       rows = list(h["rows"].values())
-                      prog[f"{code}_{season}"] = f"{len(rows)}/{len(h['ids'] or [])}"
+                      prog[f"{code}_{season}"] = f"{len(rows)} ottelua, valmis={h.get('complete')}, asti {h.get('done_until')}"
                       out.setdefault(code, {})[str(season)] = summarize(rows)
                       pooled += rows
                   if pooled:
                       out[code]["pooled"] = summarize(pooled)
                       allrows += pooled
-              wr("data/history/summary.json", {"updated_utc": ST["run_utc"], "progress": prog, "by_comp": out,
+              wr("data/history/summary.json", {"updated_utc": ST["run_utc"], "source": "ESPN", "progress": prog, "by_comp": out,
                                                "referees_uefa_2022_2024": referees(allrows)})
               ST["history_progress"] = prog
-              ST["history_complete"] = all(a == b for a, b in (v.split("/") for v in prog.values())) and len(prog) == len(AF) * len(SEASONS)
 
 
           if __name__ == "__main__":
@@ -467,11 +430,10 @@ jobs:
           MODE: ${{ inputs.mode || 'daily' }}
           DATE: ${{ inputs.date }}
         run: python .tools/fetch.py
-      - name: API-Football historia 2022-2024
+      - name: Historia 2022-2024 (ESPN)
         if: ${{ always() }}
         env:
           MODE: history
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: python .tools/fetch.py
       - name: Tallenna data
         run: |
