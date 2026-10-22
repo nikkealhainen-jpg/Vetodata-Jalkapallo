@@ -1,33 +1,464 @@
 name: Hae ottelutilastot
+
 on:
   schedule:
     - cron: "10 22 * * *"
     - cron: "30 4 * * *"
   workflow_dispatch:
     inputs:
+      mode:
+        description: "daily = tuoreet ottelut, backfill = koko kausi, history = kaudet 2022-2024"
+        default: daily
+        type: choice
+        options: [daily, backfill, history]
       date:
-        description: "Päivä muodossa VVVV-KK-PP (tyhjä = viimeisin pelipäivä)"
+        description: "Vapaaehtoinen paiva YYYY-MM-DD"
         required: false
         default: ""
+
 permissions:
   contents: write
+
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - name: Hae data
-        run: python scripts/scripts/fetch_api_football.py
+      - name: Kirjoita hakuskripti
+        run: |
+          mkdir -p .tools
+          cat > .tools/fetch.py <<'PYEOF'
+          import os, json, time, datetime as dt, urllib.request, urllib.parse
+
+          MODE = (os.environ.get("MODE") or "daily").strip()
+          if MODE == "daily" and not (os.environ.get("DATE") or "").strip() and not os.path.exists("data/espn/CL.json"):
+              MODE = "backfill"  # first run: fetch the whole season so far
+          DATE = (os.environ.get("DATE") or "").strip()
+          START = (os.environ.get("START") or "2026-07-01").strip()
+          SEASONS = [int(s) for s in (os.environ.get("SEASONS") or "2024,2023,2022").split(",") if s.strip()]
+          KEY = os.environ.get("API_FOOTBALL_KEY", "")
+          ESPN = {"CL": "uefa.champions", "EL": "uefa.europa", "UECL": "uefa.europa.conf", "PL": "eng.1"}
+          AF = {"CL": 2, "EL": 3, "UECL": 848}
+          NOW = dt.datetime.now(dt.timezone.utc)
+          ST = {"run_utc": NOW.isoformat(timespec="seconds"), "mode": MODE, "calls": 0, "errors": [], "notes": []}
+
+
+          def http(url, headers=None):
+              h = {"User-Agent": "Mozilla/5.0 (Vetodata-Jalkapallo)"}
+              h.update(headers or {})
+              last = None
+              for i in range(3):
+                  try:
+                      ST["calls"] += 1
+                      with urllib.request.urlopen(urllib.request.Request(url, headers=h), timeout=30) as r:
+                          return json.loads(r.read().decode("utf-8")), r.headers
+                  except Exception as e:
+                      last = e
+                      time.sleep(2 + 3 * i)
+              raise last
+
+
+          def err(where, e):
+              if len(ST["errors"]) < 60:
+                  ST["errors"].append(f"{where}: {type(e).__name__}: {str(e)[:200]}")
+
+
+          def rd(p, d):
+              try:
+                  with open(p, encoding="utf-8") as f:
+                      return json.load(f)
+              except Exception:
+                  return d
+
+
+          def wr(p, obj):
+              os.makedirs(os.path.dirname(p), exist_ok=True)
+              with open(p, "w", encoding="utf-8") as f:
+                  json.dump(obj, f, ensure_ascii=False, indent=1)
+
+
+          def num(v):
+              if v is None:
+                  return None
+              if isinstance(v, (int, float)):
+                  return v
+              s = str(v).replace("%", "").strip()
+              try:
+                  f = float(s)
+                  return int(f) if f.is_integer() else f
+              except ValueError:
+                  return None
+
+
+          def paf_count(card_events):
+              """card_events: list of (player_key, kind) kind in yellow/second/red.
+              Paf: yellow 1, straight red 1, two yellows = 2 (the red that follows is not extra)."""
+              per = {}
+              for k, kind in card_events:
+                  p = per.setdefault(k, {"y": 0, "r": 0})
+                  if kind == "second":
+                      p["y"] = max(p["y"], 1) + 1
+                  elif kind == "yellow":
+                      p["y"] += 1
+                  else:
+                      p["r"] += 1
+              n = 0
+              for p in per.values():
+                  if p["y"] >= 2:
+                      n += 2
+                  else:
+                      n += p["y"] + min(p["r"], 1)
+              return n
+
+
+          def kind_of(text, yflag=False, rflag=False):
+              t = (text or "").lower()
+              if "second yellow" in t or "yellow-red" in t or "yellow red" in t:
+                  return "second"
+              if rflag or ("red" in t and "yellow" not in t):
+                  return "red"
+              if yflag or "yellow" in t:
+                  return "yellow"
+              return None
+
+
+          # ---------------- ESPN (current season, no key) ----------------
+
+          def espn(league, endpoint, **params):
+              q = urllib.parse.urlencode(params)
+              url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/{endpoint}" + (f"?{q}" if q else "")
+              data, _ = http(url)
+              time.sleep(0.25)
+              return data
+
+
+          def sides(comp):
+              out = {}
+              for c in comp.get("competitors", []):
+                  t = c.get("team") or {}
+                  out[str(t.get("id") or c.get("id"))] = {
+                      "side": c.get("homeAway"), "name": t.get("displayName") or t.get("name"), "score": num(c.get("score"))}
+              return out
+
+
+          def ref_from(summary):
+              gi = (summary or {}).get("gameInfo") or {}
+              for o in gi.get("officials") or []:
+                  pos = ((o.get("position") or {}).get("name") or (o.get("position") or {}).get("displayName") or "").lower()
+                  if not pos or "referee" in pos and "assistant" not in pos and "video" not in pos:
+                      return o.get("fullName") or o.get("displayName")
+              return None
+
+
+          def parse_played(code, league, ev, summary):
+              comp = (ev.get("competitions") or [{}])[0]
+              sd = sides(comp)
+              by_side = {v["side"]: (k, v) for k, v in sd.items()}
+              hid, h = by_side.get("home", (None, {}))
+              aid, a = by_side.get("away", (None, {}))
+              row = {"id": ev.get("id"), "comp": code, "date": (ev.get("date") or "")[:10], "home": h.get("name"), "away": a.get("name"),
+                     "hg": h.get("score"), "ag": a.get("score"),
+                     "round": ((ev.get("season") or {}).get("slug")) or None, "src": "espn"}
+              # team stats from boxscore
+              for t in ((summary or {}).get("boxscore") or {}).get("teams", []):
+                  tid = str((t.get("team") or {}).get("id"))
+                  side = sd.get(tid, {}).get("side") or t.get("homeAway")
+                  sfx = {"home": "_h", "away": "_a"}.get(side)
+                  if not sfx:
+                      continue
+                  stats = {s.get("name"): num(s.get("displayValue", s.get("value"))) for s in t.get("statistics", [])}
+                  for src, dst in [("foulsCommitted", "fouls"), ("wonCorners", "corners"), ("totalShots", "shots"),
+                                   ("shotsOnTarget", "sot"), ("possessionPct", "poss"), ("yellowCards", "yellow"),
+                                   ("redCards", "red"), ("offsides", "offsides"), ("saves", "saves")]:
+                      if stats.get(src) is not None:
+                          row[dst + sfx] = stats[src]
+              # card events: scoreboard details first, then summary keyEvents
+              evs, players = [], []
+              for i, d in enumerate(comp.get("details") or []):
+                  k = kind_of((d.get("type") or {}).get("text"), d.get("yellowCard"), d.get("redCard"))
+                  if not k:
+                      continue
+                  ath = (d.get("athletesInvolved") or [{}])[0]
+                  evs.append((ath.get("id") or f"x{i}", k))
+                  players.append([ath.get("displayName"), sd.get(str((d.get("team") or {}).get("id")), {}).get("side"), k,
+                                  (d.get("clock") or {}).get("displayValue")])
+              if not evs:
+                  for i, d in enumerate((summary or {}).get("keyEvents") or []):
+                      k = kind_of((d.get("type") or {}).get("text") or (d.get("type") or {}).get("type"))
+                      if not k:
+                          continue
+                      ath = ((d.get("participants") or [{}])[0].get("athlete")) or {}
+                      evs.append((ath.get("id") or f"x{i}", k))
+                      players.append([ath.get("displayName"), sd.get(str((d.get("team") or {}).get("id")), {}).get("side"), k,
+                                      (d.get("clock") or {}).get("displayValue")])
+              if evs:
+                  row["cards"] = paf_count(evs)
+                  row["card_events"] = players
+                  row["cards_src"] = "events"
+              elif row.get("yellow_h") is not None:
+                  row["cards"] = sum(row.get(x) or 0 for x in ("yellow_h", "yellow_a", "red_h", "red_a"))
+                  row["cards_src"] = "teamstats(approx)"
+              row["referee"] = ref_from(summary)
+              # player shots
+              shooters = []
+              for r in (summary or {}).get("rosters") or []:
+                  side = r.get("homeAway") or sd.get(str((r.get("team") or {}).get("id")), {}).get("side")
+                  for p in r.get("roster") or []:
+                      st = {s.get("name"): num(s.get("value", s.get("displayValue"))) for s in p.get("stats") or []}
+                      sh = st.get("totalShots") or 0
+                      if sh:
+                          shooters.append([(p.get("athlete") or {}).get("displayName"), side, sh, st.get("shotsOnTarget"),
+                                           (p.get("position") or {}).get("abbreviation"), bool(p.get("starter"))])
+              if shooters:
+                  row["shooters"] = sorted(shooters, key=lambda x: -(x[2] or 0))
+              return row
+
+
+          def parse_upcoming(code, ev, summary):
+              comp = (ev.get("competitions") or [{}])[0]
+              sd = sides(comp)
+              by = {v["side"]: v for v in sd.values()}
+              odds = []
+              for o in comp.get("odds") or ((summary or {}).get("pickcenter") or []):
+                  o = {k: v for k, v in o.items() if k not in ("links", "link", "$ref")}
+                  odds.append(o)
+              return {"id": ev.get("id"), "comp": code, "kickoff_utc": ev.get("date"), "home": by.get("home", {}).get("name"),
+                      "away": by.get("away", {}).get("name"), "referee": ref_from(summary), "odds": odds or None,
+                      "round": ((ev.get("season") or {}).get("slug")) or None}
+
+
+          def espn_days(days, store, upcoming, sample_saved):
+              for code, league in ESPN.items():
+                  for day in days:
+                      try:
+                          sb = espn(league, "scoreboard", dates=day.strftime("%Y%m%d"))
+                      except Exception as e:
+                          err(f"scoreboard {code} {day}", e)
+                          continue
+                      for ev in sb.get("events", []):
+                          stt = ((ev.get("status") or {}).get("type") or {})
+                          done = stt.get("completed") or stt.get("state") == "post"
+                          eid = str(ev.get("id"))
+                          if done and upcoming is None:
+                              if eid in store[code] and store[code][eid].get("cards") is not None and MODE == "backfill":
+                                  continue
+                              summ = None
+                              try:
+                                  summ = espn(league, "summary", event=eid)
+                                  if not sample_saved[0]:
+                                      wr("data/espn/_sample_summary_keys.json", {k: (list(v.keys()) if isinstance(v, dict) else type(v).__name__) for k, v in summ.items()})
+                                      sample_saved[0] = True
+                              except Exception as e:
+                                  err(f"summary {code} {eid}", e)
+                              try:
+                                  store[code][eid] = parse_played(code, league, ev, summ)
+                              except Exception as e:
+                                  err(f"parse {code} {eid}", e)
+                          elif not done and upcoming is not None and stt.get("state") == "pre":
+                              summ = None
+                              try:
+                                  summ = espn(league, "summary", event=eid)
+                              except Exception as e:
+                                  err(f"summary-pre {code} {eid}", e)
+                              try:
+                                  upcoming.append(parse_upcoming(code, ev, summ))
+                              except Exception as e:
+                                  err(f"parse-pre {code} {eid}", e)
+
+
+          def summarize(rows):
+              rows = [r for r in rows if r.get("hg") is not None and r.get("ag") is not None]
+              n = len(rows)
+              if not n:
+                  return {"n": 0}
+              g = [r["hg"] + r["ag"] for r in rows]
+              out = {"n": n, "goals_avg": round(sum(g) / n, 2), "over2.5": round(sum(x > 2.5 for x in g) / n, 3),
+                     "over3.5": round(sum(x > 3.5 for x in g) / n, 3),
+                     "btts": round(sum(r["hg"] > 0 and r["ag"] > 0 for r in rows) / n, 3)}
+              c = [r["cards"] for r in rows if r.get("cards") is not None]
+              if c:
+                  out.update({"cards_n": len(c), "cards_avg": round(sum(c) / len(c), 2),
+                              "cards_u3.5": round(sum(x < 3.5 for x in c) / len(c), 3),
+                              "cards_u4.5": round(sum(x < 4.5 for x in c) / len(c), 3),
+                              "cards_u5.5": round(sum(x < 5.5 for x in c) / len(c), 3)})
+              for k in ("fouls", "corners", "shots", "sot"):
+                  v = [r[k + "_h"] + r[k + "_a"] for r in rows if r.get(k + "_h") is not None and r.get(k + "_a") is not None]
+                  if v:
+                      out[k + "_avg"] = round(sum(v) / len(v), 2)
+              return out
+
+
+          def referees(rows):
+              t = {}
+              for r in rows:
+                  if r.get("referee") and r.get("cards") is not None:
+                      x = t.setdefault(r["referee"], [0, 0, 0])
+                      x[0] += 1
+                      x[1] += r["cards"]
+                      x[2] += (r.get("fouls_h") or 0) + (r.get("fouls_a") or 0)
+              return {k: {"n": v[0], "cards_avg": round(v[1] / v[0], 2), "fouls_avg": round(v[2] / v[0], 1)}
+                      for k, v in sorted(t.items(), key=lambda kv: -kv[1][0])}
+
+
+          def run_espn():
+              store = {c: rd(f"data/espn/{c}.json", {}) for c in ESPN}
+              sample = [os.path.exists("data/espn/_sample_summary_keys.json")]
+              today = NOW.date()
+              if MODE == "backfill":
+                  d0 = dt.date.fromisoformat(START)
+                  days = [d0 + dt.timedelta(i) for i in range((today - d0).days + 1)]
+              elif DATE:
+                  days = [dt.date.fromisoformat(DATE)]
+              else:
+                  days = [today - dt.timedelta(2), today - dt.timedelta(1), today]
+              espn_days(days, store, None, sample)
+              for c in ESPN:
+                  store[c] = dict(sorted(store[c].items(), key=lambda kv: (kv[1].get("date") or "", kv[0])))
+                  wr(f"data/espn/{c}.json", store[c])
+              up = []
+              espn_days([today + dt.timedelta(i) for i in range(0, 4)], store, up, sample)
+              wr("data/espn/upcoming.json", {"updated_utc": ST["run_utc"], "matches": sorted(up, key=lambda r: r.get("kickoff_utc") or "")})
+              allrows = [r for c in ESPN for r in store[c].values()]
+              wr("data/espn/summary.json", {"updated_utc": ST["run_utc"], "season": "2026/27 (ESPN, from " + START + ")",
+                                            "by_comp": {c: summarize(list(store[c].values())) for c in ESPN},
+                                            "referees": referees(allrows)})
+              ST["notes"].append({c: len(store[c]) for c in ESPN})
+              ST["notes"].append({"upcoming": len(up)})
+
+
+          # ---------------- API-Football history 2022-2024 (free plan) ----------------
+
+          def af(path, **params):
+              url = "https://v3.football.api-sports.io/" + path + "?" + urllib.parse.urlencode(params)
+              data, hdr = http(url, {"x-apisports-key": KEY})
+              rem = hdr.get("x-ratelimit-requests-remaining")
+              ST["af_remaining"] = rem
+              if data.get("errors"):
+                  raise RuntimeError(json.dumps(data["errors"])[:200])
+              time.sleep(6.5)  # free plan: 10 requests / minute
+              return data.get("response", []), (int(rem) if rem and str(rem).isdigit() else 99)
+
+
+          def main_round(r):
+              r = r or ""
+              return not ("Qualifying" in r or "Preliminary" in r or r.strip() == "Play-offs")
+
+
+          def af_row(code, season, f):
+              fx, tm, gl = f.get("fixture", {}), f.get("teams", {}), f.get("goals", {})
+              hid = (tm.get("home") or {}).get("id")
+              row = {"id": fx.get("id"), "comp": code, "season": season, "round": (f.get("league") or {}).get("round"),
+                     "date": (fx.get("date") or "")[:10], "home": (tm.get("home") or {}).get("name"),
+                     "away": (tm.get("away") or {}).get("name"), "hg": gl.get("home"), "ag": gl.get("away"),
+                     "referee": ((fx.get("referee") or "").split(",")[0].strip() or None), "src": "api-football"}
+              for s in f.get("statistics") or []:
+                  sfx = "_h" if (s.get("team") or {}).get("id") == hid else "_a"
+                  st = {x.get("type"): num(x.get("value")) for x in s.get("statistics") or []}
+                  for src, dst in [("Fouls", "fouls"), ("Corner Kicks", "corners"), ("Total Shots", "shots"),
+                                   ("Shots on Goal", "sot"), ("Ball Possession", "poss"), ("Yellow Cards", "yellow"),
+                                   ("Red Cards", "red"), ("expected_goals", "xg")]:
+                      if st.get(src) is not None:
+                          row[dst + sfx] = st[src]
+              evs = []
+              for i, e in enumerate(f.get("events") or []):
+                  if e.get("type") != "Card":
+                      continue
+                  k = kind_of(e.get("detail"))
+                  if k:
+                      evs.append(((e.get("player") or {}).get("id") or f"x{i}", k))
+              if f.get("events") is not None:
+                  row["cards"] = paf_count(evs)
+              return row
+
+
+          def run_history():
+              if not KEY:
+                  ST["errors"].append("API_FOOTBALL_KEY missing")
+                  return
+              stop = False
+              for season in SEASONS:
+                  for code, lid in AF.items():
+                      if stop:
+                          break
+                      p = f"data/history/{code}_{season}.json"
+                      h = rd(p, {"ids": None, "rows": {}})
+                      try:
+                          if h["ids"] is None:
+                              resp, rem = af("fixtures", league=lid, season=season)
+                              h["ids"] = [f["fixture"]["id"] for f in resp
+                                          if main_round((f.get("league") or {}).get("round"))
+                                          and (f.get("fixture") or {}).get("status", {}).get("short") in ("FT", "AET", "PEN")]
+                              wr(p, h)
+                              if rem < 3:
+                                  stop = True
+                                  break
+                          todo = [i for i in h["ids"] if str(i) not in h["rows"]]
+                          for j in range(0, len(todo), 20):
+                              resp, rem = af("fixtures", ids="-".join(str(i) for i in todo[j:j + 20]))
+                              for f in resp:
+                                  r = af_row(code, season, f)
+                                  h["rows"][str(r["id"])] = r
+                              wr(p, h)
+                              if rem < 3:
+                                  stop = True
+                                  break
+                      except Exception as e:
+                          err(f"history {code} {season}", e)
+                          if "limit" in str(e).lower() or "plan" in str(e).lower():
+                              stop = True
+              out, allrows, prog = {}, [], {}
+              for code in AF:
+                  pooled = []
+                  for season in SEASONS:
+                      h = rd(f"data/history/{code}_{season}.json", None)
+                      if not h:
+                          continue
+                      rows = list(h["rows"].values())
+                      prog[f"{code}_{season}"] = f"{len(rows)}/{len(h['ids'] or [])}"
+                      out.setdefault(code, {})[str(season)] = summarize(rows)
+                      pooled += rows
+                  if pooled:
+                      out[code]["pooled"] = summarize(pooled)
+                      allrows += pooled
+              wr("data/history/summary.json", {"updated_utc": ST["run_utc"], "progress": prog, "by_comp": out,
+                                               "referees_uefa_2022_2024": referees(allrows)})
+              ST["history_progress"] = prog
+              ST["history_complete"] = all(a == b for a, b in (v.split("/") for v in prog.values())) and len(prog) == len(AF) * len(SEASONS)
+
+
+          if __name__ == "__main__":
+              try:
+                  if MODE == "history":
+                      run_history()
+                  else:
+                      run_espn()
+              except Exception as e:
+                  err("main", e)
+              wr("data/status_history.json" if MODE == "history" else "data/status_espn.json", ST)
+              print(json.dumps(ST, ensure_ascii=False, indent=1))
+          PYEOF
+      - name: ESPN (kuluva kausi, ei avainta)
+        if: ${{ github.event_name == 'schedule' || inputs.mode != 'history' }}
         env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          MODE: ${{ inputs.mode || 'daily' }}
           DATE: ${{ inputs.date }}
-      - name: Tallenna
+        run: python .tools/fetch.py
+      - name: API-Football historia 2022-2024
+        if: ${{ github.event_name == 'schedule' || inputs.mode == 'history' }}
+        env:
+          MODE: history
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python .tools/fetch.py
+      - name: Tallenna data
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || git commit -m "Ottelutilastot"
+          git diff --cached --quiet || git commit -m "Data $(date -u +%F_%H%M)"
+          git pull --rebase -q || true
           git push
