@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-22T22:34:11+00:00",
+ "updated_utc": "2026-10-23T04:57:08+00:00",
  "matches": [
   {
    "id": "401879253",
@@ -40,7 +40,7 @@
        },
        "close": {
         "line": "u2.5",
-        "odds": "+105"
+        "odds": "+110"
        }
       }
      },
@@ -54,7 +54,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-155"
+        "odds": "-160"
        }
       },
       "away": {
@@ -64,7 +64,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "+110"
+        "odds": "+115"
        }
       }
      },
@@ -118,7 +118,7 @@
       "displayName": "DraftKings"
      },
      "drawOdds": {
-      "moneyLine": 330
+      "moneyLine": 340
      },
      "total": {
       "displayName": "Total",
@@ -130,7 +130,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "+130"
+        "odds": "+125"
        }
       },
       "under": {
@@ -164,7 +164,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-165"
+        "odds": "-170"
        }
       }
      },
@@ -176,7 +176,7 @@
         "odds": "+350"
        },
        "close": {
-        "odds": "+360"
+        "odds": "+380"
        }
       },
       "away": {
@@ -184,7 +184,7 @@
         "odds": "-155"
        },
        "close": {
-        "odds": "-150"
+        "odds": "-155"
        }
       },
       "draw": {
@@ -192,11 +192,11 @@
         "odds": "+310"
        },
        "close": {
-        "odds": "+330"
+        "odds": "+340"
        }
       }
      },
-     "details": "MNC -150"
+     "details": "MNC -155"
     }
    ],
    "round": "2026-27-english-premier-league"
@@ -451,7 +451,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-155"
+        "odds": "-150"
        }
       },
       "away": {
@@ -824,7 +824,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-155"
+        "odds": "-160"
        }
       },
       "under": {
@@ -834,7 +834,7 @@
        },
        "close": {
         "line": "u2.5",
-        "odds": "+125"
+        "odds": "+130"
        }
       }
      },

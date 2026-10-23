@@ -8498,7 +8498,7 @@
     "home",
     4.0,
     1.0,
-    "CM-R",
+    "CM-L",
     true
    ],
    [
@@ -8779,7 +8779,7 @@
   "corners_h": 14,
   "shots_h": 23,
   "sot_h": 3,
-  "poss_h": 60.1,
+  "poss_h": 60,
   "yellow_h": 2,
   "red_h": 0,
   "offsides_h": 3,
@@ -8788,7 +8788,7 @@
   "corners_a": 3,
   "shots_a": 14,
   "sot_a": 1,
-  "poss_a": 39.9,
+  "poss_a": 40,
   "yellow_a": 4,
   "red_a": 0,
   "offsides_a": 0,
