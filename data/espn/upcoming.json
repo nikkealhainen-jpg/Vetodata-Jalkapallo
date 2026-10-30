@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-29T22:44:58+00:00",
+ "updated_utc": "2026-10-30T05:10:09+00:00",
  "matches": [
   {
    "id": "401879248",
@@ -30,7 +30,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-170"
+        "odds": "-165"
        }
       },
       "under": {
@@ -890,6 +890,106 @@
       }
      },
      "details": "ARS +135"
+    }
+   ],
+   "round": "2026-27-english-premier-league"
+  },
+  {
+   "id": "401878762",
+   "comp": "PL",
+   "kickoff_utc": "2026-11-02T20:00Z",
+   "home": "Newcastle United",
+   "away": "Everton",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1,
+      "displayName": "DraftKings"
+     },
+     "drawOdds": {
+      "moneyLine": 260
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-150"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-140"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+110"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+110"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "+100"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "+115"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-150"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-170"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+110"
+       },
+       "close": {
+        "odds": "+130"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+210"
+       },
+       "close": {
+        "odds": "+190"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+265"
+       },
+       "close": {
+        "odds": "+260"
+       }
+      }
+     },
+     "details": "NEW +130"
     }
    ],
    "round": "2026-27-english-premier-league"
