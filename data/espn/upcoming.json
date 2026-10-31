@@ -1,799 +1,6 @@
 {
- "updated_utc": "2026-10-31T05:06:07+00:00",
+ "updated_utc": "2026-10-31T22:37:59+00:00",
  "matches": [
-  {
-   "id": "401879248",
-   "comp": "PL",
-   "kickoff_utc": "2026-10-31T12:30Z",
-   "home": "Chelsea",
-   "away": "Manchester United",
-   "referee": null,
-   "odds": [
-    {
-     "overUnder": 2.5,
-     "provider": {
-      "id": "100",
-      "name": "DraftKings",
-      "priority": 1,
-      "displayName": "DraftKings"
-     },
-     "drawOdds": {
-      "moneyLine": 275
-     },
-     "total": {
-      "displayName": "Total",
-      "shortDisplayName": "Total",
-      "over": {
-       "open": {
-        "line": "o3.5",
-        "odds": "+125"
-       },
-       "close": {
-        "line": "o2.5",
-        "odds": "-165"
-       }
-      },
-      "under": {
-       "open": {
-        "line": "u3.5",
-        "odds": "-165"
-       },
-       "close": {
-        "line": "u2.5",
-        "odds": "+130"
-       }
-      }
-     },
-     "pointSpread": {
-      "displayName": "Spread",
-      "shortDisplayName": "Spread",
-      "home": {
-       "open": {
-        "line": "-0.5",
-        "odds": "-120"
-       },
-       "close": {
-        "line": "-0.5",
-        "odds": "-110"
-       }
-      },
-      "away": {
-       "open": {
-        "line": "+0.5",
-        "odds": "-130"
-       },
-       "close": {
-        "line": "+0.5",
-        "odds": "-125"
-       }
-      }
-     },
-     "moneyline": {
-      "displayName": "Moneyline",
-      "shortDisplayName": "ML",
-      "home": {
-       "open": {
-        "odds": "-105"
-       },
-       "close": {
-        "odds": "+100"
-       }
-      },
-      "away": {
-       "open": {
-        "odds": "+240"
-       },
-       "close": {
-        "odds": "+255"
-       }
-      },
-      "draw": {
-       "open": {
-        "odds": "+280"
-       },
-       "close": {
-        "odds": "+275"
-       }
-      }
-     },
-     "details": "CHE +100"
-    }
-   ],
-   "round": "2026-27-english-premier-league"
-  },
-  {
-   "id": "401879251",
-   "comp": "PL",
-   "kickoff_utc": "2026-10-31T15:00Z",
-   "home": "AFC Bournemouth",
-   "away": "Leeds United",
-   "referee": null,
-   "odds": [
-    {
-     "overUnder": 2.5,
-     "provider": {
-      "id": "100",
-      "name": "DraftKings",
-      "priority": 1
-     },
-     "drawOdds": {
-      "moneyLine": 245
-     },
-     "total": {
-      "displayName": "Total",
-      "shortDisplayName": "Total",
-      "over": {
-       "open": {
-        "line": "o2.5",
-        "odds": "-130"
-       },
-       "close": {
-        "line": "o2.5",
-        "odds": "-115"
-       }
-      },
-      "under": {
-       "open": {
-        "line": "u2.5",
-        "odds": "-105"
-       },
-       "close": {
-        "line": "u2.5",
-        "odds": "-105"
-       }
-      }
-     },
-     "pointSpread": {
-      "displayName": "Spread",
-      "shortDisplayName": "Spread",
-      "home": {
-       "open": {
-        "line": "-0.5",
-        "odds": "+105"
-       },
-       "close": {
-        "line": "-0.5",
-        "odds": "+100"
-       }
-      },
-      "away": {
-       "open": {
-        "line": "+0.5",
-        "odds": "-165"
-       },
-       "close": {
-        "line": "+0.5",
-        "odds": "-140"
-       }
-      }
-     },
-     "moneyline": {
-      "displayName": "Moneyline",
-      "shortDisplayName": "ML",
-      "home": {
-       "open": {
-        "odds": "+120"
-       },
-       "close": {
-        "odds": "+110"
-       }
-      },
-      "away": {
-       "open": {
-        "odds": "+215"
-       },
-       "close": {
-        "odds": "+260"
-       }
-      },
-      "draw": {
-       "open": {
-        "odds": "+235"
-       },
-       "close": {
-        "odds": "+245"
-       }
-      }
-     },
-     "details": "BOU +110"
-    }
-   ],
-   "round": "2026-27-english-premier-league"
-  },
-  {
-   "id": "401879249",
-   "comp": "PL",
-   "kickoff_utc": "2026-10-31T15:00Z",
-   "home": "Brentford",
-   "away": "Nottingham Forest",
-   "referee": null,
-   "odds": [
-    {
-     "overUnder": 2.5,
-     "provider": {
-      "id": "100",
-      "name": "DraftKings",
-      "priority": 1
-     },
-     "drawOdds": {
-      "moneyLine": 270
-     },
-     "total": {
-      "displayName": "Total",
-      "shortDisplayName": "Total",
-      "over": {
-       "open": {
-        "line": "o2.5",
-        "odds": "-140"
-       },
-       "close": {
-        "line": "o2.5",
-        "odds": "-145"
-       }
-      },
-      "under": {
-       "open": {
-        "line": "u2.5",
-        "odds": "+105"
-       },
-       "close": {
-        "line": "u2.5",
-        "odds": "+115"
-       }
-      }
-     },
-     "pointSpread": {
-      "displayName": "Spread",
-      "shortDisplayName": "Spread",
-      "home": {
-       "open": {
-        "line": "-0.5",
-        "odds": "-110"
-       },
-       "close": {
-        "line": "-0.5",
-        "odds": "+100"
-       }
-      },
-      "away": {
-       "open": {
-        "line": "+0.5",
-        "odds": "-135"
-       },
-       "close": {
-        "line": "+0.5",
-        "odds": "-140"
-       }
-      }
-     },
-     "moneyline": {
-      "displayName": "Moneyline",
-      "shortDisplayName": "ML",
-      "home": {
-       "open": {
-        "odds": "+100"
-       },
-       "close": {
-        "odds": "+110"
-       }
-      },
-      "away": {
-       "open": {
-        "odds": "+235"
-       },
-       "close": {
-        "odds": "+230"
-       }
-      },
-      "draw": {
-       "open": {
-        "odds": "+270"
-       },
-       "close": {
-        "odds": "+270"
-       }
-      }
-     },
-     "details": "BRE +110"
-    }
-   ],
-   "round": "2026-27-english-premier-league"
-  },
-  {
-   "id": "401879247",
-   "comp": "PL",
-   "kickoff_utc": "2026-10-31T15:00Z",
-   "home": "Coventry City",
-   "away": "Sunderland",
-   "referee": null,
-   "odds": [
-    {
-     "overUnder": 2.5,
-     "provider": {
-      "id": "100",
-      "name": "DraftKings",
-      "priority": 1
-     },
-     "drawOdds": {
-      "moneyLine": 235
-     },
-     "total": {
-      "displayName": "Total",
-      "shortDisplayName": "Total",
-      "over": {
-       "open": {
-        "line": "o2.5",
-        "odds": "-115"
-       },
-       "close": {
-        "line": "o2.5",
-        "odds": "-105"
-       }
-      },
-      "under": {
-       "open": {
-        "line": "u2.5",
-        "odds": "-115"
-       },
-       "close": {
-        "line": "u2.5",
-        "odds": "-120"
-       }
-      }
-     },
-     "pointSpread": {
-      "displayName": "Spread",
-      "shortDisplayName": "Spread",
-      "home": {
-       "open": {
-        "line": "+0.5",
-        "odds": "-190"
-       },
-       "close": {
-        "line": "+0.5",
-        "odds": "-170"
-       }
-      },
-      "away": {
-       "open": {
-        "line": "-0.5",
-        "odds": "+125"
-       },
-       "close": {
-        "line": "-0.5",
-        "odds": "+120"
-       }
-      }
-     },
-     "moneyline": {
-      "displayName": "Moneyline",
-      "shortDisplayName": "ML",
-      "home": {
-       "open": {
-        "odds": "+180"
-       },
-       "close": {
-        "odds": "+210"
-       }
-      },
-      "away": {
-       "open": {
-        "odds": "+140"
-       },
-       "close": {
-        "odds": "+135"
-       }
-      },
-      "draw": {
-       "open": {
-        "odds": "+240"
-       },
-       "close": {
-        "odds": "+235"
-       }
-      }
-     },
-     "details": "SUN +135"
-    }
-   ],
-   "round": "2026-27-english-premier-league"
-  },
-  {
-   "id": "401878763",
-   "comp": "PL",
-   "kickoff_utc": "2026-10-31T15:00Z",
-   "home": "Hull City",
-   "away": "Ipswich Town",
-   "referee": null,
-   "odds": [
-    {
-     "overUnder": 2.5,
-     "provider": {
-      "id": "100",
-      "name": "DraftKings",
-      "priority": 1
-     },
-     "drawOdds": {
-      "moneyLine": 240
-     },
-     "total": {
-      "displayName": "Total",
-      "shortDisplayName": "Total",
-      "over": {
-       "open": {
-        "line": "o2.5",
-        "odds": "-135"
-       },
-       "close": {
-        "line": "o2.5",
-        "odds": "-115"
-       }
-      },
-      "under": {
-       "open": {
-        "line": "u2.5",
-        "odds": "+100"
-       },
-       "close": {
-        "line": "u2.5",
-        "odds": "-105"
-       }
-      }
-     },
-     "pointSpread": {
-      "displayName": "Spread",
-      "shortDisplayName": "Spread",
-      "home": {
-       "open": {
-        "line": "+0.5",
-        "odds": "-220"
-       },
-       "close": {
-        "line": "+0.5",
-        "odds": "-190"
-       }
-      },
-      "away": {
-       "open": {
-        "line": "-0.5",
-        "odds": "+140"
-       },
-       "close": {
-        "line": "-0.5",
-        "odds": "+135"
-       }
-      }
-     },
-     "moneyline": {
-      "displayName": "Moneyline",
-      "shortDisplayName": "ML",
-      "home": {
-       "open": {
-        "odds": "+160"
-       },
-       "close": {
-        "odds": "+180"
-       }
-      },
-      "away": {
-       "open": {
-        "odds": "+160"
-       },
-       "close": {
-        "odds": "+155"
-       }
-      },
-      "draw": {
-       "open": {
-        "odds": "+235"
-       },
-       "close": {
-        "odds": "+240"
-       }
-      }
-     },
-     "details": "IPS +155"
-    }
-   ],
-   "round": "2026-27-english-premier-league"
-  },
-  {
-   "id": "401879245",
-   "comp": "PL",
-   "kickoff_utc": "2026-10-31T15:00Z",
-   "home": "Manchester City",
-   "away": "Brighton & Hove Albion",
-   "referee": null,
-   "odds": [
-    {
-     "overUnder": 3.5,
-     "provider": {
-      "id": "100",
-      "name": "DraftKings",
-      "priority": 1
-     },
-     "drawOdds": {
-      "moneyLine": 340
-     },
-     "total": {
-      "displayName": "Total",
-      "shortDisplayName": "Total",
-      "over": {
-       "open": {
-        "line": "o3.5",
-        "odds": "+125"
-       },
-       "close": {
-        "line": "o3.5",
-        "odds": "+100"
-       }
-      },
-      "under": {
-       "open": {
-        "line": "u3.5",
-        "odds": "-170"
-       },
-       "close": {
-        "line": "u3.5",
-        "odds": "-125"
-       }
-      }
-     },
-     "pointSpread": {
-      "displayName": "Spread",
-      "shortDisplayName": "Spread",
-      "home": {
-       "open": {
-        "line": "-0.5",
-        "odds": "-160"
-       },
-       "close": {
-        "line": "-0.5",
-        "odds": "-165"
-       }
-      },
-      "away": {
-       "open": {
-        "line": "+0.5",
-        "odds": "+105"
-       },
-       "close": {
-        "line": "+0.5",
-        "odds": "+115"
-       }
-      }
-     },
-     "moneyline": {
-      "displayName": "Moneyline",
-      "shortDisplayName": "ML",
-      "home": {
-       "open": {
-        "odds": "-145"
-       },
-       "close": {
-        "odds": "-150"
-       }
-      },
-      "away": {
-       "open": {
-        "odds": "+320"
-       },
-       "close": {
-        "odds": "+350"
-       }
-      },
-      "draw": {
-       "open": {
-        "odds": "+310"
-       },
-       "close": {
-        "odds": "+340"
-       }
-      }
-     },
-     "details": "MNC -150"
-    }
-   ],
-   "round": "2026-27-english-premier-league"
-  },
-  {
-   "id": "401878761",
-   "comp": "PL",
-   "kickoff_utc": "2026-10-31T17:30Z",
-   "home": "Tottenham Hotspur",
-   "away": "Crystal Palace",
-   "referee": null,
-   "odds": [
-    {
-     "overUnder": 2.5,
-     "provider": {
-      "id": "100",
-      "name": "DraftKings",
-      "priority": 1
-     },
-     "drawOdds": {
-      "moneyLine": 330
-     },
-     "total": {
-      "displayName": "Total",
-      "shortDisplayName": "Total",
-      "over": {
-       "open": {
-        "line": "o2.5",
-        "odds": "-170"
-       },
-       "close": {
-        "line": "o2.5",
-        "odds": "-155"
-       }
-      },
-      "under": {
-       "open": {
-        "line": "u2.5",
-        "odds": "+125"
-       },
-       "close": {
-        "line": "u2.5",
-        "odds": "+125"
-       }
-      }
-     },
-     "pointSpread": {
-      "displayName": "Spread",
-      "shortDisplayName": "Spread",
-      "home": {
-       "open": {
-        "line": "-0.5",
-        "odds": "-180"
-       },
-       "close": {
-        "line": "-0.5",
-        "odds": "-175"
-       }
-      },
-      "away": {
-       "open": {
-        "line": "+0.5",
-        "odds": "+115"
-       },
-       "close": {
-        "line": "+0.5",
-        "odds": "+125"
-       }
-      }
-     },
-     "moneyline": {
-      "displayName": "Moneyline",
-      "shortDisplayName": "ML",
-      "home": {
-       "open": {
-        "odds": "-155"
-       },
-       "close": {
-        "odds": "-155"
-       }
-      },
-      "away": {
-       "open": {
-        "odds": "+380"
-       },
-       "close": {
-        "odds": "+400"
-       }
-      },
-      "draw": {
-       "open": {
-        "odds": "+300"
-       },
-       "close": {
-        "odds": "+330"
-       }
-      }
-     },
-     "details": "TOT -155"
-    }
-   ],
-   "round": "2026-27-english-premier-league"
-  },
-  {
-   "id": "401879250",
-   "comp": "PL",
-   "kickoff_utc": "2026-10-31T20:00Z",
-   "home": "Aston Villa",
-   "away": "Fulham",
-   "referee": null,
-   "odds": [
-    {
-     "overUnder": 2.5,
-     "provider": {
-      "id": "100",
-      "name": "DraftKings",
-      "priority": 1
-     },
-     "drawOdds": {
-      "moneyLine": 265
-     },
-     "total": {
-      "displayName": "Total",
-      "shortDisplayName": "Total",
-      "over": {
-       "open": {
-        "line": "o2.5",
-        "odds": "-140"
-       },
-       "close": {
-        "line": "o2.5",
-        "odds": "-135"
-       }
-      },
-      "under": {
-       "open": {
-        "line": "u2.5",
-        "odds": "+100"
-       },
-       "close": {
-        "line": "u2.5",
-        "odds": "+110"
-       }
-      }
-     },
-     "pointSpread": {
-      "displayName": "Spread",
-      "shortDisplayName": "Spread",
-      "home": {
-       "open": {
-        "line": "-0.5",
-        "odds": "-110"
-       },
-       "close": {
-        "line": "-0.5",
-        "odds": "-105"
-       }
-      },
-      "away": {
-       "open": {
-        "line": "+0.5",
-        "odds": "-140"
-       },
-       "close": {
-        "line": "+0.5",
-        "odds": "-130"
-       }
-      }
-     },
-     "moneyline": {
-      "displayName": "Moneyline",
-      "shortDisplayName": "ML",
-      "home": {
-       "open": {
-        "odds": "+105"
-       },
-       "close": {
-        "odds": "+100"
-       }
-      },
-      "away": {
-       "open": {
-        "odds": "+235"
-       },
-       "close": {
-        "odds": "+260"
-       }
-      },
-      "draw": {
-       "open": {
-        "odds": "+255"
-       },
-       "close": {
-        "odds": "+265"
-       }
-      }
-     },
-     "details": "AVL +100"
-    }
-   ],
-   "round": "2026-27-english-premier-league"
-  },
   {
    "id": "401879246",
    "comp": "PL",
@@ -823,7 +30,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-120"
+        "odds": "-115"
        }
       },
       "under": {
@@ -911,7 +118,7 @@
       "displayName": "DraftKings"
      },
      "drawOdds": {
-      "moneyLine": 265
+      "moneyLine": 255
      },
      "total": {
       "displayName": "Total",
@@ -923,7 +130,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-145"
+        "odds": "-140"
        }
       },
       "under": {
@@ -947,7 +154,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "+115"
+        "odds": "+125"
        }
       },
       "away": {
@@ -957,7 +164,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-165"
+        "odds": "-175"
        }
       }
      },
@@ -969,7 +176,7 @@
         "odds": "+110"
        },
        "close": {
-        "odds": "+130"
+        "odds": "+140"
        }
       },
       "away": {
@@ -977,7 +184,7 @@
         "odds": "+210"
        },
        "close": {
-        "odds": "+195"
+        "odds": "+190"
        }
       },
       "draw": {
@@ -985,11 +192,11 @@
         "odds": "+265"
        },
        "close": {
-        "odds": "+265"
+        "odds": "+255"
        }
       }
      },
-     "details": "NEW +130"
+     "details": "NEW +140"
     }
    ],
    "round": "2026-27-english-premier-league"
@@ -1011,7 +218,7 @@
       "displayName": "DraftKings"
      },
      "drawOdds": {
-      "moneyLine": 300
+      "moneyLine": 320
      },
      "total": {
       "displayName": "Total",
@@ -1033,7 +240,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-130"
+        "odds": "-125"
        }
       }
      },
@@ -1057,7 +264,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-155"
+        "odds": "-145"
        }
       }
      },
@@ -1069,7 +276,7 @@
         "odds": "+125"
        },
        "close": {
-        "odds": "+120"
+        "odds": "+115"
        }
       },
       "away": {
@@ -1077,7 +284,7 @@
         "odds": "+165"
        },
        "close": {
-        "odds": "+180"
+        "odds": "+190"
        }
       },
       "draw": {
@@ -1085,11 +292,11 @@
         "odds": "+310"
        },
        "close": {
-        "odds": "+300"
+        "odds": "+320"
        }
       }
      },
-     "details": "GAL +120"
+     "details": "GAL +115"
     }
    ],
    "round": "league-phase"
@@ -1110,7 +317,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 285
+      "moneyLine": 290
      },
      "total": {
       "displayName": "Total",
@@ -1122,7 +329,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-150"
+        "odds": "-145"
        }
       },
       "under": {
@@ -1146,7 +353,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-125"
+        "odds": "-120"
        }
       },
       "away": {
@@ -1168,7 +375,7 @@
         "odds": "+265"
        },
        "close": {
-        "odds": "+260"
+        "odds": "+265"
        }
       },
       "away": {
@@ -1176,7 +383,7 @@
         "odds": "-115"
        },
        "close": {
-        "odds": "-110"
+        "odds": "-105"
        }
       },
       "draw": {
@@ -1184,11 +391,11 @@
         "odds": "+290"
        },
        "close": {
-        "odds": "+285"
+        "odds": "+290"
        }
       }
      },
-     "details": "SCP -110"
+     "details": "SCP -105"
     }
    ],
    "round": "league-phase"
@@ -1209,7 +416,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 310
+      "moneyLine": 295
      },
      "total": {
       "displayName": "Total",
@@ -1221,7 +428,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "-105"
+        "odds": "+105"
        }
       },
       "under": {
@@ -1231,7 +438,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-125"
+        "odds": "-135"
        }
       }
      },
@@ -1245,7 +452,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-130"
+        "odds": "-165"
        }
       },
       "away": {
@@ -1255,7 +462,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-115"
+        "odds": "+120"
        }
       }
      },
@@ -1267,7 +474,7 @@
         "odds": "+220"
        },
        "close": {
-        "odds": "+225"
+        "odds": "+180"
        }
       },
       "away": {
@@ -1275,7 +482,7 @@
         "odds": "-105"
        },
        "close": {
-        "odds": "-105"
+        "odds": "+130"
        }
       },
       "draw": {
@@ -1283,11 +490,11 @@
         "odds": "+310"
        },
        "close": {
-        "odds": "+310"
+        "odds": "+295"
        }
       }
      },
-     "details": "MUN -105"
+     "details": "MUN +130"
     }
    ],
    "round": "league-phase"
@@ -1330,7 +537,7 @@
        },
        "close": {
         "line": "u4.5",
-        "odds": "-160"
+        "odds": "-155"
        }
       }
      },
@@ -1344,7 +551,7 @@
        },
        "close": {
         "line": "-1.5",
-        "odds": "-180"
+        "odds": "-170"
        }
       },
       "away": {
@@ -1366,7 +573,7 @@
         "odds": "-450"
        },
        "close": {
-        "odds": "-425"
+        "odds": "-390"
        }
       },
       "away": {
@@ -1374,7 +581,7 @@
         "odds": "+800"
        },
        "close": {
-        "odds": "+800"
+        "odds": "+850"
        }
       },
       "draw": {
@@ -1386,7 +593,7 @@
        }
       }
      },
-     "details": "BAR -425"
+     "details": "BAR -390"
     }
    ],
    "round": "league-phase"
@@ -1407,7 +614,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 300
+      "moneyLine": 310
      },
      "total": {
       "displayName": "Total",
@@ -1419,7 +626,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "+115"
+        "odds": "+120"
        }
       },
       "under": {
@@ -1443,7 +650,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-135"
+        "odds": "-130"
        }
       },
       "away": {
@@ -1453,7 +660,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-110"
+        "odds": "-105"
        }
       }
      },
@@ -1473,7 +680,7 @@
         "odds": "+245"
        },
        "close": {
-        "odds": "+280"
+        "odds": "+285"
        }
       },
       "draw": {
@@ -1481,7 +688,7 @@
         "odds": "+290"
        },
        "close": {
-        "odds": "+300"
+        "odds": "+310"
        }
       }
      },
@@ -1506,7 +713,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 330
+      "moneyLine": 340
      },
      "total": {
       "displayName": "Total",
@@ -1528,7 +735,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-130"
+        "odds": "-125"
        }
       }
      },
@@ -1552,7 +759,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-160"
+        "odds": "-150"
        }
       }
      },
@@ -1572,7 +779,7 @@
         "odds": "-145"
        },
        "close": {
-        "odds": "-145"
+        "odds": "-140"
        }
       },
       "draw": {
@@ -1580,11 +787,11 @@
         "odds": "+320"
        },
        "close": {
-        "odds": "+330"
+        "odds": "+340"
        }
       }
      },
-     "details": "INT -145"
+     "details": "INT -140"
     }
    ],
    "round": "league-phase"
@@ -1617,7 +824,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "+100"
+        "odds": "+105"
        }
       },
       "under": {
@@ -1641,7 +848,7 @@
        },
        "close": {
         "line": "-1.5",
-        "odds": "+100"
+        "odds": "+105"
        }
       },
       "away": {
@@ -1663,7 +870,7 @@
         "odds": "-235"
        },
        "close": {
-        "odds": "-230"
+        "odds": "-225"
        }
       },
       "away": {
@@ -1671,7 +878,7 @@
         "odds": "+500"
        },
        "close": {
-        "odds": "+500"
+        "odds": "+550"
        }
       },
       "draw": {
@@ -1683,7 +890,7 @@
        }
       }
      },
-     "details": "LAS -230"
+     "details": "LAS -225"
     }
    ],
    "round": "league-phase"
@@ -1704,7 +911,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 290
+      "moneyLine": 300
      },
      "total": {
       "displayName": "Total",
@@ -1716,7 +923,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "+125"
+        "odds": "+130"
        }
       },
       "under": {
@@ -1726,7 +933,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-165"
+        "odds": "-160"
        }
       }
      },
@@ -1750,7 +957,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-170"
+        "odds": "-160"
        }
       }
      },
@@ -1770,7 +977,7 @@
         "odds": "+210"
        },
        "close": {
-        "odds": "+170"
+        "odds": "+175"
        }
       },
       "draw": {
@@ -1778,7 +985,7 @@
         "odds": "+280"
        },
        "close": {
-        "odds": "+290"
+        "odds": "+300"
        }
       }
      },
@@ -1815,7 +1022,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "-120"
+        "odds": "-115"
        }
       },
       "under": {
@@ -1825,7 +1032,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-110"
+        "odds": "-105"
        }
       }
      },
@@ -1839,7 +1046,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "+130"
+        "odds": "+125"
        }
       },
       "away": {
@@ -1849,7 +1056,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-190"
+        "odds": "-175"
        }
       }
      },
@@ -1861,7 +1068,7 @@
         "odds": "+360"
        },
        "close": {
-        "odds": "+380"
+        "odds": "+370"
        }
       },
       "away": {
@@ -1869,7 +1076,7 @@
         "odds": "-170"
        },
        "close": {
-        "odds": "-170"
+        "odds": "-160"
        }
       },
       "draw": {
@@ -1881,7 +1088,7 @@
        }
       }
      },
-     "details": "PSG -170"
+     "details": "PSG -160"
     }
    ],
    "round": "league-phase"
