@@ -15860,5 +15860,226 @@
     false
    ]
   ]
+ },
+ "401879246": {
+  "id": "401879246",
+  "comp": "PL",
+  "date": "2026-11-01",
+  "home": "Liverpool",
+  "away": "Arsenal",
+  "hg": 0,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 18,
+  "corners_h": 7,
+  "shots_h": 17,
+  "sot_h": 0,
+  "poss_h": 56.4,
+  "yellow_h": 4,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 2,
+  "fouls_a": 10,
+  "corners_a": 4,
+  "shots_a": 10,
+  "sot_a": 3,
+  "poss_a": 43.6,
+  "yellow_a": 4,
+  "red_a": 0,
+  "offsides_a": 3,
+  "saves_a": 0,
+  "cards": 8,
+  "card_events": [
+   [
+    "Bradley Barcola",
+    "home",
+    "yellow",
+    "45'+2'"
+   ],
+   [
+    "Noni Madueke",
+    "away",
+    "yellow",
+    "55'"
+   ],
+   [
+    "Milos Kerkez",
+    "home",
+    "yellow",
+    "67'"
+   ],
+   [
+    "Myles Lewis-Skelly",
+    "away",
+    "yellow",
+    "72'"
+   ],
+   [
+    "Jurriën Timber",
+    "away",
+    "yellow",
+    "80'"
+   ],
+   [
+    "Alexis Mac Allister",
+    "home",
+    "yellow",
+    "80'"
+   ],
+   [
+    "David Raya",
+    "away",
+    "yellow",
+    "90'+3'"
+   ],
+   [
+    "Virgil van Dijk",
+    "home",
+    "yellow",
+    "90'+7'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Florian Wirtz",
+    "home",
+    3.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Declan Rice",
+    "away",
+    3.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Virgil van Dijk",
+    "home",
+    2.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Ronald Araujo",
+    "home",
+    2.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Alexis Mac Allister",
+    "home",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Alexander Isak",
+    "home",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Rio Ngumoha",
+    "home",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Bruno Guimarães",
+    "away",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Milos Kerkez",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Bradley Barcola",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Cody Gakpo",
+    "home",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Víctor Muñoz",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jurriën Timber",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Kai Havertz",
+    "away",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Christos Tzolis",
+    "away",
+    1.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Noni Madueke",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Myles Lewis-Skelly",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
  }
 }
