@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-01T22:38:59+00:00",
+ "updated_utc": "2026-11-02T05:25:43+00:00",
  "matches": [
   {
    "id": "401878762",
@@ -54,7 +54,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "+120"
+        "odds": "+115"
        }
       },
       "away": {
@@ -64,7 +64,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-170"
+        "odds": "-160"
        }
       }
      },
@@ -76,7 +76,7 @@
         "odds": "+110"
        },
        "close": {
-        "odds": "+135"
+        "odds": "+130"
        }
       },
       "away": {
@@ -84,7 +84,7 @@
         "odds": "+210"
        },
        "close": {
-        "odds": "+195"
+        "odds": "+205"
        }
       },
       "draw": {
@@ -96,7 +96,7 @@
        }
       }
      },
-     "details": "NEW +135"
+     "details": "NEW +130"
     }
    ],
    "round": "2026-27-english-premier-league"
@@ -130,7 +130,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "+105"
+        "odds": "+100"
        }
       },
       "under": {
@@ -164,7 +164,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-145"
+        "odds": "-150"
        }
       }
      },
@@ -253,7 +253,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-120"
+        "odds": "-125"
        }
       },
       "away": {
@@ -263,7 +263,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-115"
+        "odds": "-110"
        }
       }
      },
@@ -316,7 +316,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 290
+      "moneyLine": 285
      },
      "total": {
       "displayName": "Total",
@@ -352,7 +352,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-175"
+        "odds": "-185"
        }
       },
       "away": {
@@ -362,7 +362,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "+125"
+        "odds": "+135"
        }
       }
      },
@@ -374,7 +374,7 @@
         "odds": "+220"
        },
        "close": {
-        "odds": "+165"
+        "odds": "+160"
        }
       },
       "away": {
@@ -382,7 +382,7 @@
         "odds": "-105"
        },
        "close": {
-        "odds": "+140"
+        "odds": "+150"
        }
       },
       "draw": {
@@ -390,11 +390,11 @@
         "odds": "+310"
        },
        "close": {
-        "odds": "+290"
+        "odds": "+285"
        }
       }
      },
-     "details": "MUN +140"
+     "details": "MUN +150"
     }
    ],
    "round": "league-phase"
@@ -461,7 +461,7 @@
        },
        "close": {
         "line": "+1.5",
-        "odds": "+120"
+        "odds": "+125"
        }
       }
      },
@@ -536,7 +536,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-145"
+        "odds": "-150"
        }
       }
      },
@@ -724,7 +724,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "+105"
+        "odds": "+100"
        }
       },
       "under": {
@@ -734,7 +734,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-130"
+        "odds": "-125"
        }
       }
      },
@@ -811,7 +811,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 290
+      "moneyLine": 295
      },
      "total": {
       "displayName": "Total",
@@ -857,7 +857,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-170"
+        "odds": "-165"
        }
       }
      },
@@ -869,7 +869,7 @@
         "odds": "+105"
        },
        "close": {
-        "odds": "+135"
+        "odds": "+130"
        }
       },
       "away": {
@@ -885,11 +885,11 @@
         "odds": "+280"
        },
        "close": {
-        "odds": "+290"
+        "odds": "+295"
        }
       }
      },
-     "details": "MAN +135"
+     "details": "MAN +130"
     }
    ],
    "round": "league-phase"
@@ -956,7 +956,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-175"
+        "odds": "-180"
        }
       }
      },
@@ -1122,7 +1122,7 @@
        },
        "close": {
         "line": "o3.5",
-        "odds": "-120"
+        "odds": "-125"
        }
       },
       "under": {
@@ -1156,7 +1156,7 @@
        },
        "close": {
         "line": "-1.5",
-        "odds": "-150"
+        "odds": "-155"
        }
       }
      },
@@ -1168,7 +1168,7 @@
         "odds": "+650"
        },
        "close": {
-        "odds": "+850"
+        "odds": "+900"
        }
       },
       "away": {
@@ -1176,7 +1176,7 @@
         "odds": "-320"
        },
        "close": {
-        "odds": "-380"
+        "odds": "-390"
        }
       },
       "draw": {
@@ -1188,7 +1188,7 @@
        }
       }
      },
-     "details": "RMA -380"
+     "details": "RMA -390"
     }
    ],
    "round": "league-phase"
@@ -1803,7 +1803,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 450
+      "moneyLine": 475
      },
      "total": {
       "displayName": "Total",
@@ -1839,7 +1839,7 @@
        },
        "close": {
         "line": "+1.5",
-        "odds": "-120"
+        "odds": "-115"
        }
       },
       "away": {
@@ -1869,7 +1869,7 @@
         "odds": "-390"
        },
        "close": {
-        "odds": "-310"
+        "odds": "-320"
        }
       },
       "draw": {
@@ -1877,11 +1877,11 @@
         "odds": "+500"
        },
        "close": {
-        "odds": "+450"
+        "odds": "+475"
        }
       }
      },
-     "details": "ARS -310"
+     "details": "ARS -320"
     }
    ],
    "round": "league-phase"
@@ -1983,6 +1983,3295 @@
      "details": "VFK -210"
     }
    ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915534",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "AC Milan",
+   "away": "Ferencvaros",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1,
+      "displayName": "DraftKings"
+     },
+     "drawOdds": {
+      "moneyLine": 450
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "+130"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "+130"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-175"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-170"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-1.5",
+        "odds": "-130"
+       },
+       "close": {
+        "line": "-1.5",
+        "odds": "-125"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+1.5",
+        "odds": "-120"
+       },
+       "close": {
+        "line": "+1.5",
+        "odds": "-120"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-310"
+       },
+       "close": {
+        "odds": "-310"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+700"
+       },
+       "close": {
+        "odds": "+700"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+425"
+       },
+       "close": {
+        "odds": "+450"
+       }
+      }
+     },
+     "details": "MIL -310"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915538",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Anderlecht",
+   "away": "RB Salzburg",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 285
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-180"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-170"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+130"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+130"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-125"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-120"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-120"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-120"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-115"
+       },
+       "close": {
+        "odds": "-110"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+265"
+       },
+       "close": {
+        "odds": "+270"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+280"
+       },
+       "close": {
+        "odds": "+285"
+       }
+      }
+     },
+     "details": "AND -110"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915526",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Crystal Palace",
+   "away": "TSG Hoffenheim",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 290
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-185"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "+130"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+135"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-170"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-135"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-120"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-115"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-120"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-120"
+       },
+       "close": {
+        "odds": "-105"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+275"
+       },
+       "close": {
+        "odds": "+245"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+290"
+       },
+       "close": {
+        "odds": "+290"
+       }
+      }
+     },
+     "details": "CRY -105"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915536",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Levski Sofia",
+   "away": "Jagiellonia Bialystok",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 255
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-125"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-125"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "-105"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-115"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-110"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-135"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-130"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+100"
+       },
+       "close": {
+        "odds": "+100"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+255"
+       },
+       "close": {
+        "odds": "+260"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+250"
+       },
+       "close": {
+        "odds": "+255"
+       }
+      }
+     },
+     "details": "LEV +100"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915527",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Lillestrom",
+   "away": "Viktoria Plzen",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 275
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-185"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-180"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+135"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+140"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-185"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-175"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "-0.5",
+        "odds": "+120"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "+120"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+175"
+       },
+       "close": {
+        "odds": "+175"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+135"
+       },
+       "close": {
+        "odds": "+130"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+260"
+       },
+       "close": {
+        "odds": "+275"
+       }
+      }
+     },
+     "details": "PLZ +130"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915535",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "NEC Nijmegen",
+   "away": "Omonia Nicosia",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 300
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-185"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-180"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+135"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+135"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-150"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-140"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-105"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-135"
+       },
+       "close": {
+        "odds": "-125"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+310"
+       },
+       "close": {
+        "odds": "+300"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+295"
+       },
+       "close": {
+        "odds": "+300"
+       }
+      }
+     },
+     "details": "NEC -125"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915537",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Real Sociedad",
+   "away": "Lyon",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 295
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-170"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "+135"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+125"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-180"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-115"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-135"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-130"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-110"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-105"
+       },
+       "close": {
+        "odds": "-120"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+250"
+       },
+       "close": {
+        "odds": "+285"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+265"
+       },
+       "close": {
+        "odds": "+295"
+       }
+      }
+     },
+     "details": "RSO -120"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915528",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Sparta Prague",
+   "away": "AFC Bournemouth",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 340
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-175"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-175"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+130"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+135"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "+0.5",
+        "odds": "+120"
+       },
+       "close": {
+        "line": "+1.5",
+        "odds": "-200"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-190"
+       },
+       "close": {
+        "line": "-1.5",
+        "odds": "+135"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+400"
+       },
+       "close": {
+        "odds": "+450"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "-170"
+       },
+       "close": {
+        "odds": "-185"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+310"
+       },
+       "close": {
+        "odds": "+340"
+       }
+      }
+     },
+     "details": "BOU -185"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915831",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "AGF",
+   "away": "Braga",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1,
+      "displayName": "DraftKings"
+     },
+     "drawOdds": {
+      "moneyLine": 235
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-110"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-105"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "-130"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "-130"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-140"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-140"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-105"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+260"
+       },
+       "close": {
+        "odds": "+265"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+105"
+       },
+       "close": {
+        "odds": "+105"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+230"
+       },
+       "close": {
+        "odds": "+235"
+       }
+      }
+     },
+     "details": "SCB +105"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915830",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Atalanta",
+   "away": "Kairat Almaty",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 650
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "+105"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "-105"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-150"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-125"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-1.5",
+        "odds": "-190"
+       },
+       "close": {
+        "line": "-2.5",
+        "odds": "+125"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+1.5",
+        "odds": "+125"
+       },
+       "close": {
+        "line": "+2.5",
+        "odds": "-180"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-550"
+       },
+       "close": {
+        "odds": "-600"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+1100"
+       },
+       "close": {
+        "odds": "+1300"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+600"
+       },
+       "close": {
+        "odds": "+650"
+       }
+      }
+     },
+     "details": "ATA -600"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915829",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "FC Midtjylland",
+   "away": "Ajax Amsterdam",
+   "referee": null,
+   "odds": null,
+   "round": "league-phase"
+  },
+  {
+   "id": "401915828",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "FC Thun",
+   "away": "Heart of Midlothian",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 255
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "+130"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "+130"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-170"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-170"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "+130"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "+130"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-190"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-190"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+145"
+       },
+       "close": {
+        "odds": "+145"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+175"
+       },
+       "close": {
+        "odds": "+175"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+255"
+       },
+       "close": {
+        "odds": "+255"
+       }
+      }
+     },
+     "details": "THUN +145"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915826",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "KuPS Kuopio",
+   "away": "KAA Gent",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 310
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-110"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "-125"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "-120"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "+115"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-140"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-170"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+320"
+       },
+       "close": {
+        "odds": "+390"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "-125"
+       },
+       "close": {
+        "odds": "-155"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+280"
+       },
+       "close": {
+        "odds": "+310"
+       }
+      }
+     },
+     "details": "GENT -155"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915742",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Lincoln Red Imps",
+   "away": "Hajduk Split",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 400
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-145"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-145"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+110"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+110"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "+1.5",
+        "odds": "-125"
+       },
+       "close": {
+        "line": "+1.5",
+        "odds": "-125"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "-1.5",
+        "odds": "-115"
+       },
+       "close": {
+        "line": "-1.5",
+        "odds": "-115"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+800"
+       },
+       "close": {
+        "odds": "+800"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "-300"
+       },
+       "close": {
+        "odds": "-300"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+400"
+       },
+       "close": {
+        "odds": "+400"
+       }
+      }
+     },
+     "details": "HAJ -300"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915741",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Mjällby AIF",
+   "away": "Borac Banja Luka",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 230
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-135"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "+105"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+100"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "-140"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "+100"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "+110"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-150"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-160"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+110"
+       },
+       "close": {
+        "odds": "+120"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+230"
+       },
+       "close": {
+        "odds": "+230"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+250"
+       },
+       "close": {
+        "odds": "+230"
+       }
+      }
+     },
+     "details": "MJA +120"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915827",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Red Star Belgrade",
+   "away": "Inter D'Escaldes",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 1100
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "-130"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "-135"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "+100"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-2.5",
+        "odds": "-140"
+       },
+       "close": {
+        "line": "-2.5",
+        "odds": "-145"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+2.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "+2.5",
+        "odds": "+100"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-1400"
+       },
+       "close": {
+        "odds": "-1400"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+1900"
+       },
+       "close": {
+        "odds": "+2500"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+1000"
+       },
+       "close": {
+        "odds": "+1100"
+       }
+      }
+     },
+     "details": "RSB -1400"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915825",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T17:45Z",
+   "home": "Trabzonspor",
+   "away": "SC Freiburg",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 270
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "+125"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "+125"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-170"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-170"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "+130"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "+135"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-205"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-195"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+150"
+       },
+       "close": {
+        "odds": "+155"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+155"
+       },
+       "close": {
+        "odds": "+155"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+255"
+       },
+       "close": {
+        "odds": "+270"
+       }
+      }
+     },
+     "details": "TRAB +155"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915529",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "AZ Alkmaar",
+   "away": "Juventus",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 275
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-130"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-130"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+100"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-140"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-120"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-110"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-120"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+235"
+       },
+       "close": {
+        "odds": "+270"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+105"
+       },
+       "close": {
+        "odds": "-110"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+260"
+       },
+       "close": {
+        "odds": "+275"
+       }
+      }
+     },
+     "details": "JUV -110"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915533",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Bayer Leverkusen",
+   "away": "Marseille",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 400
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "+115"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "+110"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-155"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-145"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-1.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "-1.5",
+        "odds": "-105"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+1.5",
+        "odds": "-150"
+       },
+       "close": {
+        "line": "+1.5",
+        "odds": "-140"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-240"
+       },
+       "close": {
+        "odds": "-250"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+500"
+       },
+       "close": {
+        "odds": "+550"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+390"
+       },
+       "close": {
+        "odds": "+400"
+       }
+      }
+     },
+     "details": "B04 -250"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915525",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Benfica",
+   "away": "Lech Poznan",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 700
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "-120"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "-125"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-110"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "+100"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-2.5",
+        "odds": "+120"
+       },
+       "close": {
+        "line": "-2.5",
+        "odds": "-105"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+2.5",
+        "odds": "-185"
+       },
+       "close": {
+        "line": "+2.5",
+        "odds": "-140"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-450"
+       },
+       "close": {
+        "odds": "-600"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+950"
+       },
+       "close": {
+        "odds": "+1300"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+550"
+       },
+       "close": {
+        "odds": "+700"
+       }
+      }
+     },
+     "details": "SLB -600"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915531",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Celta Vigo",
+   "away": "Union St.-Gilloise",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 275
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-155"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-150"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+115"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+115"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-110"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-110"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-135"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-135"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+100"
+       },
+       "close": {
+        "odds": "+100"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+235"
+       },
+       "close": {
+        "odds": "+235"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+270"
+       },
+       "close": {
+        "odds": "+275"
+       }
+      }
+     },
+     "details": "CEL +100"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915522",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Celtic",
+   "away": "Besiktas",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 275
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-170"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-170"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+125"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+135"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-170"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-170"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "-0.5",
+        "odds": "+110"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "+115"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+180"
+       },
+       "close": {
+        "odds": "+185"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+125"
+       },
+       "close": {
+        "odds": "+130"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+270"
+       },
+       "close": {
+        "odds": "+275"
+       }
+      }
+     },
+     "details": "BES +130"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915532",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Hapoel Be'er",
+   "away": "OFI Crete",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 265
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-160"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-155"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+115"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+120"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-110"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "+100"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-140"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-145"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+105"
+       },
+       "close": {
+        "odds": "+110"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+235"
+       },
+       "close": {
+        "odds": "+225"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+260"
+       },
+       "close": {
+        "odds": "+265"
+       }
+      }
+     },
+     "details": "HBE +110"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915524",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "SK Sturm Graz",
+   "away": "NK Celje",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 340
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "+135"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-180"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-190"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+140"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-195"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-200"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "+125"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "+135"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-175"
+       },
+       "close": {
+        "odds": "-180"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+400"
+       },
+       "close": {
+        "odds": "+425"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+330"
+       },
+       "close": {
+        "odds": "+340"
+       }
+      }
+     },
+     "details": "STG -180"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915523",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Sunderland",
+   "away": "Dinamo Zagreb",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 380
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-175"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-160"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+125"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+125"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-1.5",
+        "odds": "+110"
+       },
+       "close": {
+        "line": "-1.5",
+        "odds": "+110"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+1.5",
+        "odds": "-165"
+       },
+       "close": {
+        "line": "+1.5",
+        "odds": "-160"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-220"
+       },
+       "close": {
+        "odds": "-230"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+500"
+       },
+       "close": {
+        "odds": "+550"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+360"
+       },
+       "close": {
+        "odds": "+380"
+       }
+      }
+     },
+     "details": "SUN -230"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915530",
+   "comp": "EL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Torreense",
+   "away": "Ararat-Armenia",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 285
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "+100"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "-125"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "-125"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-155"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-145"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "+100"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "+100"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-140"
+       },
+       "close": {
+        "odds": "-130"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+340"
+       },
+       "close": {
+        "odds": "+340"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+285"
+       },
+       "close": {
+        "odds": "+285"
+       }
+      }
+     },
+     "details": "TOR -130"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915824",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "AS Monaco",
+   "away": "FC Nordsjælland",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 400
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "+110"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "+105"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-155"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-140"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-1.5",
+        "odds": "+110"
+       },
+       "close": {
+        "line": "-1.5",
+        "odds": "-105"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+1.5",
+        "odds": "-170"
+       },
+       "close": {
+        "line": "+1.5",
+        "odds": "-140"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-205"
+       },
+       "close": {
+        "odds": "-235"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+450"
+       },
+       "close": {
+        "odds": "+550"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+360"
+       },
+       "close": {
+        "odds": "+400"
+       }
+      }
+     },
+     "details": "MON -235"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915817",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "CSU Craiova",
+   "away": "Egnatia",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 330
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-150"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-140"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+110"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+105"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-1.5",
+        "odds": "+110"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-210"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+1.5",
+        "odds": "-170"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "+140"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-235"
+       },
+       "close": {
+        "odds": "-190"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+550"
+       },
+       "close": {
+        "odds": "+475"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+360"
+       },
+       "close": {
+        "odds": "+330"
+       }
+      }
+     },
+     "details": "UCRA -190"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915740",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "F.C. København",
+   "away": "Iberia 1999",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 600
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "-105"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "+100"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-130"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-130"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-2.5",
+        "odds": "+105"
+       },
+       "close": {
+        "line": "-2.5",
+        "odds": "+120"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+2.5",
+        "odds": "-160"
+       },
+       "close": {
+        "line": "+2.5",
+        "odds": "-175"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-750"
+       },
+       "close": {
+        "odds": "-525"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+1300"
+       },
+       "close": {
+        "odds": "+1200"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+750"
+       },
+       "close": {
+        "odds": "+600"
+       }
+      }
+     },
+     "details": "KBH -525"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915823",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "FC Lugano",
+   "away": "Kauno Zalgiris",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 600
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "-120"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "-120"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-115"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-110"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-2.5",
+        "odds": "+120"
+       },
+       "close": {
+        "line": "-2.5",
+        "odds": "+125"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+2.5",
+        "odds": "-190"
+       },
+       "close": {
+        "line": "+2.5",
+        "odds": "-185"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-500"
+       },
+       "close": {
+        "odds": "-500"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+1000"
+       },
+       "close": {
+        "odds": "+1000"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+600"
+       },
+       "close": {
+        "odds": "+600"
+       }
+      }
+     },
+     "details": "LUG -500"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915822",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "FC Twente",
+   "away": "Pafos",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 3.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 475
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o3.5",
+        "odds": "+100"
+       },
+       "close": {
+        "line": "o3.5",
+        "odds": "+105"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u3.5",
+        "odds": "-140"
+       },
+       "close": {
+        "line": "u3.5",
+        "odds": "-140"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-1.5",
+        "odds": "-140"
+       },
+       "close": {
+        "line": "-1.5",
+        "odds": "-135"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+1.5",
+        "odds": "-110"
+       },
+       "close": {
+        "line": "+1.5",
+        "odds": "-110"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-330"
+       },
+       "close": {
+        "odds": "-320"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+700"
+       },
+       "close": {
+        "odds": "+750"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+450"
+       },
+       "close": {
+        "odds": "+475"
+       }
+      }
+     },
+     "details": "TWE -320"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915821",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Getafe",
+   "away": "Brighton & Hove Albion",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 295
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-110"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-110"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "-125"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "-120"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "+0.5",
+        "odds": "+115"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "+125"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "-0.5",
+        "odds": "-175"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-185"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+425"
+       },
+       "close": {
+        "odds": "+450"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "-155"
+       },
+       "close": {
+        "odds": "-170"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+275"
+       },
+       "close": {
+        "odds": "+295"
+       }
+      }
+     },
+     "details": "BHA -170"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915819",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Panathinaikos",
+   "away": "CSKA Sofia",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 330
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-160"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-155"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "+115"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "+115"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-1.5",
+        "odds": "+120"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "-200"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+1.5",
+        "odds": "-190"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "+135"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "-195"
+       },
+       "close": {
+        "odds": "-180"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+475"
+       },
+       "close": {
+        "odds": "+450"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+330"
+       },
+       "close": {
+        "odds": "+330"
+       }
+      }
+     },
+     "details": "PAO -180"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915818",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Riga FC",
+   "away": "Jablonec",
+   "referee": null,
+   "odds": [
+    {
+     "overUnder": 2.5,
+     "provider": {
+      "id": "100",
+      "name": "DraftKings",
+      "priority": 1
+     },
+     "drawOdds": {
+      "moneyLine": 240
+     },
+     "total": {
+      "displayName": "Total",
+      "shortDisplayName": "Total",
+      "over": {
+       "open": {
+        "line": "o2.5",
+        "odds": "-110"
+       },
+       "close": {
+        "line": "o2.5",
+        "odds": "-115"
+       }
+      },
+      "under": {
+       "open": {
+        "line": "u2.5",
+        "odds": "-130"
+       },
+       "close": {
+        "line": "u2.5",
+        "odds": "-115"
+       }
+      }
+     },
+     "pointSpread": {
+      "displayName": "Spread",
+      "shortDisplayName": "Spread",
+      "home": {
+       "open": {
+        "line": "-0.5",
+        "odds": "+125"
+       },
+       "close": {
+        "line": "-0.5",
+        "odds": "+120"
+       }
+      },
+      "away": {
+       "open": {
+        "line": "+0.5",
+        "odds": "-190"
+       },
+       "close": {
+        "line": "+0.5",
+        "odds": "-180"
+       }
+      }
+     },
+     "moneyline": {
+      "displayName": "Moneyline",
+      "shortDisplayName": "ML",
+      "home": {
+       "open": {
+        "odds": "+140"
+       },
+       "close": {
+        "odds": "+135"
+       }
+      },
+      "away": {
+       "open": {
+        "odds": "+195"
+       },
+       "close": {
+        "odds": "+195"
+       }
+      },
+      "draw": {
+       "open": {
+        "odds": "+225"
+       },
+       "close": {
+        "odds": "+240"
+       }
+      }
+     },
+     "details": "RIG +135"
+    }
+   ],
+   "round": "league-phase"
+  },
+  {
+   "id": "401915820",
+   "comp": "UECL",
+   "kickoff_utc": "2026-11-05T20:00Z",
+   "home": "Sint-Truidense",
+   "away": "SK Brann",
+   "referee": null,
+   "odds": null,
    "round": "league-phase"
   }
  ]
