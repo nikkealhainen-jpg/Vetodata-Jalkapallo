@@ -9945,5 +9945,169 @@
     false
    ]
   ]
+ },
+ "401915551": {
+  "id": "401915551",
+  "comp": "EL",
+  "date": "2026-11-04",
+  "home": "Stade Rennais",
+  "away": "Olympiacos",
+  "hg": 0,
+  "ag": 0,
+  "round": "league-phase",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 15,
+  "corners_h": 3,
+  "shots_h": 9,
+  "sot_h": 4,
+  "poss_h": 42,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 4,
+  "saves_h": 3,
+  "fouls_a": 11,
+  "corners_a": 3,
+  "shots_a": 12,
+  "sot_a": 3,
+  "poss_a": 58,
+  "yellow_a": 0,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 4,
+  "cards": 1,
+  "card_events": [
+   [
+    "Valentin Rongier",
+    "home",
+    "yellow",
+    "88'"
+   ]
+  ],
+  "cards_src": "events",
+  "staff_cards": 1,
+  "referee": null,
+  "shooters": [
+   [
+    "Mousa Al-Tamari",
+    "home",
+    3.0,
+    2.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Valentin Rongier",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Gustavo Puerta",
+    "away",
+    2.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Kostas Fortounis",
+    "away",
+    2.0,
+    0.0,
+    "LF",
+    true
+   ],
+   [
+    "Gelson Martins",
+    "away",
+    2.0,
+    2.0,
+    "SUB",
+    false
+   ],
+   [
+    "Charlie Cresswell",
+    "home",
+    1.0,
+    1.0,
+    "CD",
+    true
+   ],
+   [
+    "Anthony Rouault",
+    "home",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Bryan Reynolds",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Sebastian Szymanski",
+    "home",
+    1.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Panagiotis Retsos",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Manolis Saliakas",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Gustavo Sá",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Armando González",
+    "away",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Leon Bailey",
+    "away",
+    1.0,
+    1.0,
+    "RF",
+    true
+   ],
+   [
+    "Roman Yaremchuk",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
  }
 }
