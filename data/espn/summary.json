@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06T05:24:36+00:00",
+ "updated_utc": "2026-11-06T22:43:16+00:00",
  "season": "2026/27 (ESPN, from 2026-07-01)",
  "by_comp": {
   "CL": {
@@ -51,20 +51,20 @@
    "sot_avg": 9.54
   },
   "PL": {
-   "n": 90,
-   "goals_avg": 2.7,
-   "over2.5": 0.467,
-   "over3.5": 0.3,
-   "btts": 0.478,
-   "cards_n": 90,
-   "cards_avg": 4.21,
-   "cards_u3.5": 0.4,
-   "cards_u4.5": 0.578,
-   "cards_u5.5": 0.722,
-   "fouls_avg": 23.27,
-   "corners_avg": 9.63,
-   "shots_avg": 27.36,
-   "sot_avg": 8.39
+   "n": 91,
+   "goals_avg": 2.71,
+   "over2.5": 0.473,
+   "over3.5": 0.308,
+   "btts": 0.484,
+   "cards_n": 91,
+   "cards_avg": 4.19,
+   "cards_u3.5": 0.407,
+   "cards_u4.5": 0.582,
+   "cards_u5.5": 0.725,
+   "fouls_avg": 23.18,
+   "corners_avg": 9.57,
+   "shots_avg": 27.4,
+   "sot_avg": 8.42
   }
  },
  "referees": {

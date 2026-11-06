@@ -16299,5 +16299,182 @@
     true
    ]
   ]
+ },
+ "401879242": {
+  "id": "401879242",
+  "comp": "PL",
+  "date": "2026-11-06",
+  "home": "Everton",
+  "away": "Coventry City",
+  "hg": 3,
+  "ag": 1,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 9,
+  "corners_h": 2,
+  "shots_h": 16,
+  "sot_h": 7,
+  "poss_h": 49.8,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 3,
+  "fouls_a": 6,
+  "corners_a": 2,
+  "shots_a": 15,
+  "sot_a": 4,
+  "poss_a": 50.2,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 4,
+  "cards": 2,
+  "card_events": [
+   [
+    "Jarrad Branthwaite",
+    "home",
+    "yellow",
+    "88'"
+   ],
+   [
+    "Caleb Yirenkyi",
+    "away",
+    "yellow",
+    "88'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Thierno Barry",
+    "home",
+    6.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Kiernan Dewsbury-Hall",
+    "home",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Tyrique George",
+    "home",
+    3.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Jack Rudoni",
+    "away",
+    3.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Victor Torp",
+    "away",
+    3.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Yann Gboho",
+    "away",
+    3.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Vitaliy Mykolenko",
+    "home",
+    1.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Harrison Armstrong",
+    "home",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Tyler Dibling",
+    "home",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Hayden Hackney",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Stephen Mfuni",
+    "away",
+    1.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Jay Da Silva",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Taiwo Awoniyi",
+    "away",
+    1.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Tatsuhiro Sakamoto",
+    "away",
+    1.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Loum Tchaouna",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Brandon Thomas-Asante",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
  }
 }
