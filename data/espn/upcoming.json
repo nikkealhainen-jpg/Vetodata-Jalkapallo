@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-19T05:28:21+00:00",
+ "updated_utc": "2026-11-19T22:53:27+00:00",
  "matches": [
   {
    "id": "401879233",
@@ -54,7 +54,7 @@
        },
        "close": {
         "line": "-1.5",
-        "odds": "+100"
+        "odds": "-105"
        }
       },
       "away": {
@@ -64,7 +64,7 @@
        },
        "close": {
         "line": "+1.5",
-        "odds": "-140"
+        "odds": "-135"
        }
       }
      },
@@ -76,7 +76,7 @@
         "odds": "-250"
        },
        "close": {
-        "odds": "-250"
+        "odds": "-260"
        }
       },
       "away": {
@@ -84,7 +84,7 @@
         "odds": "+550"
        },
        "close": {
-        "odds": "+600"
+        "odds": "+650"
        }
       },
       "draw": {
@@ -96,7 +96,7 @@
        }
       }
      },
-     "details": "MNC -250"
+     "details": "MNC -260"
     }
    ],
    "round": "2026-27-english-premier-league"
@@ -216,7 +216,7 @@
       "priority": 1
      },
      "drawOdds": {
-      "moneyLine": 280
+      "moneyLine": 285
      },
      "total": {
       "displayName": "Total",
@@ -228,7 +228,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-135"
+        "odds": "-130"
        }
       },
       "under": {
@@ -252,7 +252,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-135"
+        "odds": "-140"
        }
       },
       "away": {
@@ -262,7 +262,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-105"
+        "odds": "+100"
        }
       }
      },
@@ -274,7 +274,7 @@
         "odds": "-135"
        },
        "close": {
-        "odds": "-120"
+        "odds": "-125"
        }
       },
       "away": {
@@ -282,7 +282,7 @@
         "odds": "+330"
        },
        "close": {
-        "odds": "+320"
+        "odds": "+340"
        }
       },
       "draw": {
@@ -290,11 +290,11 @@
         "odds": "+280"
        },
        "close": {
-        "odds": "+280"
+        "odds": "+285"
        }
       }
      },
-     "details": "AVL -120"
+     "details": "AVL -125"
     }
    ],
    "round": "2026-27-english-premier-league"
@@ -327,7 +327,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-130"
+        "odds": "-125"
        }
       },
       "under": {
@@ -337,7 +337,7 @@
        },
        "close": {
         "line": "u2.5",
-        "odds": "+105"
+        "odds": "+100"
        }
       }
      },
@@ -351,7 +351,7 @@
        },
        "close": {
         "line": "-0.5",
-        "odds": "-125"
+        "odds": "-120"
        }
       },
       "away": {
@@ -361,7 +361,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "-110"
+        "odds": "-115"
        }
       }
      },
@@ -436,7 +436,7 @@
        },
        "close": {
         "line": "u2.5",
-        "odds": "+120"
+        "odds": "+115"
        }
       }
      },
@@ -525,7 +525,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-170"
+        "odds": "-175"
        }
       },
       "under": {
@@ -724,7 +724,7 @@
        },
        "close": {
         "line": "o2.5",
-        "odds": "-155"
+        "odds": "-150"
        }
       },
       "under": {
@@ -758,7 +758,7 @@
        },
        "close": {
         "line": "-1.5",
-        "odds": "+125"
+        "odds": "+130"
        }
       }
      },
@@ -778,7 +778,7 @@
         "odds": "-190"
        },
        "close": {
-        "odds": "-205"
+        "odds": "-200"
        }
       },
       "draw": {
@@ -790,7 +790,7 @@
        }
       }
      },
-     "details": "BHA -205"
+     "details": "BHA -200"
     }
    ],
    "round": "2026-27-english-premier-league"
@@ -833,7 +833,7 @@
        },
        "close": {
         "line": "u3.5",
-        "odds": "-150"
+        "odds": "-145"
        }
       }
      },
@@ -857,7 +857,7 @@
        },
        "close": {
         "line": "+0.5",
-        "odds": "+100"
+        "odds": "+105"
        }
       }
      },
@@ -869,7 +869,7 @@
         "odds": "-125"
        },
        "close": {
-        "odds": "-135"
+        "odds": "-130"
        }
       },
       "away": {
@@ -877,7 +877,7 @@
         "odds": "+290"
        },
        "close": {
-        "odds": "+300"
+        "odds": "+310"
        }
       },
       "draw": {
@@ -889,7 +889,7 @@
        }
       }
      },
-     "details": "LIV -135"
+     "details": "LIV -130"
     }
    ],
    "round": "2026-27-english-premier-league"
