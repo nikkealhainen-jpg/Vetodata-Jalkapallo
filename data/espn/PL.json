@@ -19451,5 +19451,359 @@
     false
    ]
   ]
+ },
+ "401878755": {
+  "id": "401878755",
+  "comp": "PL",
+  "date": "2026-11-22",
+  "home": "Liverpool",
+  "away": "Manchester United",
+  "hg": 4,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 15,
+  "corners_h": 15,
+  "shots_h": 28,
+  "sot_h": 11,
+  "poss_h": 63.8,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 4,
+  "fouls_a": 7,
+  "corners_a": 5,
+  "shots_a": 10,
+  "sot_a": 3,
+  "poss_a": 36.2,
+  "yellow_a": 0,
+  "red_a": 1,
+  "offsides_a": 2,
+  "saves_a": 7,
+  "cards": 2,
+  "card_events": [
+   [
+    "Leny Yoro",
+    "away",
+    "red",
+    "8'"
+   ],
+   [
+    "Bradley Barcola",
+    "home",
+    "yellow",
+    "62'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Dominik Szoboszlai",
+    "home",
+    7.0,
+    3.0,
+    "RM",
+    true
+   ],
+   [
+    "Alexander Isak",
+    "home",
+    6.0,
+    3.0,
+    "F",
+    true
+   ],
+   [
+    "Rio Ngumoha",
+    "home",
+    4.0,
+    1.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Bruno Fernandes",
+    "away",
+    4.0,
+    3.0,
+    "AM",
+    true
+   ],
+   [
+    "Bradley Barcola",
+    "home",
+    3.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Virgil van Dijk",
+    "home",
+    2.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Florian Wirtz",
+    "home",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Alexis Mac Allister",
+    "home",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Joshua Zirkzee",
+    "away",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Víctor Muñoz",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Trey Nyoni",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Matthijs de Ligt",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Kobbie Mainoo",
+    "away",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Youri Tielemans",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Harry Maguire",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401879234": {
+  "id": "401879234",
+  "comp": "PL",
+  "date": "2026-11-22",
+  "home": "Hull City",
+  "away": "Brighton & Hove Albion",
+  "hg": 2,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 7,
+  "corners_h": 3,
+  "shots_h": 11,
+  "sot_h": 5,
+  "poss_h": 29.8,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 7,
+  "fouls_a": 17,
+  "corners_a": 5,
+  "shots_a": 15,
+  "sot_a": 8,
+  "poss_a": 70.2,
+  "yellow_a": 2,
+  "red_a": 1,
+  "offsides_a": 1,
+  "saves_a": 3,
+  "cards": 6,
+  "card_events": [
+   [
+    "Luka Vuskovic",
+    "away",
+    "yellow",
+    "34'"
+   ],
+   [
+    "Nobel Mendy",
+    "home",
+    "yellow",
+    "37'"
+   ],
+   [
+    "Lucas Gourna-Douath",
+    "home",
+    "yellow",
+    "59'"
+   ],
+   [
+    "Costinha",
+    "away",
+    "yellow",
+    "63'"
+   ],
+   [
+    "Chema Andrés",
+    "away",
+    "yellow",
+    "81'"
+   ],
+   [
+    "Costinha",
+    "away",
+    "red",
+    "89'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Georginio Rutter",
+    "away",
+    4.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Diego Gómez",
+    "away",
+    4.0,
+    2.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Mohamed Belloumi",
+    "home",
+    3.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Nobel Mendy",
+    "home",
+    2.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Oliver McBurnie",
+    "home",
+    2.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Costinha",
+    "away",
+    2.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Yasin Ayari",
+    "away",
+    2.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Matt Crooks",
+    "home",
+    1.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Regan Slater",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Mohamed-Ali Cho",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Jens Hjerto Dahl",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Lewis Dunk",
+    "away",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Pascal Gross",
+    "away",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Charalambos Kostoulas",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
  }
 }
