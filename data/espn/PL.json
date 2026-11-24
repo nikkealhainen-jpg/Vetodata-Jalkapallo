@@ -19805,5 +19805,158 @@
     false
    ]
   ]
+ },
+ "401879237": {
+  "id": "401879237",
+  "comp": "PL",
+  "date": "2026-11-23",
+  "home": "Brentford",
+  "away": "Everton",
+  "hg": 4,
+  "ag": 0,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 8,
+  "corners_h": 6,
+  "shots_h": 21,
+  "sot_h": 7,
+  "poss_h": 72.1,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 2,
+  "fouls_a": 9,
+  "corners_a": 3,
+  "shots_a": 4,
+  "sot_a": 2,
+  "poss_a": 27.9,
+  "yellow_a": 1,
+  "red_a": 1,
+  "offsides_a": 0,
+  "saves_a": 3,
+  "cards": 2,
+  "card_events": [
+   [
+    "Vitaliy Mykolenko",
+    "away",
+    "yellow",
+    "24'"
+   ],
+   [
+    "James Tarkowski",
+    "away",
+    "red",
+    "40'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Keane Lewis-Potter",
+    "home",
+    7.0,
+    2.0,
+    "LB",
+    true
+   ],
+   [
+    "Michael Kayode",
+    "home",
+    2.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Mikkel Damsgaard",
+    "home",
+    2.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Callum Wilson",
+    "home",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Dango Ouattara",
+    "home",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Kevin Schade",
+    "home",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Fábio Carvalho",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Vitaly Janelt",
+    "home",
+    1.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Jaidon Anthony",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Kiernan Dewsbury-Hall",
+    "away",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Harrison Armstrong",
+    "away",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Thierno Barry",
+    "away",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Brennan Johnson",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
  }
 }
