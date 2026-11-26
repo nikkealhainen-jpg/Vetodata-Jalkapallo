@@ -14621,5 +14621,1555 @@
     false
    ]
   ]
+ },
+ "401915291": {
+  "id": "401915291",
+  "comp": "CL",
+  "date": "2026-11-25",
+  "home": "Atlético Madrid",
+  "away": "Viking FK",
+  "hg": 2,
+  "ag": 0,
+  "round": "league-phase",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 7,
+  "corners_h": 6,
+  "shots_h": 20,
+  "sot_h": 9,
+  "poss_h": 48.4,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 2,
+  "saves_h": 1,
+  "fouls_a": 9,
+  "corners_a": 1,
+  "shots_a": 9,
+  "sot_a": 1,
+  "poss_a": 51.6,
+  "yellow_a": 1,
+  "red_a": 1,
+  "offsides_a": 1,
+  "saves_a": 7,
+  "cards": 2,
+  "card_events": [
+   [
+    "Gianni Stensness",
+    "away",
+    "yellow",
+    "46'"
+   ],
+   [
+    "Henrik Falchener",
+    "away",
+    "red",
+    "90'+1'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Johnny Cardoso",
+    "home",
+    3.0,
+    2.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Álex Baena",
+    "home",
+    3.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Alexander Sørloth",
+    "home",
+    3.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Zlatko Tripic",
+    "away",
+    3.0,
+    0.0,
+    "LF",
+    true
+   ],
+   [
+    "Alejandro Grimaldo",
+    "home",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Lee Kang-In",
+    "home",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Julián Álvarez",
+    "home",
+    2.0,
+    2.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Erik Botheim",
+    "away",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Dávid Hancko",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Koke",
+    "home",
+    1.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Jonathan David",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Giuliano Simeone",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Rodrigo Mendoza",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Herman Haugen",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Tobias Moi",
+    "away",
+    1.0,
+    0.0,
+    "CM",
+    true
+   ],
+   [
+    "Kristoffer Askildsen",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Amin Cosic",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401915292": {
+  "id": "401915292",
+  "comp": "CL",
+  "date": "2026-11-25",
+  "home": "Club Brugge",
+  "away": "Liverpool",
+  "hg": 0,
+  "ag": 3,
+  "round": "league-phase",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 9,
+  "corners_h": 8,
+  "shots_h": 17,
+  "sot_h": 5,
+  "poss_h": 53.5,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 1,
+  "fouls_a": 13,
+  "corners_a": 4,
+  "shots_a": 13,
+  "sot_a": 4,
+  "poss_a": 46.5,
+  "yellow_a": 0,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 5,
+  "cards": 0,
+  "cards_src": "teamstats(approx)",
+  "referee": null,
+  "shooters": [
+   [
+    "Nicolo Tresoldi",
+    "home",
+    5.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Alexander Isak",
+    "away",
+    5.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Felix Lemarechal",
+    "home",
+    3.0,
+    2.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Bradley Barcola",
+    "away",
+    2.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Víctor Muñoz",
+    "away",
+    2.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Brandon Mechele",
+    "home",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Joaquin Seys",
+    "home",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Kyriani Sabbe",
+    "home",
+    1.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Hugo Vetlesen",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Freddie Potts",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Carlos Forbs",
+    "home",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Romeo Vermant",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Mamadou Diakhon",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Cheveyo Tsawa",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Milos Kerkez",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Florian Wirtz",
+    "away",
+    1.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Dominik Szoboszlai",
+    "away",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Rio Ngumoha",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401915293": {
+  "id": "401915293",
+  "comp": "CL",
+  "date": "2026-11-25",
+  "home": "Slavia Prague",
+  "away": "Villarreal",
+  "hg": 0,
+  "ag": 1,
+  "round": "league-phase",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 12,
+  "corners_h": 13,
+  "shots_h": 13,
+  "sot_h": 1,
+  "poss_h": 51.9,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 3,
+  "saves_h": 4,
+  "fouls_a": 15,
+  "corners_a": 0,
+  "shots_a": 7,
+  "sot_a": 5,
+  "poss_a": 48.1,
+  "yellow_a": 4,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 1,
+  "cards": 6,
+  "card_events": [
+   [
+    "Michal Sadílek",
+    "home",
+    "yellow",
+    "4'"
+   ],
+   [
+    "Sergi Cardona",
+    "away",
+    "yellow",
+    "12'"
+   ],
+   [
+    "Ange N'Guessan",
+    "home",
+    "yellow",
+    "29'"
+   ],
+   [
+    "Renato Veiga",
+    "away",
+    "yellow",
+    "45'+2'"
+   ],
+   [
+    "Tajon Buchanan",
+    "away",
+    "yellow",
+    "90'+3'"
+   ],
+   [
+    "Carlos Romero",
+    "away",
+    "yellow",
+    "90'+4'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Mojmír Chytil",
+    "home",
+    3.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Tajon Buchanan",
+    "away",
+    3.0,
+    2.0,
+    "RM",
+    true
+   ],
+   [
+    "Tomás Holes",
+    "home",
+    2.0,
+    0.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Emmanuel Dennis Ayaosi",
+    "home",
+    2.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "David Zima",
+    "home",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Wiktor Nowak",
+    "home",
+    1.0,
+    1.0,
+    "CM-L",
+    true
+   ],
+   [
+    "David Jurásek",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Mubarak Suleiman",
+    "home",
+    1.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Oskar Kubiak",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Pavel Kacor",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Sergi Cardona",
+    "away",
+    1.0,
+    0.0,
+    "LB",
+    true
+   ],
+   [
+    "Santiago Mouriño",
+    "away",
+    1.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Tani Oluwaseyi",
+    "away",
+    1.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Georges Mikautadze",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401915373": {
+  "id": "401915373",
+  "comp": "CL",
+  "date": "2026-11-25",
+  "home": "Sporting CP",
+  "away": "Manchester United",
+  "hg": 2,
+  "ag": 2,
+  "round": "league-phase",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 18,
+  "corners_h": 3,
+  "shots_h": 11,
+  "sot_h": 4,
+  "poss_h": 50.8,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 0,
+  "fouls_a": 13,
+  "corners_a": 2,
+  "shots_a": 7,
+  "sot_a": 2,
+  "poss_a": 49.2,
+  "yellow_a": 1,
+  "red_a": 1,
+  "offsides_a": 6,
+  "saves_a": 2,
+  "cards": 5,
+  "card_events": [
+   [
+    "Senne Lammens",
+    "away",
+    "yellow",
+    "31'"
+   ],
+   [
+    "Youri Tielemans",
+    "away",
+    "yellow",
+    "40'"
+   ],
+   [
+    "Eduardo Quaresma",
+    "home",
+    "yellow",
+    "53'"
+   ],
+   [
+    "Nestory Irankunda",
+    "home",
+    "yellow",
+    "87'"
+   ],
+   [
+    "Youri Tielemans",
+    "away",
+    "red",
+    "90'+3'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Luis Suárez",
+    "home",
+    3.0,
+    3.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Bruno Fernandes",
+    "away",
+    3.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Sergi Altimira",
+    "home",
+    2.0,
+    1.0,
+    "SW",
+    true
+   ],
+   [
+    "Maxi Araújo",
+    "home",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Joshua Zirkzee",
+    "away",
+    2.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Nestory Irankunda",
+    "home",
+    1.0,
+    0.0,
+    null,
+    false
+   ],
+   [
+    "Issa Doumbia",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Geny Catamo",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Luis Guilherme",
+    "home",
+    1.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Amad Diallo",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Diogo Dalot",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401915374": {
+  "id": "401915374",
+  "comp": "CL",
+  "date": "2026-11-25",
+  "home": "Paris Saint-Germain",
+  "away": "AS Roma",
+  "hg": 2,
+  "ag": 2,
+  "round": "league-phase",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 5,
+  "corners_h": 3,
+  "shots_h": 15,
+  "sot_h": 4,
+  "poss_h": 66,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 2,
+  "fouls_a": 18,
+  "corners_a": 4,
+  "shots_a": 13,
+  "sot_a": 4,
+  "poss_a": 34,
+  "yellow_a": 2,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 2,
+  "cards": 2,
+  "card_events": [
+   [
+    "Gianluca Mancini",
+    "away",
+    "yellow",
+    "41'"
+   ],
+   [
+    "Wesley",
+    "away",
+    "yellow",
+    "60'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Mario Hermoso",
+    "away",
+    5.0,
+    2.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Nuno Mendes",
+    "home",
+    3.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Ousmane Dembélé",
+    "home",
+    3.0,
+    2.0,
+    "SUB",
+    false
+   ],
+   [
+    "Vitinha",
+    "home",
+    2.0,
+    0.0,
+    "CM",
+    true
+   ],
+   [
+    "Fabián Ruiz",
+    "home",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Matìas Soulè",
+    "away",
+    2.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Illia Zabarnyi",
+    "home",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Achraf Hakimi",
+    "home",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "João Neves",
+    "home",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Senny Mayulu",
+    "home",
+    1.0,
+    0.0,
+    "LF",
+    true
+   ],
+   [
+    "Maghnes Akliouche",
+    "home",
+    1.0,
+    0.0,
+    "RF",
+    true
+   ],
+   [
+    "Evan Ndicka",
+    "away",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Manu Koné",
+    "away",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Nahuel Molina",
+    "away",
+    1.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "Niccolò Pisilli",
+    "away",
+    1.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Paulo Dybala",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Donyell Malen",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401915375": {
+  "id": "401915375",
+  "comp": "CL",
+  "date": "2026-11-25",
+  "home": "Shakhtar Donetsk",
+  "away": "Fenerbahce",
+  "hg": 0,
+  "ag": 1,
+  "round": "league-phase",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 12,
+  "corners_h": 3,
+  "shots_h": 8,
+  "sot_h": 2,
+  "poss_h": 54.2,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 4,
+  "fouls_a": 14,
+  "corners_a": 5,
+  "shots_a": 13,
+  "sot_a": 5,
+  "poss_a": 45.8,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 2,
+  "cards": 3,
+  "card_events": [
+   [
+    "Ismail Yüksek",
+    "away",
+    "yellow",
+    "53'"
+   ],
+   [
+    "Valeriy Bondar",
+    "home",
+    "yellow",
+    "69'"
+   ],
+   [
+    "Pedrinho",
+    "home",
+    "yellow",
+    "73'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Vedat Muriqi",
+    "away",
+    6.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Yehor Nazaryna",
+    "home",
+    3.0,
+    1.0,
+    "DM",
+    true
+   ],
+   [
+    "Alisson Santana",
+    "home",
+    3.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Mason Greenwood",
+    "away",
+    3.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Newertton",
+    "home",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Nélson Semedo",
+    "away",
+    1.0,
+    0.0,
+    "RB",
+    true
+   ],
+   [
+    "Oguz Aydin",
+    "away",
+    1.0,
+    1.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Romelu Lukaku",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Irfan Can Kahveci",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401915376": {
+  "id": "401915376",
+  "comp": "CL",
+  "date": "2026-11-25",
+  "home": "Internazionale",
+  "away": "VfB Stuttgart",
+  "hg": 2,
+  "ag": 0,
+  "round": "league-phase",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 9,
+  "corners_h": 11,
+  "shots_h": 20,
+  "sot_h": 5,
+  "poss_h": 50.8,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 1,
+  "fouls_a": 10,
+  "corners_a": 6,
+  "shots_a": 13,
+  "sot_a": 2,
+  "poss_a": 49.2,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 1,
+  "saves_a": 3,
+  "cards": 3,
+  "card_events": [
+   [
+    "Marcus Thuram",
+    "home",
+    "yellow",
+    "13'"
+   ],
+   [
+    "Finn Jeltsch",
+    "away",
+    "yellow",
+    "48'"
+   ],
+   [
+    "Manuel Akanji",
+    "home",
+    "yellow",
+    "78'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Ermedin Demirovic",
+    "away",
+    4.0,
+    0.0,
+    "F",
+    true
+   ],
+   [
+    "Yann Bisseck",
+    "home",
+    3.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Petar Sucic",
+    "home",
+    3.0,
+    1.0,
+    "AM",
+    true
+   ],
+   [
+    "Marcus Thuram",
+    "home",
+    3.0,
+    0.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Lautaro Martínez",
+    "home",
+    3.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Pio Esposito",
+    "home",
+    2.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Nikolas Nartey",
+    "away",
+    2.0,
+    1.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Maximilian Mittelstädt",
+    "away",
+    2.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Manuel Akanji",
+    "home",
+    1.0,
+    0.0,
+    "CD",
+    true
+   ],
+   [
+    "Henrikh Mkhitaryan",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Nicolò Barella",
+    "home",
+    1.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Djed Spence",
+    "home",
+    1.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Aleksandar Stankovic",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Federico Dimarco",
+    "home",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Ramon Hendriks",
+    "away",
+    1.0,
+    0.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Chris Führich",
+    "away",
+    1.0,
+    1.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Bilal El Khannouss",
+    "away",
+    1.0,
+    0.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Tiago Tomás",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Jamie Leweling",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401915377": {
+  "id": "401915377",
+  "comp": "CL",
+  "date": "2026-11-25",
+  "home": "Lille",
+  "away": "Bayern Munich",
+  "hg": 2,
+  "ag": 1,
+  "round": "league-phase",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 2,
+  "corners_h": 3,
+  "shots_h": 15,
+  "sot_h": 3,
+  "poss_h": 35.2,
+  "yellow_h": 0,
+  "red_h": 0,
+  "offsides_h": 0,
+  "saves_h": 7,
+  "fouls_a": 11,
+  "corners_a": 4,
+  "shots_a": 12,
+  "sot_a": 7,
+  "poss_a": 64.8,
+  "yellow_a": 1,
+  "red_a": 0,
+  "offsides_a": 4,
+  "saves_a": 2,
+  "cards": 1,
+  "card_events": [
+   [
+    "Konrad Laimer",
+    "away",
+    "yellow",
+    "53'"
+   ]
+  ],
+  "cards_src": "events",
+  "staff_cards": 1,
+  "referee": null,
+  "shooters": [
+   [
+    "Ayase Ueda",
+    "home",
+    4.0,
+    2.0,
+    "F",
+    true
+   ],
+   [
+    "Ethan Mbappé",
+    "home",
+    3.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Ngal'ayel Mukau",
+    "home",
+    2.0,
+    0.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Soriba Diaoune",
+    "home",
+    2.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Dayot Upamecano",
+    "away",
+    2.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Hiroki Ito",
+    "away",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Aleksandar Pavlovic",
+    "away",
+    2.0,
+    2.0,
+    "AM",
+    true
+   ],
+   [
+    "Tom Bischof",
+    "away",
+    2.0,
+    2.0,
+    "LM",
+    true
+   ],
+   [
+    "Konrad Laimer",
+    "away",
+    2.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Nabil Bentaleb",
+    "home",
+    1.0,
+    0.0,
+    "DM",
+    true
+   ],
+   [
+    "Benjamin André",
+    "home",
+    1.0,
+    0.0,
+    "CM-L",
+    true
+   ],
+   [
+    "Hákon Haraldsson",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Romain Perraud",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "Lennart Karl",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Jamal Musiala",
+    "away",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ]
+  ]
+ },
+ "401915378": {
+  "id": "401915378",
+  "comp": "CL",
+  "date": "2026-11-25",
+  "home": "Sabah FK",
+  "away": "Barcelona",
+  "hg": 1,
+  "ag": 4,
+  "round": "league-phase",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 9,
+  "corners_h": 4,
+  "shots_h": 8,
+  "sot_h": 3,
+  "poss_h": 28.6,
+  "yellow_h": 1,
+  "red_h": 0,
+  "offsides_h": 4,
+  "saves_h": 9,
+  "fouls_a": 8,
+  "corners_a": 6,
+  "shots_a": 25,
+  "sot_a": 14,
+  "poss_a": 71.4,
+  "yellow_a": 0,
+  "red_a": 0,
+  "offsides_a": 2,
+  "saves_a": 2,
+  "cards": 1,
+  "card_events": [
+   [
+    "Ivan Lepinjica",
+    "home",
+    "yellow",
+    "69'"
+   ]
+  ],
+  "cards_src": "events",
+  "referee": null,
+  "shooters": [
+   [
+    "Gabriel Jesus",
+    "away",
+    7.0,
+    4.0,
+    "F",
+    true
+   ],
+   [
+    "Anthony Gordon",
+    "away",
+    5.0,
+    3.0,
+    "LF",
+    true
+   ],
+   [
+    "Karim Adeyemi",
+    "away",
+    4.0,
+    2.0,
+    "RF",
+    true
+   ],
+   [
+    "Joy-Lance Mickels",
+    "home",
+    2.0,
+    1.0,
+    "SUB",
+    false
+   ],
+   [
+    "Alejandro Balde",
+    "away",
+    2.0,
+    1.0,
+    "LB",
+    true
+   ],
+   [
+    "Jules Koundé",
+    "away",
+    2.0,
+    1.0,
+    "RB",
+    true
+   ],
+   [
+    "Pedri",
+    "away",
+    2.0,
+    1.0,
+    "LM",
+    true
+   ],
+   [
+    "Fermín López",
+    "away",
+    2.0,
+    1.0,
+    "RM",
+    true
+   ],
+   [
+    "Steve Solvet",
+    "home",
+    1.0,
+    1.0,
+    "CD-R",
+    true
+   ],
+   [
+    "Du Queiroz",
+    "home",
+    1.0,
+    0.0,
+    "AM",
+    true
+   ],
+   [
+    "Ivan Lepinjica",
+    "home",
+    1.0,
+    0.0,
+    "LM",
+    true
+   ],
+   [
+    "Khayal Aliyev",
+    "home",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Christian Nwachukwu",
+    "home",
+    1.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Tellur Mutallimov",
+    "home",
+    1.0,
+    0.0,
+    "SUB",
+    false
+   ],
+   [
+    "João Cancelo",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
  }
 }
