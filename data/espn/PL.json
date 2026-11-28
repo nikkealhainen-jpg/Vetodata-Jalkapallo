@@ -19958,5 +19958,153 @@
     false
    ]
   ]
+ },
+ "401879225": {
+  "id": "401879225",
+  "comp": "PL",
+  "date": "2026-11-27",
+  "home": "Nottingham Forest",
+  "away": "Chelsea",
+  "hg": 3,
+  "ag": 2,
+  "round": "2026-27-english-premier-league",
+  "src": "espn",
+  "v": 3,
+  "fouls_h": 15,
+  "corners_h": 1,
+  "shots_h": 10,
+  "sot_h": 7,
+  "poss_h": 35.2,
+  "yellow_h": 2,
+  "red_h": 0,
+  "offsides_h": 1,
+  "saves_h": 1,
+  "fouls_a": 11,
+  "corners_a": 2,
+  "shots_a": 9,
+  "sot_a": 3,
+  "poss_a": 64.8,
+  "yellow_a": 3,
+  "red_a": 0,
+  "offsides_a": 0,
+  "saves_a": 4,
+  "cards": 5,
+  "card_events": [
+   [
+    "Wesley Fofana",
+    "away",
+    "yellow",
+    "49'"
+   ],
+   [
+    "Jordan Henderson",
+    "away",
+    "yellow",
+    "61'"
+   ],
+   [
+    "Pedro Neto",
+    "away",
+    "yellow",
+    "71'"
+   ],
+   [
+    "Liam Delap",
+    "home",
+    "yellow",
+    "80'"
+   ],
+   [
+    "Ibrahim Sangaré",
+    "home",
+    "yellow",
+    "90'+3'"
+   ]
+  ],
+  "cards_src": "events",
+  "staff_cards": 1,
+  "referee": null,
+  "shooters": [
+   [
+    "Morgan Gibbs-White",
+    "home",
+    5.0,
+    2.0,
+    "CF-L",
+    true
+   ],
+   [
+    "Romeo Lavia",
+    "away",
+    3.0,
+    0.0,
+    "RM",
+    true
+   ],
+   [
+    "James McAtee",
+    "home",
+    2.0,
+    2.0,
+    "CM-R",
+    true
+   ],
+   [
+    "Morgan Rogers",
+    "away",
+    2.0,
+    0.0,
+    "AM-L",
+    true
+   ],
+   [
+    "Emmanuel Emegha",
+    "away",
+    2.0,
+    2.0,
+    "SUB",
+    false
+   ],
+   [
+    "Murillo",
+    "home",
+    1.0,
+    1.0,
+    "CD-L",
+    true
+   ],
+   [
+    "Liam Delap",
+    "home",
+    1.0,
+    1.0,
+    "F",
+    true
+   ],
+   [
+    "Igor Jesus",
+    "home",
+    1.0,
+    1.0,
+    "CF-R",
+    true
+   ],
+   [
+    "Pedro Neto",
+    "away",
+    1.0,
+    0.0,
+    "AM-R",
+    true
+   ],
+   [
+    "Geovany Quenda",
+    "away",
+    1.0,
+    1.0,
+    "SUB",
+    false
+   ]
+  ]
  }
 }
